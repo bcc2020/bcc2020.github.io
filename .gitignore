@@ -11,3 +11,9 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+### Jekyll stuff
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
