@@ -10,21 +10,21 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "BCC2020"
+email: "replaceme@gdg.org.ua"
+description: " The 2020 Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference 2019 (BOSC2019) are meeting together in Toronto, Ontario, Canada, June 25-30, 2018.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  GCCBOSC is organized by Oregon Health & Science University and will be at someplace in Toronto."
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: ""
+organizerAlternateName: ""
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
