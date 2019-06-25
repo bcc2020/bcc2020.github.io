@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "CollaborationFest"}
  - {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/submit/", text: "Submit an abstract"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/submit/", text: "Submit an abstract"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "July 18-21, 2020"
 typeoutTextValues: '"", "for Galaxy", "for Open Source"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit an abstract"}
+ - {link: "/submit/", text: "Submit an abstract"}
  - {permalink: "/#tickets", text: "Registration"}
 
 # About Block
