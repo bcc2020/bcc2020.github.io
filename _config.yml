@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Bioinformatics Community Conference <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "Bioinformatics Community Conference<br> <typeout> 2020"
+eventDate: "July 17-21, 2020"
 typeoutTextValues: '"", "for Galaxy", "for Open Source"'
 typeoutFallback: "Season"
 heroButtons:
