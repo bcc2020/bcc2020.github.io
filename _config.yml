@@ -43,12 +43,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/about/", text: "About BCC"}
+ - {permalink: "/submit/", text: "Submit"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/location/", text: "Location"}
+ - {permalink: "/hackathon/", text: "CollaborationFest"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,13 +56,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Bioinformatics Community Conference<br> <typeout> 2020"
-eventDate: "July 17-21, 2020"
+heroTitle: "Bioinformatics Community Conference 2020<br> <typeout>"
+eventDate: "July 18-21, 2020"
 typeoutTextValues: '"", "for Galaxy", "for Open Source"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit an abstract"}
+ - {permalink: "/#tickets", text: "Registration"}
 
 # About Block
 aboutTitle: "About Bioinformatics Community Conference"
@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Victoria College"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: ""
 eventStreetAddress: "73 Queen Park's Crescent #106"
 eventAddressLocality: "Toronto"
 eventAddressLocalityRegion: "Ontario"
@@ -111,12 +111,12 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Victoria College"
-venueFeatures: ["Located directly in the city center"]
+venueFeatures: ["Located in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "#BCC2020"
+twitterHashTag: "BCC2020"
 twitterFeed: ""
 
 # Partners Block
