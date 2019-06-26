@@ -113,11 +113,13 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Victoria College"
 venueFeatures: ["Located in the city center"]
 
+# requires Tweetledee setup, see https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#tweets-feed
+
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "BCC2020"
-twitterFeed: "https://twitter.com/hashtag/gccbosc"
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "BCC2020"
+# twitterFeed: "https://twitter.com/hashtag/gccbosc"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -201,7 +203,8 @@ blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+# https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#speakers-list-block
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
