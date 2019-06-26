@@ -1,17 +1,12 @@
 ---
 layout: default
-title: Hackathon
-permalink: /hackathon/
+title: CollaborationFest
+permalink: /cofest/
 ---
 
  {% include top-section.html %}
 
  {% include about-hackathon.html %}
 
- {% include judges.html %}
-
- {% include prizes.html %}
- 
  {% include hackathon-location.html %}
  
- {% include partners.html %}
