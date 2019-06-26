@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "BCC2020"
-email: "replaceme@gdg.org.ua"
+email: "obf-bosc@googlegroups.com"
 description: " The 2020 Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference 2019 (BOSC2019) are meeting together in Toronto, Ontario, Canada, June 25-30, 2018.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  GCCBOSC is organized by Oregon Health & Science University and will be at someplace in Toronto."
 baseurl: ""
 url: "https://bcc2020.github.io"
@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Victoria College"
-eventLocationLink: ""
+eventLocationLink: "https://studentlife.utoronto.ca/hello/directions"
 eventStreetAddress: "73 Queen Park's Crescent #106"
 eventAddressLocality: "Toronto"
 eventAddressLocalityRegion: "Ontario"
@@ -117,7 +117,7 @@ venueFeatures: ["Located in the city center"]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "BCC2020"
-twitterFeed: ""
+twitterFeed: "https://twitter.com/hashtag/gccbosc"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -175,8 +175,9 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "", icon: "google-plus"}
- - {link: "", icon: "twitter"}
- - {link: "", icon: "facebook"}
+ - {link: "https://www.youtube.com/c/OBFBOSC", icon: "youtube"}
+ - {link: "https://twitter.com/obf_bosc", icon: "twitter"}
+ #- {link: "", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -195,7 +196,8 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+# looks like we need to pay for an ad-free disqus account, disabling for now
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
