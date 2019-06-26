@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/submit/", text: "Submit"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/location/", text: "Location"}
- - {permalink: "/hackathon/", text: "CollaborationFest"}
+ - {permalink: "/cofest/", text: "CollaborationFest"}
  - {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "/submit/", text: "Submit an abstract"}
@@ -121,7 +121,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -182,7 +182,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.open-bio.org/wiki/Main_Page", text: "Open Bioinformatics Foundation"}
+   - {link: "https://www.open-bio.org/", text: "Open Bioinformatics Foundation"}
    - {link: "https://galaxyproject.org/", text: "Galaxy Community Hub"}
  -
   title: "Contacts"
@@ -203,7 +203,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: ""
+aboutUs: "The 2020 Galaxy Community Conference and Bioinformatics Open Source Conference are meeting together in Toronto, Ontario, Canada, July 18-21, 2020.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  BCC2020 is organized its committee and by Ontario Institute for Cancer Research and will be at Victoria College."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -255,20 +255,12 @@ hackathonTitle: "Collaboration Fest"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "CollaborationFest"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "What is it?", image: "hackathon-0.png", details: "BCC2020 will finish with CollaborationFest, a 2 (or 4) day collaborative work event where our community gathers to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you."}
+ - {title: "Core and Encore", image: "hackathon-0.png", details: "<p>CoFest is split in half again this year:</p><p><b>CollaborationFest: Core: Friday & Saturday</b><p>There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.</p><p><b>CollaborationFest: Encore: Sunday & Monday</b></p><p>The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.</p>"}
+ - {title: "Registration", image: "hackathon-0.png", details: "CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days). You will need to cover some, and possibly all, of your meal expenses. Organizers will provide coffee / beverages throughout. We will attempt to get funding for as many lunches as possible."} 
+ - {title: "Preparing for CoFest", image: "hackathon-0.png", details: "Add or expand the cluster ideas document (coming)<br><br>Add an introduction and indicate your preferred working clusters (coming)<br><br>Ask questions on the Conference gitter channel"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
