@@ -12,33 +12,30 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "BCC2020"
 email: "obf-bosc@googlegroups.com"
-description: " The 2020 Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference 2019 (BOSC2019) are meeting together in Toronto, Ontario, Canada, June 25-30, 2018.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  GCCBOSC is organized by Oregon Health & Science University and will be at someplace in Toronto."
+description: "The 2020 Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference 2019 (BOSC2019) are meeting together in Toronto, Ontario, Canada, June 25-30, 2018.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  GCCBOSC is organized by Oregon Health & Science University and will be at someplace in Toronto."
 baseurl: ""
-url: "https://bcc2020.github.io"
+url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: ""
+organizerName: "BOSC and Galaxy Community Conference"
 organizerAlternateName: ""
-organizerDescription: "Bioinformatics Open Source Conference and Galaxy Community Conference join together again in 2020 in Toronto, Canada for the first Bioinformatics Community Conference."
+organizerDescription: "Bioinformatics Open Source Conference and Galaxy Community Conference join together in 2020 in Toronto, Canada for the first Bioinformatics Community Conference."
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "#"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, toronto"
+twitterAccount: "@obf_bosc"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+# Link to EasyChair?
+abstractSubmitUrl: "/submit/"
 
 # Navigation
 navigationLinks:
@@ -58,8 +55,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Bioinformatics Community Conference 2020<br> <typeout>"
 eventDate: "July 18-21, 2020"
-typeoutTextValues: '"", "for Galaxy", "for Open Source"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "for Galaxy", "for Open Source", "for Bioinformatics"'
+typeoutFallback: "Galaxy and BOSC together"
 heroButtons:
  - {link: "/submit/", text: "Submit an abstract"}
  - {permalink: "/#tickets", text: "Registration"}
@@ -133,8 +130,8 @@ subscribeAction: ""
 subscribeInfo: "Registration will be open late 2019. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Price table"
+ticketsInfo: "Registration grants access to all conference sections, coffee breaks, lunch and parties. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -171,15 +168,13 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
+  soldOut: false
   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "", icon: "google-plus"}
  - {link: "https://www.youtube.com/c/OBFBOSC", icon: "youtube"}
  - {link: "https://twitter.com/obf_bosc", icon: "twitter"}
- #- {link: "", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -199,8 +194,8 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 # looks like we need to pay for an ad-free disqus account, disabling for now
-blogCommentsEnabled: false
-discusShortName: "devfestua"
+# blogCommentsEnabled: false
+# discusShortName: "devfestua"
 
 # Speakers List Block
 # https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#speakers-list-block
@@ -236,24 +231,15 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "A Hotel"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "Registration details"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "#", text: "Attending"}
 
 # Hackathon
 hackathonTitle: "Collaboration Fest"
@@ -264,7 +250,7 @@ aboutHackathonTitle: "CollaborationFest"
 hackathonRows:
  - {title: "What is it?", image: "hackathon-0.png", details: "BCC2020 will finish with CollaborationFest, a 2 (or 4) day collaborative work event where our community gathers to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you."}
  - {title: "Core and Encore", image: "hackathon-0.png", details: "<p>CoFest is split in half again this year:</p><p><b>CollaborationFest: Core: Friday & Saturday</b><p>There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.</p><p><b>CollaborationFest: Encore: Sunday & Monday</b></p><p>The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.</p>"}
- - {title: "Registration", image: "hackathon-0.png", details: "CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days). You will need to cover some, and possibly all, of your meal expenses. Organizers will provide coffee / beverages throughout. We will attempt to get funding for as many lunches as possible."} 
+ - {title: "Registration", image: "hackathon-0.png", details: "CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days). You will need to cover some, and possibly all, of your meal expenses. Organizers will provide coffee / beverages throughout. We will attempt to get funding for as many lunches as possible."}
  - {title: "Preparing for CoFest", image: "hackathon-0.png", details: "Add or expand the cluster ideas document (coming)<br><br>Add an introduction and indicate your preferred working clusters (coming)<br><br>Ask questions on the Conference gitter channel"}
 
 # Hackathon Location Block

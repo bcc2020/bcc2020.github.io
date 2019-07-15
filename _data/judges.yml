@@ -1,4 +1,4 @@
-- 
+-
   id: 0
   name: "Dmytro"
   surname: "Danylyk"
@@ -6,6 +6,5 @@
   title: "Android Developer"
   thumbnailUrl: unknown.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
