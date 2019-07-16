@@ -2,6 +2,7 @@
 layout: default
 title: CollaborationFest
 permalink: /cofest/
+color: olive
 ---
 
  {% include top-section.html %}
@@ -9,4 +10,3 @@ permalink: /cofest/
  {% include about-hackathon.html %}
 
  {% include hackathon-location.html %}
- 

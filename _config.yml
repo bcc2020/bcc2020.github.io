@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/location/", text: "Location"}
  - {permalink: "/cofest/", text: "CollaborationFest"}
- - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/partners/", text: "Partners"}
 bottomNavigationLinks:
  - {link: "/submit/", text: "Submit an abstract"}
 rightNavigationButtons:
@@ -82,7 +82,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Invited Speakers"
+rockstarSpeakersTitle: "Keynote Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -113,14 +113,14 @@ venueFeatures: ["Located in the city center"]
 # requires Tweetledee setup, see https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#tweets-feed
 
 # Tweets Feed Block
-# tweetsFeedImage: "twitter-feed.jpg"
-# tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "BCC2020"
-# twitterFeed: "https://twitter.com/hashtag/gccbosc"
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "BCC2020"
+twitterFeed: "https://twitter.com/hashtag/BCC2020"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Sponsors"
+partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -203,7 +203,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The 2020 Galaxy Community Conference and Bioinformatics Open Source Conference are meeting together in Toronto, Ontario, Canada, July 18-21, 2020.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  BCC2020 is organized its committee and by Ontario Institute for Cancer Research and will be at Victoria College."
+aboutUs: "The 2020 Galaxy Community Conference and Bioinformatics Open Source Conference are meeting together in Toronto, Ontario, Canada, July 18-21, 2020.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  BCC2020 will be at Victoria College."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
