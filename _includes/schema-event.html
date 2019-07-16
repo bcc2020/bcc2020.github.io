@@ -4,7 +4,7 @@
         "@type" : "Event",
         "name" : "{{ site.title }}",
         "description": "{{ site.description }}",
-        "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+        "image" : "{{ site.socialImageSrcTwitter | prepend: site.baseurl | prepend: site.url }}",
         "url" : "{{ site.url }}",
         "startDate" : "{{ site.eventStartTime }}",
         "doorTime" : "{{ site.eventDoorTime }}",
@@ -42,7 +42,7 @@
             "@type" : "Event",
             "name" : "{{ site.hackathonTitle }}",
             "description": "{{ site.hackathonRows[0].details }}",
-            "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+            "image" : "{{ site.socialImageSrcTwitter | prepend: site.baseurl | prepend: site.url }}",
             "url" : "{{ site.url | append: site.baseurl }}/hackathon/",
             "startDate" : "{{ site.hackathonStartTime }}",
             "doorTime" : "{{ site.hackathonDoorTime }}",
@@ -78,9 +78,9 @@
             "validFrom" : "{{ ticketsOffer.validFrom }}",
             "validThrough" : "{{ ticketsOffer.validThrough }}"
         }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %} 
+        {% endfor %}
         ],
-        "performer" : [ 
+        "performer" : [
         {% for speaker in site.data.speakers %}
         {
             "@type" : "Person",
@@ -93,7 +93,7 @@
             },
             "sameAs" : "{{ speaker.social[0].link }}"
         }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %}  
+        {% endfor %}
         ],
         "eventStatus" : "EventScheduled",
         "typicalAgeRange" : "16+"

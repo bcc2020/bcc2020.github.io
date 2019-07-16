@@ -1,11 +1,6 @@
-- 
+-
   group: "Main organizers"
-  elements: 
+  elements:
     - {name: "Open Bioinformatics Foundation", description: "Open Bioinformatics Foundation", link: "https://www.open-bio.org/", imageUrl: "obf.svg"}
     - {name: "The Galaxy Project", description: "The Galaxy Project", link: "https://galaxyproject.org/", imageUrl: "galaxy_logo.svg"}
     - {name: "Ontario Institute for Cancer Research", description: "Ontario Institute for Cancer Research", link: "https://oicr.on.ca/", imageUrl: "oicr.svg"}
-#- 
-#  group: "Co-organizers"
-#  elements: 
-#- {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-#    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}

@@ -4,6 +4,7 @@ title:  "Call for Abstracts"
 date:   2019-07-21 09:00:00
 isStaticPost: false
 permalink: /submit/
+color: olive
 ---
 We are pleased to announce that abstract submission and early registration for BCC2020 are now open.
 

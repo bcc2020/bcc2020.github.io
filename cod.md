@@ -2,6 +2,7 @@
 layout: post
 title: Code of Conduct
 permalink: /cod/
+color: olive
 isStaticPost: true
 ---
 
