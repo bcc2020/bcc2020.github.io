@@ -1,55 +1,97 @@
 -
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  id: 2
+  name: "Michelle"
+  surname: "Brazas"
+  title: ""
+  thumbnailUrl: unknown.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "OICR", title: "Ontario Institute for Cancer Research", url: "https://developers.google.com/experts/"}
   social:
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "site", link: "http://site.com/"}
+-
+  id: 0
+  name: "Dave"
+  surname: "Clements"
+  title: ""
+  thumbnailUrl: unknown.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GCC", title: "Galaxy Community Conference", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+    - {name: "site", link: "http://site.com/"}
 -
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Nomi"
+  surname: "Harris"
+  title: ""
+  thumbnailUrl: unknown.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "BOSC", title: "Bioinformatics Open Source Conference", url: "https://developers.google.com/experts/"}
   social:
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "github", link: "https://github.com/"}
 -
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  id: 6
+  name: "Mo"
+  surname: "Heydarian"
+  title: ""
+  thumbnailUrl: unknown.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  #subTeam: true
   social:
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
--
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "http://site.name/"}
+
 -
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Morgan"
+  surname: "Taschuk"
+  title: ""
+  thumbnailUrl: unknown.jpg
+  team: true
+  ribbon:
+    - {abbr: "OICR", title: "Ontario Institute for Cancer Research", url: "https://developers.google.com/experts/"}
+  #subTeam: true
   social:
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "http://site.name/"}
+
+-
+  id: 4
+  name: "Jenn"
+  surname: "Vessio"
+  title: ""
+  thumbnailUrl: unknown.jpg
+  team: true
+  #subTeam: true
+  social:
+    - {name: "site", link: "http://site.name/"}
+
+-
+  id: 3
+  name: "Heather"
+  surname: "Wiencko"
+  title: ""
+  thumbnailUrl: unknown.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+
+
+
+-
+  id: 5
+  name: "Denis"
+  surname: "Yuen"
+  title: ""
+  thumbnailUrl: unknown.jpg
+  team: true
+  ribbon:
+    - {abbr: "OICR", title: "Ontario Institute for Cancer Research", url: "https://developers.google.com/experts/"}
+  #subTeam: true
+  social:
+    - {name: "site", link: "http://site.name/"}
