@@ -54,12 +54,10 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Bioinformatics Community Conference 2020<br> <typeout>"
-eventDate: "July 18-21, 2020"
-typeoutTextValues: '"", "for Galaxy", "for Open Source", "for Bioinformatics"'
-typeoutFallback: "Galaxy and BOSC together"
+eventDate: "July 19-21, 2020"
 heroButtons:
- - {link: "/submit/", text: "Submit an abstract"}
- - {permalink: "/#tickets", text: "Registration"}
+ - {link: "#", text: "Galaxy Community Conference (GCC)", logo: "/img/organizers/galaxy_project_logo_blue.png"}
+ - {link: "#", text: "Bioinformatics Open Source Conference (BOSC)", logo: "/img/organizers/bioinformatics-open-source-conference-banner.png"}
 
 # About Block
 aboutTitle: "About Bioinformatics Community Conference"
