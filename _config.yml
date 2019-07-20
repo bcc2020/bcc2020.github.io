@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "BCC2020"
-email: "obf-bosc@googlegroups.com"
-description: "The 2020 Galaxy Community Conference (GCC2018) and Bioinformatics Open Source Conference 2019 (BOSC2019) are meeting together in Toronto, Ontario, Canada, June 25-30, 2018.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  GCCBOSC is organized by Oregon Health & Science University and will be at someplace in Toronto."
+email: "bcc2020-org@lists.galaxyproject.org"
+description: "The 2020 Bioinformatics Community Conference (BCC2020) brings together the 2020 Galaxy Community Conference (GCC2020) and Bioinformatics Open Source Conference 2020 (BOSC 2020). The two events are are meeting jointly in Toronto, Ontario, Canada, July 18-25, 2020. There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. BCC2020 is hosted by the Ontario Institue for Cancer Research (OICR) and will be at Victoria College on the University of Toronto Campus."
 baseurl: ""
 url: "https://bcc2020.github.io"
 permalink: "/blog/:title"
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "BOSC and Galaxy Community Conference"
+organizerName: "BOSC and Galaxy"
 organizerAlternateName: ""
 organizerDescription: "Bioinformatics Open Source Conference and Galaxy Community Conference join together in 2020 in Toronto, Canada for the first Bioinformatics Community Conference."
 organizerEmail: ""
@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "#"
 
 # Head
-metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, toronto"
-twitterAccount: "@obf_bosc"
+metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, toronto, bosc, galaxy"
+twitterAccount: ""
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/submit/", text: "Submit"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/location/", text: "Location"}
- - {permalink: "/cofest/", text: "CollaborationFest"}
+ - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
 bottomNavigationLinks:
  - {link: "/submit/", text: "Submit an abstract"}
@@ -54,7 +54,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Bioinformatics Community Conference 2020<br> <typeout>"
-eventDate: "July 18-21, 2020"
+eventDate: "July 18-25, 2020"
 typeoutTextValues: '"", "for Galaxy", "for Open Source", "for Bioinformatics"'
 typeoutFallback: "Galaxy and BOSC together"
 heroButtons:
@@ -66,7 +66,7 @@ aboutTitle: "About Bioinformatics Community Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "A forum for developers and users to interact and share research results and ideas in open source bioinformatics and Galaxy" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging." }
- - {title: "CoFest", image: "hackathon.jpg", text: "A two-day community development session. Anyone interested in open science, biology and programming can meet, talk and work collaboratively." }
+ - {title: "CoFest", image: "hackathon.jpg", text: "A two to four day community development session. Anyone interested in open science, biology and programming can meet, talk and work collaboratively." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -96,7 +96,7 @@ eventPostalCode: "M5S 1K7"
 eventAddressCountry: "Canada"
 eventStartTime: "2020-07-17T18:00"
 eventDoorTime: "18:00"
-eventEndTime: "2020-07-21T22:00"
+eventEndTime: "2020-07-25T22:00"
 eventPlaceCoordinates: "43.666830666, -79.388498446"
 mapCenterCoordinates: "43.666830666, -79.388498446"
 mapMobileCenterCoordinates: "43.666830666, -79.388498446"
@@ -115,8 +115,8 @@ venueFeatures: ["Located in the city center"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "BCC2020"
-twitterFeed: "https://twitter.com/hashtag/BCC2020"
+twitterHashTag: "BioCommConf"
+twitterFeed: "https://twitter.com/hashtag/BioCommConf"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -127,11 +127,11 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: ""
-subscribeInfo: "Registration will be open late 2019. Stay tuned!"
+subscribeInfo: "Registration will open in late 2019. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Price table"
-ticketsInfo: "Registration grants access to all conference sections, coffee breaks, lunch and parties. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Registration grants access to all conference sections, coffee breaks, lunch and social activities. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -173,8 +173,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
+ - {link: "https://twitter.com/hashtag/BioCommConf", icon: "twitter"}
  - {link: "https://www.youtube.com/c/OBFBOSC", icon: "youtube"}
- - {link: "https://twitter.com/obf_bosc", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -182,6 +182,7 @@ footerBlocks:
   links:
    - {link: "https://www.open-bio.org/", text: "Open Bioinformatics Foundation"}
    - {link: "https://galaxyproject.org/", text: "Galaxy Community Hub"}
+   - {link: "https://gccbosc2018.sched.com/", text: "GCCBOSC 2018"}
  -
   title: "Contacts"
   links:
@@ -203,7 +204,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The 2020 Galaxy Community Conference and Bioinformatics Open Source Conference are meeting together in Toronto, Ontario, Canada, July 18-21, 2020.  There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, shared keynotes, poster & demo sessions, birds-of-a-feather, and social events.  BCC2020 will be at Victoria College."
+aboutUs: "The 2020 Bioinformatics Community Conference (BCC2020) brings together the 2020 Galaxy Community Conference (GCC2020) and Bioinformatics Open Source Conference 2020 (BOSC 2020). The two events are are meeting jointly in Toronto, Ontario, Canada, July 18-25, 2020. There will be two days of training, a two+ day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. BCC2020 is hosted by the Ontario Institue for Cancer Research (OICR) and will be at Victoria College on the University of Toronto Campus."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -255,18 +256,18 @@ hackathonRows:
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonLocationName: "Victoria College"
+hackathonLocationLink: "https://studentlife.utoronto.ca/hello/directions"
+hackathonStreetAddress: "73 Queen Park's Crescent #106"
+hackathonAddressLocality: "Toronto"
+hackathonAddressLocalityRegion: "Ontario"
+hackathonPostalCode: "M5S 1K7"
+hackathonAddressCountry: "Canada"
+-hackathonTimeTitle: "Coolaborate through"
+hackathonStartTime: "2020-07-21T09:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2020-07-25T22:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "43.666830666, -79.388498446"
+hackathonMapCenterCoordinates: "43.666830666, -79.388498446"
+hackathonMapMobileCenterCoordinates: "43.666830666, -79.388498446"
