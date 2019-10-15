@@ -269,3 +269,11 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "43.666830666, -79.388498446"
 hackathonMapCenterCoordinates: "43.666830666, -79.388498446"
 hackathonMapMobileCenterCoordinates: "43.666830666, -79.388498446"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      logostyle: logo-light
