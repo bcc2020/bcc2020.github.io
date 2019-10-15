@@ -75,7 +75,7 @@ statisticBlock:
  - {count: "4", specialCharacter: "", info: "made up facts", detail: "replace these later!!"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: ""
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -191,7 +191,7 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: ""
 # looks like we need to pay for an ad-free disqus account, disabling for now
 # blogCommentsEnabled: false
 # discusShortName: "devfestua"
