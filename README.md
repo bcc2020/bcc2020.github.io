@@ -86,7 +86,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 
-images from Unsplash
+### Images from Unsplash
 
 Hero image by Juan Davila @juanster
 
@@ -94,9 +94,9 @@ Team image by Chang Duong @chang612
 
 Submission image by ron dyar @prolabprints
 
+Collabfest image by You X Ventures @youxventures
 
-
-
+Partners image by Tom Crew @tomcrewceramics
 
 
 

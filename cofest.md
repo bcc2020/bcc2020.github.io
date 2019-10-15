@@ -2,7 +2,9 @@
 layout: default
 title: CollaborationFest
 permalink: /cofest/
-color: olive
+image: collabfest.jpg
+image_align: top
+logostyle: logo-dark
 ---
 
  {% include top-section.html %}
