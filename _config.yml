@@ -40,7 +40,7 @@ abstractSubmitUrl: "/submit/"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/about/", text: "About BCC"}
+ - {permalink: "/about/", text: "About"}
  - {permalink: "/submit/", text: "Submit"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/location/", text: "Location"}
@@ -75,7 +75,7 @@ statisticBlock:
  - {count: "4", specialCharacter: "", info: "made up facts", detail: "replace these later!!"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: ""
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -191,7 +191,7 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: ""
 # looks like we need to pay for an ad-free disqus account, disabling for now
 # blogCommentsEnabled: false
 # discusShortName: "devfestua"
@@ -248,7 +248,7 @@ enableHackathon: true
 aboutHackathonTitle: "CollaborationFest"
 hackathonRows:
  - {title: "What is it?", image: "hackathon-0.png", details: "BCC2020 will finish with CollaborationFest, a 2 (or 4) day collaborative work event where our community gathers to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you."}
- - {title: "Core and Encore", image: "hackathon-0.png", details: "<p>CoFest is split in half again this year:</p><p><b>CollaborationFest: Core: Friday & Saturday</b><p>There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.</p><p><b>CollaborationFest: Encore: Sunday & Monday</b></p><p>The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.</p>"}
+ - {title: "Core and Encore", image: "hackathon-0.png", details: "CoFest is split in half again this year:<br/><b>CollaborationFest: Core: Friday & Saturday</b>: There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.<br/><b>CollaborationFest: Encore: Sunday & Monday</b>: The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration."}
  - {title: "Registration", image: "hackathon-0.png", details: "CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days). You will need to cover some, and possibly all, of your meal expenses. Organizers will provide coffee / beverages throughout. We will attempt to get funding for as many lunches as possible."}
  - {title: "Preparing for CoFest", image: "hackathon-0.png", details: "Add or expand the cluster ideas document (coming)<br><br>Add an introduction and indicate your preferred working clusters (coming)<br><br>Ask questions on the Conference gitter channel"}
 
@@ -269,3 +269,12 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "43.666830666, -79.388498446"
 hackathonMapCenterCoordinates: "43.666830666, -79.388498446"
 hackathonMapMobileCenterCoordinates: "43.666830666, -79.388498446"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      logostyle: logo-light
+      image_align: center
