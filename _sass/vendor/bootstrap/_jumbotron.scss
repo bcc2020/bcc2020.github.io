@@ -12,12 +12,15 @@
   h1,
   .h1 {
     color: $jumbotron-heading-color;
+    background-color: rgba(0,0,0,0.7);
   }
   
   p {
     margin-bottom: ($jumbotron-padding / 2);
     font-size: $jumbotron-font-size;
     font-weight: 200;
+    background-color: rgba(0,0,0,0.7);
+
   }
 
   > hr {

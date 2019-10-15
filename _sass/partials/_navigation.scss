@@ -81,6 +81,7 @@ nav {
         text-align: left;
         transform: translateY(40px);
         transition: $base-transition;
+        background-color: rgba(0,0,0,0.5);
         @media (max-width: 767px) {
             line-height: 20px;
             width: 95%;
@@ -124,7 +125,7 @@ nav {
                 }
             }
             .top-header.after-scroll & {
-                color: $nav-scroll-color;
+                // color: $nav-scroll-color;
                 @media (max-width: 767px) {
                     top: 20px;
                 }
