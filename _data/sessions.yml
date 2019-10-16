@@ -1,9 +1,21 @@
+# Edit the schedule contents here
+# Timings for the sessions are in schedule.yml, in this folder
+#
+# sessionIds:
+# 000's - non-science conference stuff (breaks, registration, sponsors)
+# 100's - training
+# 200's - presentations
+# 300's - science conference stuff (keynotes, posters)
+# 400's - RESERVED. use 404 to make a gap in the programming
+# 500's - CoFest
+#
+# Fill out speaker IDs in speakers.yml, in this folder
 -
   id: 001
-  title: "Registration"
+  title: "Check-in"
   place: "TBD"
   service: true
-  description: "Registration desk will be open"
+  description: "Check-in desk will be open"
 -
   id: 002
   title: "Lunch Break"
@@ -23,7 +35,6 @@
   place: "TBD"
   service: true
   description: "Tables set up for our sponsors"
-
 
 -
   id: 101
