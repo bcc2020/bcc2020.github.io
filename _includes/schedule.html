@@ -1,10 +1,19 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-      <h3>BCC2020 Schedule will be released closer to the event. Check back later!</h3>
-        <!--{% for day in site.data.schedule %}
+      <div class="col-lg-8 col-md-10 col-md-offset-1">
+        <h4 style="text-align: left;">At a glance:</h4>
+        <ul style="text-align: left;">
+          <li>July 18-19: Training</li>
+          <li>July 20-21: Meeting</li>
+          <li>July 22-23: CoFest: Core</li>
+          <li>July 24-25: CoFest: EnCore</li>
+        </ul>
+        <h4 style="text-align: left;">Detailed Schedule</h4>
+      </div>
+        {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <h5 class="schedule-table-heading">{{ day.dateReadable }}</h5>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
                 <div class="timeslot-elements flexbox-wrapper">
@@ -53,7 +62,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
@@ -79,7 +88,7 @@
             {% endfor %}
         </div>
         {% endfor %}
-        -->
+
     </div>
 </section>
 <!-- End Schedule Section -->
