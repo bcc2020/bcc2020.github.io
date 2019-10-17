@@ -1,7 +1,7 @@
 # Bioinformatics Community Conference 2020 Website
 
-Most of the documentation below is copied from the template at [gdg-x/zeppelin](https://github.com/gdg-x/zeppelin). 
-We made substantial modifications to the source to get it to work for a non-GDG event. 
+Most of the documentation below is copied from the template at [gdg-x/zeppelin](https://github.com/gdg-x/zeppelin).
+We made substantial modifications to the source to get it to work for a non-GDG event.
 
 ### Website: https://bcc2020.github.io/
 
@@ -84,3 +84,22 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+
+
+### Images from Unsplash
+
+- Hero image by Juan Davila @juanster
+- Team image by Chang Duong @chang612
+- Submission image by ron dyar @prolabprints
+- Collabfest image by You X Ventures @youxventures
+- Partners image by Tom Crew @tomcrewceramics
+- About section:
+  - Speaker image by Wonderlane @wonderlane
+  - Workshop image by Priscilla Du Preez @priscilladupreez
+  - CoFest image by Marvin Meyer @marvelous
+
+### Other images
+
+Victoria College image By B Sutherland - Flickr: Victoria College, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=20456619
+Eating hall image by Anthony Easton, CC BY 2.0 https://www.flickr.com/people/82072056@N00
+Classroom interior by Emporis, unpurchased stock image that I should re-take myself: https://www.emporis.fr/images/details/911826/victoria-college-toronto-canada-canada-interior-interiorphoto-3rd-floor-classroom
