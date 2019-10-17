@@ -11,6 +11,17 @@
 # presented in the 'tracks' section.
 # Use '404' as a placeholder if only one track is running at a time
 -
+  date: "2020-07-17"
+  dateReadable: "Fri July 17: Early Check-In"
+  tracks:
+    - {title: "Schedule", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "22:00",
+    	sessionIds: [001]
+    }
+-
   date: "2014-07-18"
   dateReadable: "Sat July 18 - Training"
   tracks:
