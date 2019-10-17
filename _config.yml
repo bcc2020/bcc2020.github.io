@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "BCC2020"
 email: "bcc2020-org@lists.galaxyproject.org"
-description: "The 2020 Bioinformatics Community Conference (BCC2020) brings together the Galaxy Community Conference and Bioinformatics Open Source Conference. The two events are meeting jointly in Toronto, Ontario, Canada, July 18-21, 2020. There will be two days of training, a two day meeting, and four days of intense collaboration.  The meeting features joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. BCC2020 is hosted by the Ontario Institue for Cancer Research (OICR) and will be at Victoria University on the University of Toronto Campus."
+description: "BCC2020 brings together the Galaxy Community Conference and Bioinformatics Open Source Conference to meet jointly in Toronto, Ontario, Canada."
 baseurl: ""
 url: "https://bcc2020.github.io"
 permalink: "/blog/:title"
@@ -61,6 +61,7 @@ heroButtons:
 
 # About Block
 aboutTitle: "BCC2020"
+aboutUs: "With two days of training, a two day meeting, and four days of intense collaboration, BCC2020 is packed full of joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. BCC2020 is hosted by the Ontario Institue for Cancer Research and will be at Victoria University on the University of Toronto Campus."
 aboutBlock:
  - {title: "Training", image: "workshop.jpg", text: "Two days of training workshops providing hands-on experience with experts."}
  - {title: "Conference", image: "conference.jpg", text: "The main conference. Interact and share research results and ideas in open source bioinformatics and Galaxy." }

@@ -2,21 +2,25 @@
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}'); background-position: right !important;">
     {% include navigation.html %}
     <div class="content-wrapper">
-    <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle %}
-            <h1>{{ heroText }}</h1>
-            <p>{{ site.eventDate }}</p>
-            {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" {% if button.link != null %}target="_blank"{% endif %}><img src="{{ button.logo | prepend: site.baseurl | prepend: site.url }}" alt={{ button.text }} width=200></a>
-            {% endfor %}
-        </div>
-    </div>
-    <a href="#about" class="explore">
-        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-        </svg>
-    </a>
+      <div class="jumbotron">
+          <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+              {% assign heroText = site.heroTitle %}
+              <h1>{{ heroText }}</h1>
+              <p>{{ site.eventDate }}</p>
+              {% for button in site.heroButtons %}
+              <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" {% if button.link != null %}target="_blank"{% endif %}><img src="{{ button.logo | prepend: site.baseurl | prepend: site.url }}" alt={{ button.text }} width=200></a>
+              {% endfor %}
+              <div class="col-lg-10 col-lg-offset-1" style="margin-top: 20px;">
+                <p> {{ site.description }} </p>
+              </div>
+          </div>
+      </div>
+      <a href="#about" class="explore">
+          <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+              <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+          </svg>
+      </a>
+    
     </div>
 </section>
 <!-- End Hero Section -->
