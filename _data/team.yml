@@ -24,6 +24,19 @@
     - {name: "twitter", link: "https://twitter.com/tnabtaf"}
     - {name: "github", link: "https://github.com/tnabtaf"}
 -
+  id: 8
+  name: "Frederik"
+  surname: "Coppens"
+  title: ""
+  thumbnailUrl: frederik-coppens.jpg
+  team: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.elixir-belgium.org/organisation/steeringgroup/frederik-coppens"}
+    - {name: "twitter", link: "https://twitter.com/FrederikCoppens"}
+    - {name: "github", link: "https://github.com/frederikcoppens"}
+-
   id: 1
   name: "Nomi"
   surname: "Harris"
