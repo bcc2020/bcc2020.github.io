@@ -1,0 +1,23 @@
+---
+layout: post
+title: "We need your input!"
+date: 2019-12-18 08:00:00
+isStaticPost: true
+image: hero.jpg
+color: olive
+
+---
+
+The next gathering of the [BOSC](https://www.open-bio.org/events/bosc/about/) and [Galaxy](https://galaxyproject.org/) communities will be the [Bioinformatics Community Conference 2020 (BCC2020)](https://bcc2020.github.io/), being held in Toronto, just after [ISMB 2020](https://www.iscb.org/ismb2020) in Montréal.  BCC2020 brings these communities together for a unified set of events spanning July 18-25, and including training, presentation sessions, networking and a CollaborationFest.
+
+**And we need your help!**  We are finalizing the event schedules and we [would like your input](http://bit.ly/bcc2020-poll) on several options we are considering for the schedule.  Please take a few minutes [to let us know what you think about](https://www.open-bio.org/events/bosc/about/)
+
+* Intermixing tutorial sessions and presentation sessions (a la [GCC2019](https://gcc2019.sched.com/)), or not (a la [GCCBOSC 2018](https://gccbosc2018.sched.com/)), and
+* Possible demo presentation formats, and
+* And any suggestions you have for keynote speakers and panel topics
+
+**[Please submit your guidance by January 7](http://bit.ly/bcc2020-poll).**
+
+Thanks for your time and input, and we hope to see you in Toronto!
+
+[BCC2020 Organizers](https://bcc2020.github.io/about/#team)

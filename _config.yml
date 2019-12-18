@@ -41,6 +41,7 @@ abstractSubmitUrl: "/submit/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/submit/", text: "Submit"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/location/", text: "Location"}
@@ -76,7 +77,8 @@ statisticBlock:
  - {count: "4", specialCharacter: "", info: "made up facts", detail: "replace these later!!"}
 
 # Latest News Block
-latestNewsTitle: ""
+latestNewsTitle: "News"
+latestNewsCount: 2
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
