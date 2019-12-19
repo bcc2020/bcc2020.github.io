@@ -16,8 +16,8 @@ The next gathering of the [BOSC](https://www.open-bio.org/events/bosc/about/) an
 
  Please take a few minutes [to let us know what you think about](https://www.open-bio.org/events/bosc/about/)
 
-* Intermixing tutorial sessions and presentation sessions (a la [GCC2019](https://gcc2019.sched.com/)), or not (a la [GCCBOSC 2018](https://gccbosc2018.sched.com/)), and
-* Possible demo presentation formats, and
+* Intermixing tutorial sessions and presentation sessions (a la [GCC2019](https://gcc2019.sched.com/)), or not (a la [GCCBOSC 2018](https://gccbosc2018.sched.com/))
+* Possible demo presentation formats
 * And any suggestions you have for keynote speakers and panel topics
 
 **[Please submit your guidance by January 7](http://bit.ly/bcc2020-poll).**
