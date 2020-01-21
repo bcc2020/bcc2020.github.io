@@ -188,7 +188,8 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:", text: "email"}
+   - {link: "mailto:bcc2020-org@lists.galaxyproject.org", text: "Email organizers"}
+   - {link: "https://lists.galaxyproject.org/lists/bcc2020-interest.lists.galaxyproject.org/", text: "Sign up to get announcements"}
  -
   title: "FAQ"
   links:
