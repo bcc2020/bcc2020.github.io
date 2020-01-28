@@ -22,7 +22,6 @@
   place: "TBD"
   service: true
   description: "The best time to talk with speakers and attendees"
-
 -
   id: 003
   title: "Coffee Break"
@@ -35,7 +34,24 @@
   place: "TBD"
   service: true
   description: "Tables set up for our sponsors"
-
+-
+  id: 005
+  title: "Dinner"
+  place: "TBD"
+  service: true
+  description: "Dinner break"
+-
+ id: 006
+ title: "Conference Dinner"
+ place: "TBD"
+ service: true
+ description: "Conference dinner"
+-
+ id: 007
+ title: "BOFs"
+ place: "TBD"
+ service: true
+ description: "BOFs"
 -
   id: 101
   subtype: training

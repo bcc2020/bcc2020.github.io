@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "BCC2020"
 email: "bcc2020-org@lists.galaxyproject.org"
 description: "BCC2020 brings together the Galaxy Community Conference and Bioinformatics Open Source Conference to meet jointly in Toronto, Ontario, Canada."
-baseurl: ""
-url: "https://bcc2020.github.io"
+baseurl: "/bcc2020.github.io/"
+url: "https://kmolto.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -35,22 +35,22 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Link to EasyChair?
-abstractSubmitUrl: "/submit/"
+abstractSubmitUrl: "/Registration/"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
- - {permalink: "/submit/", text: "Submit"}
+ - {permalink: "/Registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/location/", text: "Location"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
 bottomNavigationLinks:
- - {link: "/submit/", text: "Submit an abstract"}
+ - {link: "/Registration/", text: "Registration"}
 rightNavigationButtons:
- - {link: "/submit/", text: "Submit an abstract"}
+ - {link: "/Registration/", text: "Registration"}
 
 # Hero Block
 heroImage: "hero.jpg"
