@@ -1,0 +1,24 @@
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1  col-md-offset-1">
+          <p>{{ site.aboutUsHistory }}</p>
+    </div>
+</section>
+<section id="hosts" class="partners">
+  <div class="content-wrapper">
+    <h3>Host Organizations</h3>
+    {% for organizer in site.data.organizers %}
+      <ul class="list-inline ">
+          {% for element in organizer.elements %}
+          <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+              <a href="{{ element.link }}" target="_blank">
+                  <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+              </a>
+          </li>
+          {% endfor %}
+      </ul>
+    {% endfor %}
+  </div>
+</section>
+<!-- End About Section -->
