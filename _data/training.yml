@@ -1,0 +1,182 @@
+# Nominated training topics go here.
+
+trainingTopicCards:
+  - { title: "R / Bioconductor in the Cloud",
+      information: "<p><a href='https://bioconductor.org/'>Bioconductor]</a> provides more than 1800 R packages for the analysis and comprehension of high-throughput genomic data. Most users install and run Bioconductor on a personal computer or perhaps use an academic cluster. Cloud-based solutions are increasing appealing, removing the headaches of local installation while providing access to (a) better, scalable computing resources; and (b) large-scale 'consortium' and other reference data sets. This session introduces the <a href='https://anvilproject.org/'>AnVIL</a> cloud computing environment. We cover use of the cloud as</p>
+<ul>
+<li> a replacement to desktop-style computing;</li>
+<li> integrating workflows for 'upstream' processing of large data resources with interactive 'downstream' analysis and comprehension, using <a href='https://data.humancellatlas.org/'>Human Cell Atlas</a> single-cell datasets as an example; and </li>
+<li> querying cloud-based consortium data for integration with a users' own data sets. </li>
+</ul>",
+      prereqs: "<ul>
+<li> Participants should be comfortable working with R and <a href='https://rstudio.com/products/rstudio/'>RStudio</a>.</li>
+<li> Some familiarity with Bioconductor is helpful but not required.</li>
+<li> No prior cloud-based experience is necessary.</li>
+<li> A wifi enabled laptop with RStudio installed.</li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+      }
+
+  - { title: "Real-time, collaborative genome assembly and annotation with Galaxy, Maker, and Apollo",
+      information: "<p>Will assemble a small genome in <a href='https://galaxyproject.org'>Galaxy</a>, running <a href='https://www.yandell-lab.org/software/maker.html'>MAKER</a>, and publishing the result to <a href='https://genomearchitect.readthedocs.io/en/latest/'>Apollo</a> where collaborative annotation is done. Starting from some structural annotation we will transparently work with Apollo data in Galaxy to do functional analyses, visualising everything in Apollo.</p>
+<p>This will all be done on existing public infrastructure for free, demonstrating how small groups can easily get started with genome annotation, allowing them to focus on the bioinformatics. For larger groups we will show some examples of how you can reproduce our infrastructure and pipelines.</p>",
+      prereqs: "<ul>
+<li> A wi-fi-enabled laptop </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "Building communities with open source + open science",
+      information: "<p>Many journals require that scientific / research code to be open source in order to be published, but simply sharing source code alone isn’t usually enough to draw in new users and contributors. This session will teach researchers and coders the basics of how to make their open source scientific code repositories inclusive and welcoming to contributors.  Experienced community managers are also welcome to attend and help pass their knowledge on to others. This session will be run by the Open Life Science team, who collectively have experience working openly, mentoring, and training others in open practice.</p>",
+      prereqs: "<ul>
+<li> An interest in open science</li>
+<li> A wi-fi enabled laptop </li>
+</ul>",
+      duration: "1 session (2.5 hours)"
+    }
+
+  - { title: "Train the Galaxy Trainer",
+      information: "<p>This workshop will introduce:</p>
+<ul>
+<li> using Galaxy as a training tool</li>
+<li> Determining aim and audience</li>
+<ul>
+  <li> e.g. single topic; string of related topics;</li>
+  <li> e.g. response to specific request for training; or general upskilling people in Galaxy bioinformatics</li>
+</ul>
+<li> setting up appropriate infrastructure</li>
+<ul>
+  <li> usegalaxy.* resources</li>
+  <li> TIaaS</li>
+  <li> Your own</li>
+</ul>
+<li> The available materials</li>
+<ul>
+  <li> GTN tutorials</li>
+  <li> and/or write your own; including how to contribute it to GTN</li>
+  <li> Customising materials for your needs (Slides, language etc.)</li>
+</ul>
+<li> Distributed workshops</li>
+<ul>
+  <li> In practice</li>
+  <li> Local facilitators vs lead trainers</li>
+  <li> Using Zoom / Skype / other video conferencing software</li>
+</ul>
+<li> Practise setting up your own workshop?</li>
+<ul>
+  <li> eg. choose a topic from GTN</li>
+  <li> check that it runs on Galaxy server of choice</li>
+  <li> time it // modify if need be (e.g. cut down data set more?)</li>
+  <li> create schedule, eg google doc → publish → tinyurl</li>
+</ul>
+<li> Getting good feedback!</li>
+</ul>",
+      prereqs: "<ul>
+<li>An interest in bioinformatics training and Galaxy</li>
+</ul>",
+      duration: "1 session (2.5 hours)"
+    }
+
+  - { title: "Getting started in Git using GitHub Desktop",
+      information: "<p>Git doesn't need to be tricky, and you don't need to use a terminal to do it. In a 2.5 hour session, we will talk over the basics of version control covering:</p>
+<ul>
+<li> why version control is useful,</li>
+<li> how to create your first git repository,</li>
+<li> the basics of markdown,</li>
+<li> what a pull request is,</li>
+<li> and why open source is important in science.</li>
+</ul>
+<p>Instead of focusing on code in a specific programming langauge, will instead focus on a common neutral ground - markdown - which will also give participants the ability to create their own personal or lab website on GitHub Pages.</p>",
+      prereqs: "<ul>
+<li> A laptop capable of running GitHub desktop (e.g. a linux, mac, or windows laptop, but not a chromebook or tablet).</li>
+</ul>",
+      duration: "1 session (2.5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }
+
+  - { title: "",
+      information: "<p></p>",
+      prereqs: "<ul>
+<li> </li>
+</ul>",
+      duration: "2 sessions (5 hours)"
+    }

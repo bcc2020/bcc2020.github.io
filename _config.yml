@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/submit/", text: "Submit"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/training/", text: "Training"}
  - {permalink: "/location/", text: "Location"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
@@ -207,7 +208,6 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
