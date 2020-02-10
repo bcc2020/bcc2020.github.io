@@ -175,7 +175,7 @@ trainingToolsAndPlatformsCards:
 
   -
     title: "Scripting Galaxy with BioBlend"
-    information: "<p><a href='https://galaxyproject.org/'>Galaxy</a> has an always-growing API that allows for external programs to upload and download data, manage histories and datasets, run tools and workflows, and even perform admin tasks. This session will cover various approaches to access the API, in particular using the < a href='https://bioblend.readthedocs.io/en/latest/'>BioBlend Python library</a>.</p>"
+    information: "<p><a href='https://galaxyproject.org/'>Galaxy</a> has an always-growing API that allows for external programs to upload and download data, manage histories and datasets, run tools and workflows, and even perform admin tasks. This session will cover various approaches to access the API, in particular using the <a href='https://bioblend.readthedocs.io/en/latest/'>BioBlend Python library</a>.</p>"
     id: "bioblend"
     prereqs: "<ul>
 <li> Basic understanding of Galaxy from a developer point of view.</li>
