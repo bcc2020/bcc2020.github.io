@@ -1,21 +1,28 @@
 <!-- Begin training Section -->
 <section id="training">
-    <div class="content-wrapper">
+    <div class="content-wrapper text-left">
         <div class="col-lg-8 col-md-10 col-md-offset-1">
-            <h4 style="text-align: left;">Please vote on the training topics you would like to see at BCC2020.</h4>
-            <p style="text-align: left;">Training will be offered</p>
-            <ul style="text-align: left;">
+            <h4>Please vote on the training topics you would like to see at BCC2020.</h4>
+            <p>Training will be offered</p>
+            <ul>
                 <li>Saturday, July 18: Dedicated training day, with multiple sessions and concurrent tracks.  Has a separate registration.</li>
                 <li>Sunday-Monday, July 19-21: There will be one training session with concurrent topics each day, during the first two days of the meeting.</li>
             </ul>
-            <h4 style="text-align: left;">Nominated Topics</h4>
+            <p>The nominations are split into three sections:</p>
+            <ul>
+              <li><a href="#tools=and=platforms">Tools and Platforms</a></li>
+              <li><a href="#domains">Domains</a></li>
+              <li><a href="#community">Community</a></li>
+            </ul>
+            <p>The distinction betweeen <em>Tools and Platforms</em> and <em>Domains</em> is a bit fuzzy.  Be sure to check both.</p>
+            <h4>Nominated Topics</h4>
         </div>
         <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 text-left">
-                <h5 style="text-aligh: left;">Tools and Platforms</h5>
+            <div class="col-lg-10 col-lg-offset-1">
+                <h5 id="tools-and-platforms">Tools and Platforms</h5>
                 <div class="card-deck">
                     {% for topic in site.data.training.trainingToolsAndPlatformsCards %}
-                            <div class="card">
+                            <div class="card" style="background-color: #eeeeff">
                                 <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
                                 <p>{{ topic.information }}</p>
                                 <p><strong>Prerequisites</strong></p>
@@ -26,10 +33,10 @@
                     {% endfor %}
                 </div>
         
-                <h5 style="text-aligh: left;">Domains</h5>
+                <h5 id="domains">Domains</h5>
                 <div class="card-deck">
                 {% for topic in site.data.training.trainingDomainCards %}
-                        <div class="card">
+                        <div class="card" style="background-color: #eeffee">
                             <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
                             <p>{{ topic.information }}</p>
                             <p><strong>Prerequisites</strong></p>
@@ -40,13 +47,13 @@
                 {% endfor %}
                 </div>    
                     
-                <h5 style="text-aligh: left;">Community</h5>
+                <h5 id="community">Community</h5>
                 <div class="card-deck">
                 {% for topic in site.data.training.traningCommunityCards %}
-                        <div class="card">
+                        <div class="card" style="background-color: #ffeeee">
                             <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
                             <p>{{ topic.information }}</p>
-                            <p><strong>Prerquisites</strong></p>
+                            <p><strong>Prerequisites</strong></p>
                             <p>{{ topic.prereqs }}</p>
                             <p><strong>Duration</strong></p>
                             <p>{{ topic.duration }}</p>
