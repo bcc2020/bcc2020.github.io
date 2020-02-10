@@ -22,8 +22,8 @@
                 <h5 style="text-aligh: left;" id="tools-and-platforms">Tools and Platforms</h5>
                 <div class="card-deck">
                     {% for topic in site.data.training.trainingToolsAndPlatformsCards %}
-                            <div class="card" style="background-color: #fffff8">
-                                <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
+                            <div class="card" style="background-color: #fffff8" id="{{ topic.id }}">
+                                <h5>{{ topic.title }}</h5>
                                 <p>{{ topic.information }}</p>
                                 <p><strong>Prerequisites</strong></p>
                                 <p>{{ topic.prereqs }}</p>
@@ -36,8 +36,8 @@
                 <h5 style="text-aligh: left;" id="domains">Domains</h5>
                 <div class="card-deck">
                 {% for topic in site.data.training.trainingDomainCards %}
-                            <div class="card" style="background-color: #f8fff8">
-                            <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
+                            <div class="card" style="background-color: #f8fff8" id="{{ topic.id }}">
+                            <h5>{{ topic.title }}</h5>
                             <p>{{ topic.information }}</p>
                             <p><strong>Prerequisites</strong></p>
                             <p>{{ topic.prereqs }}</p>
@@ -49,9 +49,9 @@
                     
                 <h5 style="text-aligh: left;" id="community">Community</h5>
                 <div class="card-deck">
-                {% for topic in site.data.training.traningCommunityCards %}
-                            <div class="card" style="background-color: #fff8f8">
-                            <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
+                {% for topic in site.data.training.traningCommunityCards %}  
+                            <div class="card" style="background-color: #fff8f8" id="{{ topic.id }}">
+                            <h5>{{ topic.title }}</h5>
                             <p>{{ topic.information }}</p>
                             <p><strong>Prerquisites</strong></p>
                             <p>{{ topic.prereqs }}</p>
