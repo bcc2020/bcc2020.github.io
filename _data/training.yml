@@ -52,7 +52,7 @@ trainingToolsAndPlatformsCards:
     information: "<p>Everyone knows how to do their analysis on a single dataset, but now it’s the Big Data era and data is pouring in faster than you can process it! We will show you how to manage importing hundreds and thousands of samples, processing these in batch, and scaling analyses to hundreds and thousands of datasets with complex experimental designs. You’ll learn about the new rule based uploader and how to attach metadata to datasets in bulk, management of sample collections in workflows, and scaling your processing to meet your demands.</p>"
     id: "scaling"
     prereqs: "<ul>
-<li> Introduction to Galaxy or equivalent experience</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
 </li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
     duration: "1 session (2.5 hours)"
@@ -162,7 +162,7 @@ trainingToolsAndPlatformsCards:
 
   -
     title: "Enabling GA4GH htsget API server"
-    information: "<p><a href='https://htsget.readthedocs.io/en/latest/>htsget API</a> is a protocol for  securely streaming read and variant genomic data. Benefits it offers over file transfer are parallel access and smaller transfers, as users only download subsections of the genome they are interested in. Retrieval with htsget is built into <a href='http://www.htslib.org/'>htslib and samtools</a>, and it is in use at large genomic dataset providers such as the European Genome-phenome archive, CanDIG, Genomics England, and the Australian Genomics Health Alliance.</p>
+    information: "<p><a href='https://academic.oup.com/bioinformatics/article/35/1/119/5040320'>htsget API</a> is a protocol for  securely streaming read and variant genomic data. Benefits it offers over file transfer are parallel access and smaller transfers, as users only download subsections of the genome they are interested in. Retrieval with htsget is built into <a href='https://github.com/samtools/htslib'>htslib</a> and samtools, and it is in use at large genomic dataset providers such as the European Genome-phenome archive, CanDIG, Genomics England, and the Australian Genomics Health Alliance.</p>
 
 <p>This session will consist of a talk introducing htsget followed by a practical session in which participants will learn how to setup a htsget server on a collection of BAM/CRAM files, run a variant calling pipeline accessing data using htsget over these files, and then setting up htsget server over the resultant VCF files.</p>"
     id: "ga4gh"
@@ -221,12 +221,12 @@ trainingDomainCards:
 
   -
     title: "Epigenetics Analysis with Galaxy"
-    information: "<p>This workshop showcases the powerful capabilities of Galaxy to handle NGS data. Using an <a href='https://en.wikipedia.org/wiki/ATAC-seq'>ATAC-seq</a> dataset, we will perform a complete workflow, from fastq files to publication-ready figures.  Assay for Transposase-Accessible Chromatin using sequencing (ATAC-Seq) is a method to investigate the accessibility of chromatin and thus a method to determine regulatory mechanisms of gene expression. The method helps identify promoter regions and potential enhancers and silencers.</p>"
+    information: "<p>This workshop showcases the powerful capabilities of Galaxy to handle NGS data. We will perform a complete workflow, from fastq files to publication-ready figures, using an <a href='https://en.wikipedia.org/wiki/ATAC-seq'>ATAC-seq</a> dataset.  Assay for Transposase-Accessible Chromatin using sequencing (ATAC-Seq) is a method to investigate the accessibility of chromatin and thus a method to determine regulatory mechanisms of gene expression. The method helps identify accessible promoter regions and potential enhancers.</p>"
     id: "epi"
     prereqs: "<ul>
-<li> Introduction to Galaxy or equivalent experience</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
 <li> familiarity with NGS and genomic data.</li>
-<li> a wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
     duration: "1 session (2.5 hours)"
 
@@ -236,7 +236,7 @@ trainingDomainCards:
     information: "<p>This Ecology-focused session will introduce using <a href='https://galaxyproject.org/'>Galaxy</a> to import (from external sources as GBIF, iNaturalist, Atlas of Living Australia or Zenodo repositories), handle (filter, rename fields, search/replace text patterns), visualize (stacked histograms) and analyze (calculate species abundance, phenology and trends) biodiversity data.</p>"
     id: "biodiv"
     prereqs: "<ul>
-<li> Introduction to Galaxy or equivalent experience</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
 <li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </li>
 </ul>"
@@ -249,20 +249,22 @@ trainingDomainCards:
 </p>"
     id: "metabo"
     prereqs: "<ul>
-<li> Introduction to Galaxy or equivalent experience </li>
-* A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best
-</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
     duration: "2 sessions (5 hours)"
 
 
   -
     title: "Real-time, collaborative genome assembly and annotation with Galaxy, Maker, and Apollo"
-    information: "<p>Will assemble a small genome in <a href='https://galaxyproject.org'>Galaxy</a>, running <a href='https://www.yandell-lab.org/software/maker.html'>MAKER</a>, and publishing the result to <a href='https://genomearchitect.readthedocs.io/en/latest/'>Apollo</a> where collaborative annotation is done. Starting from some structural annotation we will transparently work with Apollo data in Galaxy to do functional analyses, visualising everything in Apollo.</p>
-<p>This will all be done on existing public infrastructure for free, demonstrating how small groups can easily get started with genome annotation, allowing them to focus on the bioinformatics. For larger groups we will show some examples of how you can reproduce our infrastructure and pipelines.</p>"
+    information: "<p>To demonstrate collaborative assembly and annotation,  we will assemble a small bacteria genome in <a href='https://galaxyproject.org'>Galaxy</a>, annotate it running <a href='https://github.com/tseemann/prokka'>Prokka</a>, and publish the result to <a href='https://genomearchitect.readthedocs.io/en/latest/'>Apollo</a> where collaborative structural annotation is done. Choosing a few completed structural annotations from Apollo, we will guide students on pushing those annotations into Galaxy to do functional analyses, visualising the final result in Apollo.</p>
+
+<p>We will then demonstrate how the same system can be used for eukaryotic genomes with an example of an annotation performed using <a href='https://www.yandell-lab.org/software/maker.html'>MAKER</a>.</p>
+
+<p>This will be done on existing public infrastructure for free, demonstrating how small groups can easily get started with genome annotation, allowing them to focus on the bioinformatics. For larger groups we will show some examples of how you can reproduce our infrastructure and pipelines.</p>"
     id: "genome"
     prereqs: "<ul>
-<li> A wi-fi-enabled laptop </li>
+<li> A Wi-Fi-enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best.</li>
 </ul>"
     duration: "2 sessions (5 hours)"
 
@@ -285,11 +287,11 @@ trainingDomainCards:
 
 
   -
-    title: "Processing of Single Cell RNA-Seq Data"
-    information: "<p>Participants will learn about the processing, mapping and quantification of single cell RNA-Seq data generated using the 10x Genomics platform and Galaxy. </p>"
+    title: "Processing of Single Cell RNA-Seq Data with Galaxy"
+    information: "<p>Participants will learn about the processing, mapping and quantification of single cell RNA-Seq data generated using the 10x Genomics platform. </p>"
     id: "scrna1"
     prereqs: "<ul>
-<li> Introduction to Galaxy or equivalent experience</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
 <li> familiarity with bulk RNA-Seq.</li>
 <li> a wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
@@ -297,12 +299,12 @@ trainingDomainCards:
 
 
   -
-    title: "Clustering of Single Cell RNA-seq Data"
+    title: "Clustering of Single Cell RNA-seq Data with Galaxy"
     information: "<p>Participants will learn about clustering and annotation of single-cell data generated using the 10x Genomics platform using the ScanPy downstream analysis workflow.</p>"
     id: "scrna2"
     prereqs: "<ul>
 <li> Processing of Single Cell RNA-Seq Data or equivalent experience</li>
-<li> Introduction to Galaxy or equivalent experience</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
 <li> familiarity with bulk RNA-Seq.</li>
 <li> a wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
