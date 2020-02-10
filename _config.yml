@@ -8,12 +8,11 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "BCC2020"
 email: "bcc2020-org@lists.galaxyproject.org"
 description: "BCC2020 brings together the Galaxy Community Conference and Bioinformatics Open Source Conference to meet jointly in Toronto, Ontario, Canada."
-baseurl: "/bcc2020.github.io/"
+baseurl: "/bcc2020.github.io"
 url: "https://kmolto.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
@@ -75,13 +74,16 @@ aboutUsHistory: "Bioinformatics Community conference is a combination of two exi
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
-  - {date: "April 17 2020", thing: "Abstract Submission Deadline"}
-  - {date: "April 17 2020", thing: "Early Bird Deadline"}
-  - {date: "May 12 2020", thing: "Acceptance Notifications"}
-  - {date: "June 5 2020", thing: "Late-breaking lightning talks/Late Poster Submission Deadline"}
-  - {date: "June 15 2020", thing: "Advance Registration Deadline"}
-  - {date: "July 18 2020", thing: "Training"}
-  - {date: "July 19-21 2020", thing: "Main Meeting & Training"}
+  - {date: "February 2020", thing: "Registration opens"}
+  - {date: "March 2020", thing: "Abstract submission opens"}
+  - {date: "April 17 2020", thing: "Abstract submission deadline"}
+  - {date: "May 12 2020", thing: "Acceptance notifications sent to authors"}
+  - {date: "June 2020", thing: "Early registration ends"}
+  - {date: "June 5 2020", thing: "Late-breaking lightning talks/Late ooster submission deadline"}
+  - {date: "June 15 2020", thing: "Advance registration ends"}
+  - {date: "July 12-16 2020", thing: "<a href='https://www.iscb.org/ismb2020' alt='ISMB 2020 homepages'>ISMB 2020</> in Montreal"}
+  - {date: "July 18 2020", thing: "Optional training day"}
+  - {date: "July 19-21 2020", thing: "Talks and tutorials"}
   - {date: "July 22-23 2020", thing: "CoFest: Core"}
   - {date: "July 24-25", thing: "CoFest: EnCore"}
 
@@ -147,7 +149,6 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: ""
 subscribeInfo: "Registration will open in late 2019. Stay tuned!"
-
 # Tickets Block
 ticketsTitle: "Registration fees"
 ticketsInfo: "Registration grants access to all conference sections, coffee breaks, lunch and social activities. Accommodation is NOT included in the ticket price."
@@ -193,7 +194,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Attend CoFest: Encore July 24-25"
   validFrom: "2020-03-01T00:00"
-  validThrough: "2020-04-17T23:59"
+  validThrough:  "2020-04-17T23:59"
   disabled: true
 
 
@@ -233,7 +234,6 @@ showSessions: false
 # Team Block
 teamBlockTitle: "The team"
 teamBlockDescription: "The team behind BCC is a combination of OBF, Galaxy, and OICR members, along with community members that generously donate their time to review abstracts, chair sessions, and review the program."
-
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
