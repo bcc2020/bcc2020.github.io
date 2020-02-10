@@ -1,5 +1,5 @@
 <!-- Begin training Section -->
-<section id="training" class="schedule">
+<section id="training">
     <div class="content-wrapper">
         <div class="col-lg-8 col-md-10 col-md-offset-1">
             <h4 style="text-align: left;">Please vote on the training topics you would like to see at BCC2020.</h4>
@@ -12,20 +12,47 @@
         </div>
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-left">
-                {% assign animationDelay = 0 %}
-                {% for topic in site.data.training.trainingTopicCards %}
-                    {% assign colWidth = 12 | divided_by: forloop.length %}
-                    <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                <h5 style="text-aligh: left;">Tools and Platforms</h5>
+                <div class="card-deck">
+                    {% for topic in site.data.training.trainingToolsAndPlatformsCards %}
+                            <div class="card">
+                                <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
+                                <p>{{ topic.information }}</p>
+                                <p><strong>Prerquisites</strong></p>
+                                <p>{{ topic.prereqs }}</p>
+                                <p><strong>Duration</strong></p>
+                                <p>{{ topic.duration }}</p>
+                            </div>
+                    {% endfor %}
+                </div>
+        
+                <h5 style="text-aligh: left;">Domains</h5>
+                <div class="card-deck">
+                {% for topic in site.data.training.trainingDomainCards %}
                         <div class="card">
-                            <h4>{{ topic.title }}</h4>
+                            <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
                             <p>{{ topic.information }}</p>
                             <p><strong>Prerquisites</strong></p>
                             <p>{{ topic.prereqs }}</p>
                             <p><strong>Duration</strong></p>
                             <p>{{ topic.duration }}</p>
                         </div>
-                    </div>
                 {% endfor %}
+                </div>    
+                    
+                <h5 style="text-aligh: left;">Community</h5>
+                <div class="card-deck">
+                {% for topic in site.data.training.traningCommunityCards %}
+                        <div class="card">
+                            <h5 id="{{ topic.id }}">{{ topic.title }}</h5>
+                            <p>{{ topic.information }}</p>
+                            <p><strong>Prerquisites</strong></p>
+                            <p>{{ topic.prereqs }}</p>
+                            <p><strong>Duration</strong></p>
+                            <p>{{ topic.duration }}</p>
+                        </div>
+                {% endfor %}
+                </div>
             </div>
         </div>
     </div>

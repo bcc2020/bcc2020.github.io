@@ -1,42 +1,339 @@
 # Nominated training topics go here.
 
-trainingTopicCards:
-  - { title: "R / Bioconductor in the Cloud",
-      information: "<p><a href='https://bioconductor.org/'>Bioconductor]</a> provides more than 1800 R packages for the analysis and comprehension of high-throughput genomic data. Most users install and run Bioconductor on a personal computer or perhaps use an academic cluster. Cloud-based solutions are increasing appealing, removing the headaches of local installation while providing access to (a) better, scalable computing resources; and (b) large-scale 'consortium' and other reference data sets. This session introduces the <a href='https://anvilproject.org/'>AnVIL</a> cloud computing environment. We cover use of the cloud as</p>
+trainingToolsAndPlatformsCards:
+  -
+    title: "Getting started in Git using GitHub Desktop"
+    information: "<p>Git doesn't need to be tricky, and you don't need to use a terminal to do it. In a 2.5 hour session, we will talk over the basics of version control covering:</p>
+<ul>
+<li> why version control is useful,</li>
+<li> how to create your first git repository,</li>
+<li> the basics of markdown,</li>
+<li> what a pull request is,</li>
+<li> and why open source is important in science.</li>
+</ul>
+<p>Instead of focusing on code in a specific programming langauge, will instead focus on a common neutral ground - markdown - which will also give participants the ability to create their own personal or lab website on GitHub Pages.</p>"
+    id: "git"
+    prereqs: "<ul>
+<li> A laptop capable of running GitHub desktop (e.g. a linux, mac, or windows laptop, but not a chromebook or tablet).</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+  -
+    title: "R / Bioconductor in the Cloud"
+    information: "<p><a href='https://bioconductor.org/'>Bioconductor</a> provides more than 1800 R packages for the analysis and comprehension of high-throughput genomic data. Most users install and run Bioconductor on a personal computer or perhaps use an academic cluster. Cloud-based solutions are increasing appealing, removing the headaches of local installation while providing access to (a) better, scalable computing resources; and (b) large-scale 'consortium' and other reference data sets. This session introduces the <a href='https://anvilproject.org/'>AnVIL</a> cloud computing environment. We cover use of the cloud as</p>
 <ul>
 <li> a replacement to desktop-style computing;</li>
 <li> integrating workflows for 'upstream' processing of large data resources with interactive 'downstream' analysis and comprehension, using <a href='https://data.humancellatlas.org/'>Human Cell Atlas</a> single-cell datasets as an example; and </li>
 <li> querying cloud-based consortium data for integration with a users' own data sets. </li>
-</ul>",
-      prereqs: "<ul>
+</ul>"
+    id: "r"
+    prereqs: "<ul>
 <li> Participants should be comfortable working with R and <a href='https://rstudio.com/products/rstudio/'>RStudio</a>.</li>
 <li> Some familiarity with Bioconductor is helpful but not required.</li>
 <li> No prior cloud-based experience is necessary.</li>
 <li> A wifi enabled laptop with RStudio installed.</li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-      }
+</ul>"
+    duration: "2 sessions (5 hours)"
 
-  - { title: "Real-time, collaborative genome assembly and annotation with Galaxy, Maker, and Apollo",
-      information: "<p>Will assemble a small genome in <a href='https://galaxyproject.org'>Galaxy</a>, running <a href='https://www.yandell-lab.org/software/maker.html'>MAKER</a>, and publishing the result to <a href='https://genomearchitect.readthedocs.io/en/latest/'>Apollo</a> where collaborative annotation is done. Starting from some structural annotation we will transparently work with Apollo data in Galaxy to do functional analyses, visualising everything in Apollo.</p>
-<p>This will all be done on existing public infrastructure for free, demonstrating how small groups can easily get started with genome annotation, allowing them to focus on the bioinformatics. For larger groups we will show some examples of how you can reproduce our infrastructure and pipelines.</p>",
-      prereqs: "<ul>
+
+  -
+    title: "Introduction to Using Galaxy"
+    information: "<p>This workshop will introduce the Galaxy user interface and how it can be used for reproducible data analysis. We will cover the basic features of Galaxy, including where to find tools, how to import and use your data, and an introduction to workflows. This session is recommended for anyone who has not used, or only rarely uses Galaxy.</p>"
+    id: "gxyintro"
+    prereqs: "<ul>
+<li> Little or no experience using Galaxy</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "From stars to constellations: Scaling analyses in Galaxy"
+    information: "<p>Everyone knows how to do their analysis on a single dataset, but now it’s the Big Data era and data is pouring in faster than you can process it! We will show you how to manage importing hundreds and thousands of samples, processing these in batch, and scaling analyses to hundreds and thousands of datasets with complex experimental designs. You’ll learn about the new rule based uploader and how to attach metadata to datasets in bulk, management of sample collections in workflows, and scaling your processing to meet your demands.</p>"
+    id: "scaling"
+    prereqs: "<ul>
+<li> Introduction to Galaxy or equivalent experience</li>
+</li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "How to use Reactome data, tools and web services"
+    information: "<p><a href='https://reactome.org/'>Reactome</a> stakeholders span the informatics, clinical and basic research communities, and present us with a broad set of user requirements, from casual browsing of online pathway information to network analysis and modeling. During the BCC2020 training session, we will introduce the Reactome graph database, web site, web services, Docker image, and downloadable data sets. We will demonstrate how Reactome is useful to bioinformaticians and data integrators who are interested  in finding, organizing, and utilizing biological information to support data visualization, integration and analysis. We will address the following:</p>
+<ul>
+<li> Different use cases for using the web portal (analysis tool, curated content, content service, download files).</li>
+<li> What data/bioinformatics questions Reactome can help answer.</li>
+<li> How to use Reactome’s <a href='https://reactome.org/dev/content-service'>Content Service</a> and <a href='https://reactome.org/dev/analysis'>Analysis Service</a> web interfaces and APIs.</li>
+<li> How to do basic queries using Reactome’s Graph Database (Neo4J and Cypher).</li>
+</ul>"
+    id: "reactome"
+    prereqs: "<ul>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+<li> Basic knowledge of how to navigate a system and run commands from the command line (curl, grep, etc…)</li>
+<li> A robust text editor and web browser.</li>
+<li> Optional: A laptop capable of running Docker <a href='https://docs.docker.com/install/'>installation instructions</a>.</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Handling integrated biological data using Python, Jupyter, and InterMine"
+    information: "<p>This tutorial will guide you through loading and analyzing integrated biological data (generally genomic or proteomic data) using <a href='http://intermine.org/'>InterMine</a>, either via UI or via an API in Python. Topics covered will include automatically generating code to perform queries, customising the code to meet your needs, and automated analysis of sets, e.g gene sets, including enrichment statistics. Skills gained can be re-used in any of the dozens of InterMines available, covering a broad range of organisms and dedicated purposes, from model organisms to plants, drug targets, and mitochondrial DNA.</p>
+
+<p>Users will also be shown how to import and export their gene and protein lists to and from <a href='https://galaxyproject.org/'Galaxy to link galaxy pipelines with InterMine analyses.  Exercises will be carried out using <a href='https://jupyter.org/'>Jupyter notebooks</a> hosted on <a href=https://https://jupyter.org/'>https://jupyter.org/<a/>.</p>"
+    id: "intermine"
+    prereqs: "<ul>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Introduction to Galaxy Administration"
+    information: "<p>After attending this three-session workshop you will be able to set up, configure, and administer a fairly polished Galaxy instance. Topics include:</p>
+<ul>
+<li> deployment and platform options</li>
+<li> using Ansible to install and configure your own server</li>
+<li> customizing and extending your instance</li>
+<li> defining and importing genomes, running data managers</li>
+<li> upgrading to a new Galaxy release</li>
+<li> configure nginX webserver with Galaxy</li>
+<li> database overview and best practices</li>
+<li> running tools in containers</li>
+<li> users and groups and quotas</li>
+<li> storage management and using heterogeneous storage services</li>
+<li> exploring the Galaxy job configuration file</li>
+<li> connecting Galaxy to compute clusters</li>
+<li> polishing Galaxy on uWSGI application server</li>
+<li> instance monitoring using Grafana</li>
+<li> shared data management with CVMFS</li>
+<li> when things go wrong: Galaxy server troubleshooting tips & examples</li>
+</ul>
+</p>"
+    id: "gxyadmin"
+    prereqs: "<ul>
+<li>Knowledge and comfort with the Unix/Linux command line interface and a text editor: If you don't know what cd, mv, rm, mkdir, chmod, grep and so on can do then you will struggle </li>
+</ul>"
+    duration: "3 sessions (7.5 hours)"
+
+
+  -
+    title: "Scaling genomic analysis with Glow and Apache Spark"
+    information: "<p>How to use <a href='https://github.com/projectglow/glow'>Glow</a> to:</o>
+<ul>
+<li> Read/write genomic file formats</li>
+<li> Write results to Delta tables</li>
+<li> Perform quality control and GWAS analyses</li>
+<li> Parallelize command line tools</li>
+<li> Serve results to shiny apps or BI tools</li>
+</ul>
+
+<p>Glow makes genomic data work with Apache Spark, the leading engine for working with large structured datasets. It fits natively into the ecosystem of tools that have enabled thousands of organizations to scale their workflows to petabytes of data. Glow bridges the gap between bioinformatics and the Spark ecosystem by working with datasets in common file formats like VCF, BGEN, and Plink as well as high-performance big data standards. You can write queries using the native Spark SQL APIs in Python, SQL, R, Java, and Scala. The same APIs allow you to bring your genomic data together with other datasets such as electronic health records, real world evidence, and medical images. Glow makes it easy to parallelize existing tools and libraries implemented as command line tools or Pandas functions.</p>"
+    id: "glow"
+    prereqs: "<ul>
+<li> Basic Python</li>
+<li> Some exposure to Spark useful but not necessary</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Embedding JBrowse 2 in your website"
+    information: "<p><a href='http://jbrowse.org/'>JBrowse</a> 2 is a wholly new rewrite of JBrowse and will now be much easier to embedding in any website.  We will cover various methods for doing this depending on the desired end result.</p>"
+    id: "embedding"
+    prereqs: "<ul>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "How to write a JBrowse 2 plugin"
+    information: "<p><a href='http://jbrowse.org/'>JBrowse</a> 2 is a new genome browser that is built using <a href='https://reactjs.org/'>ReactJS</a>. It has new features for structural variant visualization and comparative genomics with things like split views, synteny views, <a href='http://circos.ca/'>Circos</a> views and more. We will demonstrate how to setup JBrowse 2 and show how new plugins can create custom views, custom tracks, or custom data adapters in JBrowse 2.
+</p>"
+    id: "plugin"
+    prereqs: "<ul>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+<li> Experience with Javascript a plus but not necessary.</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Enabling GA4GH htsget API server"
+    information: "<p><a href='https://htsget.readthedocs.io/en/latest/>htsget API</a> is a protocol for  securely streaming read and variant genomic data. Benefits it offers over file transfer are parallel access and smaller transfers, as users only download subsections of the genome they are interested in. Retrieval with htsget is built into <a href='http://www.htslib.org/'>htslib and samtools</a>, and it is in use at large genomic dataset providers such as the European Genome-phenome archive, CanDIG, Genomics England, and the Australian Genomics Health Alliance.</p>
+
+<p>This session will consist of a talk introducing htsget followed by a practical session in which participants will learn how to setup a htsget server on a collection of BAM/CRAM files, run a variant calling pipeline accessing data using htsget over these files, and then setting up htsget server over the resultant VCF files.</p>"
+    id: "ga4gh"
+    prereqs: "<ul>
+<li> A wi-fi enabled laptop</li>
+<li> Ability to use command line tools</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Scripting Galaxy with BioBlend"
+    information: "<p><a href='https://galaxyproject.org/'>Galaxy</a> has an always-growing API that allows for external programs to upload and download data, manage histories and datasets, run tools and workflows, and even perform admin tasks. This session will cover various approaches to access the API, in particular using the < a href='https://bioblend.readthedocs.io/en/latest/'>BioBlend Python library</a>.</p>"
+    id: "bioblend"
+    prereqs: "<ul>
+<li> Basic understanding of Galaxy from a developer point of view.</li>
+<li> Python programming.</li>
+<li> A Wi-Fi-enabled laptop with a modern web browser (Google Chrome, Firefox and Safari will work best).</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Reference data with CVMFS and remote jobs with Pulsar"
+    information: "<p>Learn to use CVMFS for easy access to ready-to-go terabytes of reference data in Galaxy. Then find out how to send jobs to the ends of the universe with Pulsar!</p>"
+    id: "cvmfs"
+    prereqs: "<ul>
+<li> Basic understanding of Galaxy from a developer point of view.</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox, and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Getting started with reproducible analysis using Dockstore"
+    information: "<p>This will be a hands-on workshop to train a beginner on the fundamental technologies used to create portable and reproducible workflows. Attendees will learn how to use Docker for packaging software into containers, how to write analytical workflows in a descriptor language (CWL, WDL, or Nextflow), and how to publish these workflows on Dockstore for sharing with others. We will cover basic Dockstore features such as running workflows using the Dockstore command-line interface and end with an overview of more advanced topics like best practices for workflows, publishing using DOIs, and sharing collections of workflows through organizations.</p>"
+    id: "dockstore"
+    prereqs: "<ul>
+<li> Basic command line and scripting knowledge</li>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+</ul>"
+    duration: "1 sessions (2.5 hours)"
+
+
+  -
+    title: "How to do reproducible analyses in the cloud"
+    information: "<p>This training will lead users through the steps of performing reproducible analysis at scale in the cloud.  Attendees will learn how to find workflows on Dockstore and how to export them to Terra’s interoperable cloud compute platform. We will give a brief tutorial of the Terra platform, show users how to find and import datasets, and walk through an example use case for genomic analysis. Along the way we’ll give you tips and tricks for scaling analyses on the Terra environment and introduce some of the more advanced features like using Jupyter Notebooks for producing and exploring results.</p>"
+    id: "terra"
+    prereqs: "<ul>
+<li> Preferably, a Google account set up with Terra, instructions will be provided ahead of time.</li>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+trainingDomainCards:
+
+  -
+    title: "Epigenetics Analysis with Galaxy"
+    information: "<p>This workshop showcases the powerful capabilities of Galaxy to handle NGS data. Using an <a href='https://en.wikipedia.org/wiki/ATAC-seq'>ATAC-seq</a> dataset, we will perform a complete workflow, from fastq files to publication-ready figures.  Assay for Transposase-Accessible Chromatin using sequencing (ATAC-Seq) is a method to investigate the accessibility of chromatin and thus a method to determine regulatory mechanisms of gene expression. The method helps identify promoter regions and potential enhancers and silencers.</p>"
+    id: "epi"
+    prereqs: "<ul>
+<li> Introduction to Galaxy or equivalent experience</li>
+<li> familiarity with NGS and genomic data.</li>
+<li> a wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Import, handle, visualize and analyze biodiversity data in Galaxy"
+    information: "<p>This Ecology-focused session will introduce using <a href='https://galaxyproject.org/'>Galaxy</a> to import (from external sources as GBIF, iNaturalist, Atlas of Living Australia or Zenodo repositories), handle (filter, rename fields, search/replace text patterns), visualize (stacked histograms) and analyze (calculate species abundance, phenology and trends) biodiversity data.</p>"
+    id: "biodiv"
+    prereqs: "<ul>
+<li> Introduction to Galaxy or equivalent experience</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "LC-MS/MS metabolomics data analysis with Galaxy"
+    information: "<p>Metabolomics data analysis is a complex, multistep process, which is constantly evolving with the development of new analytical technologies, mathematical methods, and bioinformatics tools and databases. The <a href='https://workflow4metabolomics.org/'>Workflow4Metabolomics (W4M) project</a> aims to develop full LC/MS, GC/MS, FIA/MS and NMR pipelines using Galaxy framework for data analysis including preprocessing, normalization, quality control, statistical analysis and annotation steps.  This workshop will introduce W4M and how to use it for metabolomics data analysis.
+</p>"
+    id: "metabo"
+    prereqs: "<ul>
+<li> Introduction to Galaxy or equivalent experience </li>
+* A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best
+</li>
+</ul>"
+    duration: "2 sessions (5 hours)"
+
+
+  -
+    title: "Real-time, collaborative genome assembly and annotation with Galaxy, Maker, and Apollo"
+    information: "<p>Will assemble a small genome in <a href='https://galaxyproject.org'>Galaxy</a>, running <a href='https://www.yandell-lab.org/software/maker.html'>MAKER</a>, and publishing the result to <a href='https://genomearchitect.readthedocs.io/en/latest/'>Apollo</a> where collaborative annotation is done. Starting from some structural annotation we will transparently work with Apollo data in Galaxy to do functional analyses, visualising everything in Apollo.</p>
+<p>This will all be done on existing public infrastructure for free, demonstrating how small groups can easily get started with genome annotation, allowing them to focus on the bioinformatics. For larger groups we will show some examples of how you can reproduce our infrastructure and pipelines.</p>"
+    id: "genome"
+    prereqs: "<ul>
 <li> A wi-fi-enabled laptop </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
+</ul>"
+    duration: "2 sessions (5 hours)"
 
-  - { title: "Building communities with open source + open science",
-      information: "<p>Many journals require that scientific / research code to be open source in order to be published, but simply sharing source code alone isn’t usually enough to draw in new users and contributors. This session will teach researchers and coders the basics of how to make their open source scientific code repositories inclusive and welcoming to contributors.  Experienced community managers are also welcome to attend and help pass their knowledge on to others. This session will be run by the Open Life Science team, who collectively have experience working openly, mentoring, and training others in open practice.</p>",
-      prereqs: "<ul>
+
+  -
+    title: "RNA-Seq analysis with AskOmics Interactive Tool"
+    information: "<p><a href='https://flaskomics.readthedocs.io/en/latest/'>AskOmics</a> is a web software for data integration and query using the Semantic Web technologies. It helps users to convert multiple data sources (CSV/TSV files, GFF and BED annotation) into RDF triples, and perform complex queries against this files, but also on distant SPARQL endpoint. AskOmics provide a user-frendly interface to build the queries so users don't have to learn the SPARQL language.</p>
+
+<p>AskOmics comes useful for cross-referencing results datasets with various reference data. For example, in RNA-Seq studies, we often need to filter the results on the fold change and the p-value, to get the most significant deferentially expressed genes. These genes often need to be linked on the reference genome to obtain more information about their location. Then, we may need to determine if these genes are part of a QTL associated with a phenotype of interest. Finally, we can have access to distant endpoints to get disease linked to our genes, or publications.</p>
+
+<p>AskOmics offers a solution to 1) automatically convert the multiple data formats to RDF and 2) use a user-friendly interface to perform complex SPARQL queries on the RDF datasets to find the genes you are interested in and 3) cross-reference local datasets with distant databases (NeXtProt for example).</p>
+
+</p>During this training session, we will use the Galaxy AskOmics Interactive Tool to integrate galaxy datasets into an AskOmics instance. Then we will perfom complex queries against this data and a distant SPARQL endpoint <a href='https://www.nextprot.org/'>NeXtProt</a> to answer a biological questions.</p>"
+    id: "rna-seq"
+    prereqs: "<ul>
+<li> Basic knowledge about RNA-seq</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Processing of Single Cell RNA-Seq Data"
+    information: "<p>Participants will learn about the processing, mapping and quantification of single cell RNA-Seq data generated using the 10x Genomics platform and Galaxy. </p>"
+    id: "scrna1"
+    prereqs: "<ul>
+<li> Introduction to Galaxy or equivalent experience</li>
+<li> familiarity with bulk RNA-Seq.</li>
+<li> a wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Clustering of Single Cell RNA-seq Data"
+    information: "<p>Participants will learn about clustering and annotation of single-cell data generated using the 10x Genomics platform using the ScanPy downstream analysis workflow.</p>"
+    id: "scrna2"
+    prereqs: "<ul>
+<li> Processing of Single Cell RNA-Seq Data or equivalent experience</li>
+<li> Introduction to Galaxy or equivalent experience</li>
+<li> familiarity with bulk RNA-Seq.</li>
+<li> a wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+
+  -
+    title: "Getting your hands on Climate data"
+    information: "<p>Training on accessing and analyzing climate data in Galaxy. During this session you will understand how to use climate data for developing a simple adaptation case study using Galaxy Climate workbench. We will first explain the difference between climate and weather data; show how to visualize climate data on a map with Galaxy and then how to create a simple workflow for framing a very simple adaptation case study.
+</p>"
+    id: "climate"
+    prereqs: "<ul>
+<li> A wi-fi enabled laptop with a modern web browser.</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+
+traningCommunityCards:
+  -
+    title: "Building communities with open source + open science"
+    information: "<p>Many journals require that scientific / research code to be open source in order to be published, but simply sharing source code alone isn’t usually enough to draw in new users and contributors. This session will teach researchers and coders the basics of how to make their open source scientific code repositories inclusive and welcoming to contributors.  Experienced community managers are also welcome to attend and help pass their knowledge on to others. This session will be run by the Open Life Science team, who collectively have experience working openly, mentoring, and training others in open practice.</p>"
+    id: "building"
+    prereqs: "<ul>
 <li> An interest in open science</li>
 <li> A wi-fi enabled laptop </li>
-</ul>",
-      duration: "1 session (2.5 hours)"
-    }
+</ul>"
+    duration: "1 session (2.5 hours)"
 
-  - { title: "Train the Galaxy Trainer",
-      information: "<p>This workshop will introduce:</p>
+
+  -
+    title: "Train the Galaxy Trainer"
+    information: "<p>This workshop will introduce:</p>
 <ul>
 <li> using Galaxy as a training tool</li>
 <li> Determining aim and audience</li>
@@ -70,113 +367,11 @@ trainingTopicCards:
   <li> create schedule, eg google doc → publish → tinyurl</li>
 </ul>
 <li> Getting good feedback!</li>
-</ul>",
-      prereqs: "<ul>
+</ul>"
+    id: "train"
+    prereqs: "<ul>
 <li>An interest in bioinformatics training and Galaxy</li>
-</ul>",
-      duration: "1 session (2.5 hours)"
-    }
+</ul>"
+    duration: "1 session (2.5 hours)"
 
-  - { title: "Getting started in Git using GitHub Desktop",
-      information: "<p>Git doesn't need to be tricky, and you don't need to use a terminal to do it. In a 2.5 hour session, we will talk over the basics of version control covering:</p>
-<ul>
-<li> why version control is useful,</li>
-<li> how to create your first git repository,</li>
-<li> the basics of markdown,</li>
-<li> what a pull request is,</li>
-<li> and why open source is important in science.</li>
-</ul>
-<p>Instead of focusing on code in a specific programming langauge, will instead focus on a common neutral ground - markdown - which will also give participants the ability to create their own personal or lab website on GitHub Pages.</p>",
-      prereqs: "<ul>
-<li> A laptop capable of running GitHub desktop (e.g. a linux, mac, or windows laptop, but not a chromebook or tablet).</li>
-</ul>",
-      duration: "1 session (2.5 hours)"
-    }
 
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
-
-  - { title: "",
-      information: "<p></p>",
-      prereqs: "<ul>
-<li> </li>
-</ul>",
-      duration: "2 sessions (5 hours)"
-    }
