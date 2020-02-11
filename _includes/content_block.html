@@ -1,0 +1,11 @@
+{% if include.do == 'open' %}
+<section id="{{ include.identifier }}" class="{{ include.identifier }}">
+    <div class="content-wrapper">
+      <div class="col-lg-8 col-md-10 col-md-offset-1" style="text-align:left;">
+{% elsif include.do == 'close' %}
+      </div>
+    </div>
+</section>
+{% else %}
+  <p> Unknown instruction: {{ include.do }}; Permitted [open, close]</p>
+{% endif %}

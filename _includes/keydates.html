@@ -1,0 +1,7 @@
+
+<h4>{{ site.keyDatesTitle}}</h4>
+<dl>
+  {% for kd in site.keyDatesBlock %}
+  <dt>{{ kd.date }}</dt> <dd>{{ kd.thing }}</dd>
+  {% endfor %}
+</dl>

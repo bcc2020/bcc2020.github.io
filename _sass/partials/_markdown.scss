@@ -1,0 +1,25 @@
+$markdown-table-border-weight:1px;
+
+ .markdown {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin-top: 15px;
+    }
+    li {
+        font-size: 16px;
+        margin-bottom: 5px;
+        @media (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+    table {
+        border-collapse: separate;
+    }
+    th, td {
+       padding: 15px;
+       border-bottom: $markdown-table-border-weight black solid;
+
+    }
+
+  }

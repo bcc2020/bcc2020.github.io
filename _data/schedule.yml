@@ -16,34 +16,44 @@
   tracks:
     - {title: "Schedule", color: "#90be4e"}
   timeslots:
-    - { # registration
+  - { # registration
     	startTime: "08:00",
     	endTime: "21:00",
     	sessionIds: [001]
     }
-    - { # training 1
-    	startTime: "08:00",
+  - { # training 1
+    	startTime: "09:00",
     	endTime: "11:30",
-    	sessionIds: [101]
+    	sessionIds: [101, 102, 101,102]
     }
-    - { # training 2
-    	startTime: "08:00",
-    	endTime: "11:30",
+  - { # lunch
+      startTime: "11:30",
+      endTime: "12:30",
+      sessionIds: [002]
+    }
+  - { # training 1
+    	startTime: "12:30",
+    	endTime: "15:00",
+    	sessionIds: [101, 102, 103, 104]
+    }
+  - { # break
+    	startTime: "15:00",
+    	endTime: "15:30",
+    	sessionIds: [003]
+    }
+  - { # training 2
+    	startTime: "15:30",
+    	endTime: "18:00",
     	sessionIds: [102]
     }
-    - { # lunch
-        startTime: "11:30",
-        endTime: "12:30",
-        sessionIds: [002]
+  - { # dinner
+    	startTime: "18:00",
+    	endTime: "19:30",
+    	sessionIds: [005]
     }
-    - { # training 1
-    	startTime: "12:30",
-    	endTime: "18:30",
-    	sessionIds: [101]
-    }
-    - { # training 2
-    	startTime: "12:30",
-    	endTime: "18:30",
+  - { # training 2
+    	startTime: "19:30",
+    	endTime: "22:00",
     	sessionIds: [102]
     }
 -
@@ -58,29 +68,79 @@
     	sessionIds: [001]
     }
     - { # training 1
-    	startTime: "08:00",
-    	endTime: "11:30",
+    	startTime: "09:00",
+    	endTime: "10:20",
     	sessionIds: [101]
-    }
-    - { # training 2
-    	startTime: "08:00",
-    	endTime: "11:30",
-    	sessionIds: [102]
-    }
+      }
+    - { # break
+    	startTime: "10:20",
+    	endTime: "10:50",
+    	sessionIds: [003]
+      }
+    - { # training 1
+    	startTime: "10:50",
+    	endTime: "12:10",
+    	sessionIds: [101]
+      }
     - { # lunch
-        startTime: "11:30",
-        endTime: "12:30",
+        startTime: "12:10",
+        endTime: "13:40",
         sessionIds: [002]
     }
     - { # training 1
-    	startTime: "12:30",
-    	endTime: "18:30",
+    	startTime: "13:40",
+    	endTime: "16:10",
+    	sessionIds: [101, 102]
+    }
+    - { # training 1
+    	startTime: "09:00",
+    	endTime: "10:20",
     	sessionIds: [101]
     }
-    - { # training 2
-    	startTime: "12:30",
-    	endTime: "18:30",
+    - { # break
+    	startTime: "10:20",
+    	endTime: "10:50",
+    	sessionIds: [003]
+    }
+    - { # training 1
+    	startTime: "10:50",
+    	endTime: "12:10",
+    	sessionIds: [101]
+    }
+    - { # lunch
+        startTime: "12:10",
+        endTime: "13:40",
+        sessionIds: [002]
+    }
+    - { # training 1
+    	startTime: "13:40",
+    	endTime: "16:10",
+    	sessionIds: [101, 102]
+    }
+    - { # posters
+    	startTime: "16:10",
+    	endTime: "17:30",
+    	sessionIds: [301]
+    }
+    - { # dinner
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [005]
+    }
+    - { # Posters/Demos
+    	startTime: "19:00",
+    	endTime: "17:20",
     	sessionIds: [102]
+    }
+    - { # break
+    	startTime: "17:20",
+    	endTime: "20:30",
+    	sessionIds: [003]
+    }
+    - { # BOFs
+    	startTime: "20:30",
+    	endTime: "22:00",
+    	sessionIds: [003]
     }
 
 -
@@ -97,38 +157,53 @@
     }
     - { #sponsors
     	startTime: "08:00",
-    	endTime: "16:00",
+    	endTime: "14:00",
     	sessionIds: [004]
     }
     - { #keynote
-    	startTime: "08:00",
+    	startTime: "09:00",
     	endTime: "10:20",
     	sessionIds: [300]
     }
-    - { #break
+    - { #coffee break
     	startTime: "10:20",
     	endTime: "10:50",
     	sessionIds: [003]
     }
+    - { #keynote
+    	startTime: "10:50",
+    	endTime: "12:10",
+    	sessionIds: [300]
+    }
     - { #lunch
-        startTime: "11:30",
-        endTime: "12:30",
-        sessionIds: [002]
+      startTime: "12:10",
+      endTime: "13:40",
+      sessionIds: [002]
     }
-    - { #tracks
-    	startTime: "12:30",
-    	endTime: "15:00",
-    	sessionIds: [201, 202]
-    }
-    - { #break
-    	startTime: "14:40",
-    	endTime: "16:00",
-    	sessionIds: [003]
+    - { #training
+    	startTime: "13:40",
+    	endTime: "16:10",
+    	sessionIds: [101]
     }
     - { #posters
-    	startTime: "16:00",
-    	endTime: "18:30",
+    	startTime: "16:10",
+    	endTime: "17:30",
     	sessionIds: [301]
+    }
+    - { #break
+    	startTime: "17:30",
+    	endTime: "17:40",
+    	sessionIds: [003]
+    }
+    - { #BOFs
+    	startTime: "17:40",
+    	endTime: "19:00",
+    	sessionIds: [003]
+    }
+    - { #Conf dinner
+      startTime: "19:00",
+      endTime: "21:00",
+      sessionIds: [005]
     }
 -
   date: "2014-07-21"
@@ -148,7 +223,7 @@
     	sessionIds: [004]
     }
     - { #keynote
-    	startTime: "08:00",
+    	startTime: "09:00",
     	endTime: "10:20",
     	sessionIds: [300]
     }
@@ -157,25 +232,249 @@
     	endTime: "10:50",
     	sessionIds: [003]
     }
-    - { #lunch
-        startTime: "11:30",
-        endTime: "12:30",
-        sessionIds: [002]
-    }
-    - { #tracks
-    	startTime: "12:30",
-    	endTime: "15:00",
-    	sessionIds: [201, 202]
-    }
-    - { #break
-    	startTime: "14:40",
-    	endTime: "16:00",
+    - { #sessions
+    	startTime: "10:50",
+    	endTime: "12:20",
     	sessionIds: [003]
     }
+    - { #lunch
+      startTime: "12:20",
+      endTime: "13:50",
+      sessionIds: [002]
+    }
+    - { #sessions
+    	startTime: "13:50",
+    	endTime: "14:50",
+    	sessionIds: [201, 202]
+    }
     - { #posters
-    	startTime: "16:00",
-    	endTime: "18:30",
+    	startTime: "14:50",
+    	endTime: "16:10",
     	sessionIds: [301]
+    }
+    - { #sessions
+    	startTime: "16:10",
+    	endTime: "17:30",
+    	sessionIds: [301]
+    }
+    - { #dinner
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [005]
+    }
+    - { #BOFs
+    	startTime: "19:00",
+    	endTime: "21:00",
+    	sessionIds: [005]
+    }
+-
+  date: "2014-07-22"
+  dateReadable: "Wed July 22 - CoFest: Core"
+  tracks:
+    - {title: "Schedule", color: "#90be4e"}
+  timeslots:
+    - { #registration desk
+      startTime: "08:00",
+      endTime: "21:00",
+      sessionIds: [001]
+    }
+    - { #cofest core
+      startTime: "08:00",
+      endTime: "18:30",
+      sessionIds: [501]
+    }
+-
+  date: "2014-07-23"
+  dateReadable: "Thurs July 23 - CoFest: Core"
+  tracks:
+    - {title: "Schedule", color: "#90be4e"}
+  timeslots:
+    - { #registration desk
+      startTime: "08:00",
+      endTime: "21:00",
+      sessionIds: [001]
+    }
+    - { #cofest core
+      startTime: "08:00",
+      endTime: "18:30",
+      sessionIds: [501]
+    }
+-
+  date: "2014-07-23"
+  dateReadable: "Fri July 24 - CoFest: EnCore"
+  tracks:
+    - {title: "Schedule", color: "#90be4e"}
+  timeslots:
+    - { #registration desk
+      startTime: "08:00",
+      endTime: "21:00",
+      sessionIds: [001]
+    }
+    - { #cofest encore
+      startTime: "08:00",
+      endTime: "18:30",
+      sessionIds: [502]
+    }
+-
+  date: "2014-07-24"
+  dateReadable: "Sat July 25 - CoFest: EnCore"
+  tracks:
+    - {title: "Schedule", color: "#90be4e"}
+  timeslots:
+    - { #registration desk
+      startTime: "08:00",
+      endTime: "21:00",
+      sessionIds: [001]
+    }
+    - { #cofest encore
+      startTime: "08:00",
+      endTime: "18:30",
+      sessionIds: [502]
+    }
+    - { # dinner
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [005]
+     }
+    - { # Posters/Demos
+    	startTime: "19:00",
+    	endTime: "17:20",
+    	sessionIds: [102]
+    }
+    - { # break
+    	startTime: "17:20",
+    	endTime: "20:30",
+    	sessionIds: [003]
+    }
+    - { # BOFs
+    	startTime: "20:30",
+    	endTime: "22:00",
+    	sessionIds: [003]
+      }
+
+-
+  date: "2014-07-20"
+  dateReadable: "Mon July 20 - Meeting"
+  tracks:
+    - {title: "BOSC", color: "#90be4e"}
+    - {title: "Galaxy", color: "#90be4e"}
+  timeslots:
+    - { #registration desk
+    	startTime: "08:00",
+    	endTime: "21:00",
+    	sessionIds: [001]
+    }
+    - { #sponsors
+    	startTime: "08:00",
+    	endTime: "14:00",
+    	sessionIds: [004]
+    }
+    - { #keynote
+    	startTime: "09:00",
+    	endTime: "10:20",
+    	sessionIds: [300]
+    }
+    - { #coffee break
+    	startTime: "10:20",
+    	endTime: "10:50",
+    	sessionIds: [003]
+    }
+    - { #keynote
+    	startTime: "10:50",
+    	endTime: "12:10",
+    	sessionIds: [300]
+    }
+    - { #lunch
+      startTime: "12:10",
+      endTime: "13:40",
+      sessionIds: [002]
+    }
+    - { #training
+    	startTime: "13:40",
+    	endTime: "16:10",
+    	sessionIds: [101]
+    }
+    - { #posters
+    	startTime: "16:10",
+    	endTime: "17:30",
+    	sessionIds: [301]
+    }
+    - { #break
+    	startTime: "17:30",
+    	endTime: "17:40",
+    	sessionIds: [003]
+    }
+    - { #BOFs
+    	startTime: "17:40",
+    	endTime: "19:00",
+    	sessionIds: [003]
+    }
+    - { #Conf dinner
+      startTime: "19:00",
+      endTime: "21:00",
+      sessionIds: [005]
+    }
+-
+  date: "2014-07-21"
+  dateReadable: "Tues July 21 - Meeting"
+  tracks:
+    - {title: "BOSC", color: "#90be4e"}
+    - {title: "Galaxy", color: "#90be4e"}
+  timeslots:
+    - { #registration desk
+    	startTime: "08:00",
+    	endTime: "21:00",
+    	sessionIds: [001]
+    }
+    - { #sponsors
+    	startTime: "08:00",
+    	endTime: "16:00",
+    	sessionIds: [004]
+    }
+    - { #keynote
+    	startTime: "09:00",
+    	endTime: "10:20",
+    	sessionIds: [300]
+    }
+    - { #break
+    	startTime: "10:20",
+    	endTime: "10:50",
+    	sessionIds: [003]
+    }
+    - { #sessions
+    	startTime: "10:50",
+    	endTime: "12:20",
+    	sessionIds: [003]
+    }
+    - { #lunch
+        startTime: "12:20",
+        endTime: "13:50",
+        sessionIds: [002]
+    }
+    - { #sessions
+    	startTime: "13:50",
+    	endTime: "14:50",
+    	sessionIds: [201, 202]
+    }
+    - { #posters
+    	startTime: "14:50",
+    	endTime: "16:10",
+    	sessionIds: [301]
+    }
+    - { #sessions
+    	startTime: "16:10",
+    	endTime: "17:30",
+    	sessionIds: [301]
+    }
+    - { #dinner
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [005]
+    }
+    - { #BOFs
+    	startTime: "19:00",
+    	endTime: "21:00",
+    	sessionIds: [005]
     }
 -
   date: "2014-07-22"
