@@ -328,7 +328,8 @@ trainingDomainCards:
 </p>"
     id: "climate"
     prereqs: "<ul>
-<li> A wi-fi enabled laptop with a modern web browser.</li>
+<li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
     duration: "1 session (2.5 hours)"
 
