@@ -172,6 +172,17 @@ trainingToolsAndPlatformsCards:
 </ul>"
     duration: "1 session (2.5 hours)"
 
+  -
+    title: "Galaxy Code Architecture"
+    information: "<p>
+    How is the <a href='https://github.com/galaxyproject/galaxy/'>Galaxy code</a> structured?  What do the <a href='https://github.com/galaxyproject/'>various other projects related to Galaxy</a> do? What happens when I start Galaxy?</p>
+<p>Please join us to explore various aspects of the Galaxy codebase, understand the various top-level files and modules in Galaxy, understand how dependencies work in Galaxy's frontend and backend, and a whole lot more.
+</p>"
+    id: "arch"
+    prereqs: "<ul>
+<li> A Wi-Fi-enabled laptop with a modern web browser (Google Chrome, Firefox and Safari will work best).</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
 
   -
     title: "Scripting Galaxy with BioBlend"
