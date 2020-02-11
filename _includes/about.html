@@ -38,10 +38,10 @@
         <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
           <h4>Quick Links</h4>
           <ul>
-            <li><a href="">Submit an abstract</a></li>
-            <li><a href="">Registration Fees</a></li>
-            <li><a href="">Housing</a></li>
-            <li><a href="">Transportation</a></li>
+            <li><a href="{{ '/Registration/#submit-an-abstract' | prepend: site.baseurl }}">Submit an abstract</a></li>
+            <li><a href="{{ '/Registration/#registration' | prepend: site.baseurl }}">Registration Fees</a></li>
+            <li><a href="{{ '/location/#lodging' | prepend: site.baseurl }}">Lodging</a></li>
+            <li><a href="{{ '/location/#travel-to-toronto' | prepend: site.baseurl }}">Transportation</a></li>
           </ul>
         </div>
     </div>

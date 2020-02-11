@@ -74,14 +74,14 @@ aboutUsHistory: "Bioinformatics Community conference is a combination of two exi
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
-  - {date: "February 2020", thing: "Registration opens"}
+  - {date: "March 1 2020", thing: "Registration opens"}
   - {date: "March 2020", thing: "Abstract submission opens"}
   - {date: "April 17 2020", thing: "Abstract submission deadline"}
   - {date: "May 12 2020", thing: "Acceptance notifications sent to authors"}
-  - {date: "June 2020", thing: "Early registration ends"}
+  - {date: "May 22 2020", thing: "Early registration ends"}
   - {date: "June 5 2020", thing: "Late-breaking lightning talks/Late ooster submission deadline"}
   - {date: "June 15 2020", thing: "Advance registration ends"}
-  - {date: "July 12-16 2020", thing: "<a href='https://www.iscb.org/ismb2020' alt='ISMB 2020 homepages'>ISMB 2020</> in Montreal"}
+  - {date: "July 12-16 2020", thing: "<a href='https://www.iscb.org/ismb2020' alt='ISMB 2020 homepages'>ISMB 2020</a> in Montreal"}
   - {date: "July 18 2020", thing: "Optional training day"}
   - {date: "July 19-21 2020", thing: "Talks and tutorials"}
   - {date: "July 22-23 2020", thing: "CoFest: Core"}
@@ -162,8 +162,6 @@ ticketsOffers:
   additionalInfo: "Attend training sessions on Saturday July 18"
   validFrom: "2020-03-01T00:00"
   validThrough: "2020-04-17T23:59"
-  disabled: true
-
  -
   name: "Main Meeting"
   price: "TBA"
@@ -251,29 +249,21 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "location2.jpg"
 directionDetailsTitle: "Toronto, Canada"
 directionDetailsCards:
- - {title: "Airport", information: 'Toronto has two airports: <a href="https://www.torontopearson.com">Toronto Pearson International Airport</a> and <a href="https://www.billybishopairport.com/">Billy Bishop Toronto City Airport</a>. Take the <a href="https://www.torontopearson.com/en/transportation/up-express">UP Express</a> train from Pearson to reach downtown in 25 minutes.'}
- - {title: "Train", information: 'Toronto is served by <a href="https://www.viarail.ca">VIA Rail</a> for train connections to Canada and the USA.'}
- - {title: "By Car", information: 'Toronto is  accessible by car, about 2 hours from the border near Niagara Falls and 4 hours from Detroit. Driving and parking in downtown Toronto can be challenging due to traffic and high parking prices.'}
-directionDetailsCards2:
- - {title: "Public Transit", information: 'Toronto has two transit operators: the <a href="http://www.ttc.ca/index.jsp">TTC</a> for subways, busses, and streetcars within city limits, and <a href="https://www.gotransit.com/en/">Go Transit</a> for regional busses and trains. Both services accept cash and reloadable <a href="https://www.prestocard.ca/en/">Presto Cards</a>. Victoria University is very close to the Musuem TTC subway stop.'}
- - {title: "Parking", information: '<a href="https://www.vicu.utoronto.ca/hospitality-services/overnight-accommodation/parking/">Limited parking</a> is available near Victoria University for a daily fee.'}
- - {title: "Hotels", information: 'Toronto has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "", text: "A Hotel"}
-   -
-    title: "Registration"
-    links:
-     - {link: "#", text: "Registration details"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "#", text: "Attending"}
+- {
+    title: "Getting to Toronto",
+    information: "Fly, drive, or take the train to Toronto",
+    permalink: "#travel-to-toronto",
+      }
+- {
+    title: "Venue",
+    information: "BCC2020 will be held at Victoria University, Toronto, Canada",
+    permalink: "#venue-victoria-university",
+  }
+- {
+    title: "Hotels",
+    information: "BCC2020 has partnered with local hotels to offer discounted rates",
+    permalink: "#lodging",
+  }
 
 # Hackathon
 hackathonTitle: "Collaboration Fest"
