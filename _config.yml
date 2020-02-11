@@ -43,6 +43,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/Registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/training", text: "Training"}
  - {permalink: "/location/", text: "Location"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
