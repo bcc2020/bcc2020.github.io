@@ -140,7 +140,8 @@ trainingToolsAndPlatformsCards:
 
   -
     title: "Embedding JBrowse 2 in your website"
-    information: "<p><a href='http://jbrowse.org/'>JBrowse</a> 2 is a wholly new rewrite of JBrowse and will now be much easier to embedding in any website.  We will cover various methods for doing this depending on the desired end result.</p>"
+    information: '<p><a href="http://jbrowse.org/">JBrowse</a> is the next generation of JBrowse genome browsers, with an all-new pluggable technology platform based on <a href="https://reactjs.org/">React</a>, <a href="https://mobx-state-tree.js.org/">mobx-state-tree</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API">web workers</a>. The embedded version, "JBrowse 2 Embedded", is designed to be self-contained and easily embedded in any website without requiring any iframes or CSS hacking and without requiring any specific JavaScript frameworks.</p>
+<p>We will show you several ways of embedding JBrowse 2 Embedded in your web-based tool or website.</p>'
     id: "embedding"
     prereqs: "<ul>
 <li> A wi-fi enabled laptop with a modern web browser.</li>
