@@ -4,7 +4,6 @@ title: Toronto, Canada
 image: location1.jpg
 image_align: bottom
 permalink: /location/
-color: olive
 ---
 
 {% include top-section.html %}
