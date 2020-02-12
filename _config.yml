@@ -130,7 +130,7 @@ venueSmallImage1: "Oldvic-victoriacollege-toronto-b-sutherland.jpg"
 venueSmallImage2: "Eating_hall_victoria_college_anthony_easton.jpg"
 venueSmallImage3: "911826-Medium-victoria-college-toronto-canada-canada-interior-interiorphoto-3rd-floor-classroom.jpg"
 venueTitle: "Victoria University"
-venueFeatures: ['Victoria University in the University of Toronto was founded in 1836 and is one of the oldest universities in Canada. It is located in downtown Toronto within easy walking distance of the Museum TTC subways station.']
+venueFeatures: ['Victoria University in the University of Toronto was founded in 1836 and is one of the oldest universities in Canada. It is located in downtown Toronto within easy walking distance of the Museum TTC subway station.']
 
 # requires Tweetledee setup, see https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#tweets-feed
 

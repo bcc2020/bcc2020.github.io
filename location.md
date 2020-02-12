@@ -23,7 +23,7 @@ Toronto has two airports: [Toronto Pearson International Airport](https://www.to
 
 ##### Ride
 
-Toronto is served by [VIA Rail](https://www.viarail.ca) for train connections to Canada and the USA. Trains
+Toronto is served by [VIA Rail](https://www.viarail.ca) for train connections to Canada and the USA. Trains generally stop at Toronto Union Station which is a short subway trip from the conference and the suggested hotels.
 
 ##### Drive
 
@@ -48,7 +48,7 @@ Toronto has two transit operators: the [TTC](http://www.ttc.ca/index.jsp) for su
 
 #### Suggested Hotels
 
-Victoria University is located in downtown Toronto and there are many hotels, hostels, and B&Bs available in the vicinity. BCC2020 has negotiated special rates with some, listed below.
+Victoria University is located in downtown Toronto and there are many hotels, hostels, and B&Bs available in the vicinity. BCC2020 has negotiated special rates with some, listed below. All prices are in Canadian dollars.
 
 ##### University of Toronto Student Housing
 
