@@ -52,7 +52,7 @@ Victoria University is located in downtown Toronto and there are many hotels, ho
 
 ##### University of Toronto Student Housing
 
-- **Rate**: Single rooms $90.00 plus tax (13% HST); Double rooms C$130.00 plus tax (13% HST)
+- **Rate**: Single rooms $90.00 per night plus tax (13% HST); Double rooms C$130.00 per night plus tax (13% HST)
 - **Book**: During BCC2020 Registration
 - **Note**: For shared double rooms, one person will pay for the whole room and split
 
