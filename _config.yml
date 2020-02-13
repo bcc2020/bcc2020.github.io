@@ -62,7 +62,7 @@ heroButtons:
 
 # About Block
 aboutTitle: "BCC2020"
-aboutUs: "BCC2020 is packed full of joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. The meeting encompasses a week of activities, including one dedicated day of training, a three day meeting with lots of optional training workshops, and four days of intense collaboration. You can choose some or all of it to attend."
+aboutUs: "BCC2020 is packed full of joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. The meeting encompasses a week of activities, including an optional pre-conference training day, a three-day main meeting, and four post-meeting collaboration days. You can choose some or all of it to attend."
 aboutBlock:
  - {title: "Training", image: "workshop.jpg", text: "One dedicated day of training and plenty of other training opportunities during the main meeting."}
  - {title: "Conference", image: "conference.jpg", text: "The main conference. Interact and share research results and ideas in open source bioinformatics and Galaxy." }
@@ -70,7 +70,7 @@ aboutBlock:
 
 # About Us page
 aboutUsTitle: "About BCC"
-aboutUsHistory: "Bioinformatics Community conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, since they noted that their attendees were largely part of both communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in their separate conferences."
+aboutUsHistory: "Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences."
 
 # Key Dates
 keyDatesTitle: "Key Dates"
