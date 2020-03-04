@@ -75,7 +75,7 @@ aboutUsHistory: "Bioinformatics Community Conference is a combination of two exi
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
-  - {date: "March 1 2020", thing: "Registration opens"}
+  - {date: "March 2020", thing: "Registration opens"}
   - {date: "March 2020", thing: "Abstract submission opens"}
   - {date: "April 17 2020", thing: "Abstract submission deadline"}
   - {date: "May 12 2020", thing: "Acceptance notifications sent to authors"}
