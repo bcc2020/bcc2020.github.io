@@ -17,3 +17,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+### MacOS
+.DS_Store
