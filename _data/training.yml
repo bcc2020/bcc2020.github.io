@@ -111,14 +111,14 @@ trainingSessions:
 </ul>"
     duration: "2 sessions (5 hours)"
     when: "Training Day: Saturday, July 18, Sessions 2 & 3, 12:30-6pm"
-    instructors: "Martin Morgan, Roswell Park; Nitesh Turaga, Roswell Park; Lori Shepherd, Roswell Park"
+    instructors: "Martin Morgan, Roswell Park Comprehensive Cancer Center; Nitesh Turaga, Roswell Park Comprehensive Cancer Center; Lori Shepherd, Roswell Park Comprehensive Cancer Center"
   -
     title: "From stars to constellations: Scaling analyses in Galaxy"
     information: "<p>Everyone knows how to do their analysis on a single dataset, but now it’s the Big Data era and data is pouring in faster than you can process it! We will show you how to manage importing hundreds and thousands of samples, processing these in batch, and scaling analyses to hundreds and thousands of datasets with complex experimental designs. You’ll learn about the new rule based uploader and how to attach metadata to datasets in bulk, management of sample collections in workflows, and scaling your processing to meet your demands.</p>"
     id: "scaling"
     prereqs: "<ul>
 <li> <a href='#gxyintro'>Introduction to Using Galaxy</a> or equivalent experience</li>
-</li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
+<li> A wi-fi enabled laptop with a modern web browser. Google Chrome, Firefox and Safari will work best</li>
 </ul>"
     duration: "1 session (2.5 hours)"
     when: "Training Day: Saturday, July 18, Session 2, 12:30-3pm"
@@ -170,7 +170,7 @@ trainingSessions:
 </ul>"
     duration: "1 session (2.5 hours)"
     when: "Training Day: Saturday, July 18, Session 3, 3:30-6pm"
-    instructors: "Helena Rasche, Independent; Anthony Bretaudeau, INRIA; Nathan Dunn, Lawrence Berkeley National Laboratory; Simon Gladman, University of Melbourne"
+    instructors: "Helena Rasche, Independent; Anthony Bretaudeau, INRAE; Nathan Dunn, Lawrence Berkeley National Laboratory; Simon Gladman, University of Melbourne"
 
   -
     title: "Building communities with open source + open science"
@@ -254,7 +254,7 @@ trainingSessions:
 </ul>"
     duration: "1 session (2.5 hours)"
     when: "Meeting Day 1: Sunday, July 19, 1:40-4:10pm"
-    instructors: "Anthony Bretaudeau, INRIA"
+    instructors: "Anthony Bretaudeau, INRAE"
 
 
   -
@@ -294,7 +294,7 @@ trainingSessions:
 </ul>"
     duration: "1 session (2.5 hours)"
     when: "Meeting Day 2: Monday, July 20, 1:40-4:10pm"
-    instructors: "Helena Rasche, Independent; Simon Gladman, University of Melbourne; Gianmauro Cuccuru, University of Freiburg"
+    instructors: "Helena Rasche, Independent; Simon Gladman, University of Melbourne; Gianmauro Cuccuru, University of Freiburg; Nate Coraor, Penn State University"
 
   -
     title: "Getting your hands on Climate data"
