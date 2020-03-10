@@ -181,7 +181,7 @@ trainingSessions:
 <li> A wi-fi enabled laptop </li>
 </ul>"
     duration: "1 session (2.5 hours)"
-    when: "Training Day: Saturday, July 18, Session 3, 3:30-6pm, and Meeting Day 1: Sunday, July 19. 1:50-4:10"
+    when: "Training Day: Saturday, July 18, Session 3, 3:30-6pm, and Meeting Day 2: Monday, July 20. 1:50-4:10"
     instructors: "Yo Yehuidi, University of Cambridge; Malvika Sharan, The Turing Way"
 
   -
@@ -258,6 +258,52 @@ trainingSessions:
 
 
   -
+    title: "Train the Galaxy Trainer"
+    information: "<p>This workshop will introduce:</p>
+<ul>
+<li> using Galaxy as a training tool</li>
+<li> Determining aim and audience</li>
+<ul>
+  <li> e.g. single topic; string of related topics;</li>
+  <li> e.g. response to specific request for training; or general upskilling people in Galaxy bioinformatics</li>
+</ul>
+<li> setting up appropriate infrastructure</li>
+<ul>
+  <li> usegalaxy.* resources</li>
+  <li> TIaaS</li>
+  <li> Your own</li>
+</ul>
+<li> The available materials</li>
+<ul>
+  <li> GTN tutorials</li>
+  <li> and/or write your own; including how to contribute it to GTN</li>
+  <li> Customising materials for your needs (Slides, language etc.)</li>
+</ul>
+<li> Distributed workshops</li>
+<ul>
+  <li> In practice</li>
+  <li> Local facilitators vs lead trainers</li>
+  <li> Using Zoom / Skype / other video conferencing software</li>
+</ul>
+<li> Practise setting up your own workshop?</li>
+<ul>
+  <li> eg. choose a topic from GTN</li>
+  <li> check that it runs on Galaxy server of choice</li>
+  <li> time it // modify if need be (e.g. cut down data set more?)</li>
+  <li> create schedule, eg google doc → publish → tinyurl</li>
+</ul>
+<li> Getting good feedback!</li>
+</ul>"
+    id: "train"
+    prereqs: "<ul>
+<li>An interest in bioinformatics training and Galaxy</li>
+</ul>"
+    duration: "1 session (2.5 hours)"
+    when: "Meeting Day 1: Sunday, July 19, 1:40-4:10pm"
+    instructors: "Helena Rasche, Independent; Simon Gladman, University of Melbourne; Saskia Hiltemann, Erasmus Medical Center; Delphine Lariviere, Penn State University "
+
+
+  -
     title: "How to write a JBrowse 2 plugin"
     information: "<p><a href='http://jbrowse.org/'>JBrowse</a> 2 is a new genome browser that is built using <a href='https://reactjs.org/'>ReactJS</a>. It has new features for structural variant visualization and comparative genomics with things like split views, synteny views, <a href='http://circos.ca/'>Circos</a> views and more. We will demonstrate how to setup JBrowse 2 and show how new plugins can create custom views, custom tracks, or custom data adapters in JBrowse 2.
 </p>"
@@ -310,49 +356,5 @@ trainingSessions:
     instructors: "Anne Fouilloux, University of Oslo"
 
 
-  -
-    title: "Train the Galaxy Trainer"
-    information: "<p>This workshop will introduce:</p>
-<ul>
-<li> using Galaxy as a training tool</li>
-<li> Determining aim and audience</li>
-<ul>
-  <li> e.g. single topic; string of related topics;</li>
-  <li> e.g. response to specific request for training; or general upskilling people in Galaxy bioinformatics</li>
-</ul>
-<li> setting up appropriate infrastructure</li>
-<ul>
-  <li> usegalaxy.* resources</li>
-  <li> TIaaS</li>
-  <li> Your own</li>
-</ul>
-<li> The available materials</li>
-<ul>
-  <li> GTN tutorials</li>
-  <li> and/or write your own; including how to contribute it to GTN</li>
-  <li> Customising materials for your needs (Slides, language etc.)</li>
-</ul>
-<li> Distributed workshops</li>
-<ul>
-  <li> In practice</li>
-  <li> Local facilitators vs lead trainers</li>
-  <li> Using Zoom / Skype / other video conferencing software</li>
-</ul>
-<li> Practise setting up your own workshop?</li>
-<ul>
-  <li> eg. choose a topic from GTN</li>
-  <li> check that it runs on Galaxy server of choice</li>
-  <li> time it // modify if need be (e.g. cut down data set more?)</li>
-  <li> create schedule, eg google doc → publish → tinyurl</li>
-</ul>
-<li> Getting good feedback!</li>
-</ul>"
-    id: "train"
-    prereqs: "<ul>
-<li>An interest in bioinformatics training and Galaxy</li>
-</ul>"
-    duration: "1 session (2.5 hours)"
-    when: "Meeting Day 2: Monday, July 20, 1:40-4:10pm"
-    instructors: "Helena Rasche, Independent; Simon Gladman, University of Melbourne; Saskia Hiltemann, Erasmus Medical Center; Delphine Lariviere, Penn State University "
 
 
