@@ -1,7 +1,10 @@
 # Plugins
 plugins:
 - jekyll-sitemap
+- jekyll-redirect-from
 safe: false
+whitelist:
+- jekyll-redirect-from
 
 # Build Settings
 markdown: kramdown
@@ -75,8 +78,8 @@ aboutUsHistory: "Bioinformatics Community Conference is a combination of two exi
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
-  - {date: "March 2020", thing: "Registration opens"}
   - {date: "March 2020", thing: "Abstract submission opens"}
+  - {date: "Late March 2020", thing: "Registration likely opens - <b>see <a href='/blog/postponement'>postponement</a></b> "}
   - {date: "April 17 2020", thing: "Abstract submission deadline"}
   - {date: "May 12 2020", thing: "Acceptance notifications sent to authors"}
   - {date: "May 22 2020", thing: "Early registration ends"}
