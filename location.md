@@ -50,6 +50,8 @@ Toronto has two transit operators: the [TTC](http://www.ttc.ca/index.jsp) for su
 
 Victoria University is located in downtown Toronto and there are many hotels, hostels, and B&Bs available in the vicinity. BCC2020 has negotiated special rates with some, listed below. All prices are in Canadian dollars.
 
+{% include_relative map.html %}
+
 ##### University of Toronto Student Housing
 
 - **Rate**: Single rooms $90.00 per night plus tax (13% HST); Double rooms C$130.00 per night plus tax (13% HST)
@@ -58,6 +60,9 @@ Victoria University is located in downtown Toronto and there are many hotels, ho
 - Book your room by April 15 2020
 
 ##### Chelsea hotel
+- **Distance to Victoria University**: 1.5 km walking
+
+![Walking between Chelsea hotel and Isabel Bader theatre]({{ '/img/location/chelsea.jpg' | prepend: site.url }} "Walking between Chelsea hotel and Isabel Bader theatre")
 - **Rate**: $179.00 per night plus tax (13% HST)
 - **Book online**: [https://gc.synxis.com/rez.aspx?Hotel=59052&Chain=10316&start=availresults&arrive=7/17/2020&depart=7/26/2020&adult=1&child=0&group=JOH071720](https://gc.synxis.com/rez.aspx?Hotel=59052&Chain=10316&start=availresults&arrive=7/17/2020&depart=7/26/2020&adult=1&child=0&group=JOH071720)
 - **Book by phone**: toll free +1-800-CHELSEA (243-5732) or +1-416-595-1975.  These individuals must also identify themselves as part of the “Bioinformatics Community Conference” to take advantage of the discounted rate.
@@ -65,6 +70,9 @@ Victoria University is located in downtown Toronto and there are many hotels, ho
 
 
 ##### Sheraton Centre Toronto Hotel
+- **Distance to Victoria University**: 2.1 km walking
+
+![Walking between Sheraton hotel and Isabel Bader theatre]({{ '/img/location/sheraton.jpg' | prepend: site.url }} "Walking between Sheraton hotel and Isabel Bader theatre")
 - **Rate**: $179.00 per night plus tax (13% HST)
 - **Book online**: [https://www.marriott.com/event-reservations/reservation-link.mi?id=1577714735306&key=GRP&app=resvlink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1577714735306&key=GRP&app=resvlink)
 - **Book by phone**: toll free at +1-888-627-7175 and stating that they are part of the "Bioinformatics Community Conference" event
@@ -72,6 +80,9 @@ Victoria University is located in downtown Toronto and there are many hotels, ho
 
 
 ##### Courtyard Toronto Downtown
+- **Distance to Victoria University**: 1.3 km walking
+
+![Walking between Courtyard hotel and Isabel Bader theatre]({{ '/img/location/courtyard.jpg' | prepend: site.url }} "Walking between Courtyard hotel and Isabel Bader theatre")
 - **Rate**: $179.00 per night plus tax (13% HST)
 - **Book online**: [https://www.marriott.com/event-reservations/reservation-link.mi?id=1578422739212&key=GRP&app=resvlink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1578422739212&key=GRP&app=resvlink)
 - **Book by phone**: call Marriott reservations directly at +1-800-847-5075.  You must identify themselves as being with the "Bioinformatics Community Conference" and provide the Booking Reference SBD in order to qualify for the group rate.
