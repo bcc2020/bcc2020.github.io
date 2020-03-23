@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Keynote Speakers: Lincoln Stein and Abigail Cabunoc Mayes"
+date: 2020-03-23 00:00:00
+isStaticPost: true
+image: hero.jpg
+color: olive
+---
+
+*While we have postponed opening registration, planning for BCC2020 is moving forward on all other fronts.*
+
+The 2020 Bioinformatics Community Conference is pleased to announce two exceptional keynote speakers for BCC2020:
+
+#### Abigail Cabunoc Mayes
+
+##### Practice Lead, Working Open, at the Mozilla Foundation
+
+<div class="pull-right">
+<img src="../img/people/abby-cabunoc-mayes.jpg" alt="Abigail Cabunoc Mayes" />
+</div>
+
+[Abigail Cabunoc Mayes](https://acabunoc.github.io/) is the [Working Open Practice Lead at the Mozilla Foundation](https://foundation.mozilla.org/en/initiatives/open-leadership-events/). Abby mobilizes leaders in the Internet health movement through mentorship and training on open practices and open source. Before this, she was Lead Developer of the [Mozilla Science Lab](https://science.mozilla.org/), transforming science on the web.
+
+Prior to joining Mozilla, Abby worked as a bioinformatics software developer at the [Ontario Institute for Cancer Research](https://oicr.on.ca/) and at [Michigan State University](https://msu.edu/) where she applied open source and to research problems. With a background in open source and community organizing, she is fueling a culture of openness in research and innovation.
+
+
+#### Lincoln Stein
+
+##### Head, Adaptive Oncology, Ontario Institute for Cancer Research
+
+<img class="pull-right" src="../img/people/lincoln-stein.jpg" alt="Lincoln Stein" />
+
+[Lincoln Stein](https://oicr.on.ca/investigators/lincoln-stein/) focuses on supporting biomedical research both in Ontario and around the world by making large and complex biological datasets findable, accessible and usable.
+
+Prior to joining [OICR](https://oicr.on.ca/) in 2006, Dr. Stein played an integral role in many large-scale data initiatives at [Cold Spring Harbor Laboratory](https://www.cshl.edu/) and at the [Massachusetts Institute of Technology (MIT)](http://www.mit.edu/) Genome Center. He led the development of the first physical clone map of the human genome, and ran the data coordinating centre and the data portal for the SNP Consortium and the HapMap Consortium. Lincoln has also led the creation and development of [Wormbase](https://wormbase.org/), a community model organism database for *C. elegans*, and [Reactome](https://reactome.org/), the largest open community database of biological reactions and pathways.
+
+At OICR, Dr. Stein has led several international cancer data sharing and research initiatives, including the creation and development of the data coordination centre for the [International Cancer Genome Consortium](https://icgc.org/) and other related projects. 
+
+Lincoln was also a keynote speaker at the very first BOSC in 2000.  We are looking forward to welcoming him back.
