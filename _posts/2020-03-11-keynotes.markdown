@@ -19,7 +19,7 @@ The 2020 Bioinformatics Community Conference is pleased to announce two exceptio
 <img src="../img/people/abby-cabunoc-mayes.jpg" alt="Abigail Cabunoc Mayes" />
 </div>
 
-[Abigail Cabunoc Mayes](https://acabunoc.github.io/) is the [Working Open Practice Lead at the Mozilla Foundation](https://foundation.mozilla.org/en/initiatives/open-leadership-events/). Abby mobilizes leaders in the internet health movement through mentorship and training on open practices and open source. Before this, she was Lead Developer of the [Mozilla Science Lab](https://science.mozilla.org/), transforming science on the web.
+[Abigail Cabunoc Mayes](https://acabunoc.github.io/) is the [Working Open Practice Lead at the Mozilla Foundation](https://foundation.mozilla.org/en/initiatives/open-leadership-events/). Abby mobilizes leaders in the Internet health movement through mentorship and training on open practices and open source. Before this, she was Lead Developer of the [Mozilla Science Lab](https://science.mozilla.org/), transforming science on the web.
 
 Prior to joining Mozilla, Abby worked as a bioinformatics software developer at the [Ontario Institute for Cancer Research](https://oicr.on.ca/) and at [Michigan State University](https://msu.edu/) where she applied open source and to research problems. With a background in open source and community organizing, she is fueling a culture of openness in research and innovation.
 
