@@ -4,7 +4,7 @@
 
 ### Submissions
 
-Abstract submissions will open on April 30, 2020.
+Abstract submissions will open on March 31, 2020 and close on April 30, 2020.
 
 
 </div> {% include content_block.html do="close" identifier="markdown" %}
