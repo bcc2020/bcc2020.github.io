@@ -69,7 +69,6 @@
   team: true
   #subTeam: true
   social:
-    - {name: "site", link: "https://www.linkedin.com/in/monimunozto/"}
     - {name: "twitter", link: "https://twitter.com/monimunozto"}
     - {name: "github", link: "https://github.com/monicacecilia"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/monimunozto/"}
