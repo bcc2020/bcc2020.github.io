@@ -60,7 +60,19 @@
     - {name: "site", link: "http://galaxyproject.org/people/mo-heydarian/"}
     - {name: "twitter", link: "https://twitter.com/MoHeydarian"}
     - {name: "github", link: "https://github.com/MoHeydarian"}
-
+-
+  id: 9
+  name: "Monica"
+  surname: "Munoz-Torres"
+  title: ""
+  thumbnailUrl: moni-munoz-torres.jpg
+  team: true
+  #subTeam: true
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/monimunozto/"}
+    - {name: "twitter", link: "https://twitter.com/monimunozto"}
+    - {name: "github", link: "https://github.com/monicacecilia"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/monimunozto/"}
 -
   id: 7
   name: "Morgan"
