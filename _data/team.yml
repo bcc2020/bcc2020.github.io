@@ -61,6 +61,16 @@
     - {name: "twitter", link: "https://twitter.com/MoHeydarian"}
     - {name: "github", link: "https://github.com/MoHeydarian"}
 -
+  id: 10
+  name: "Karsten"
+  surname: "Hokamp"
+  title: ""
+  thumbnailUrl: karsten-hokamp.jpg
+  team: true
+  #subTeam: true
+  social:
+    - {name: "site", link: "http://bioinf.gen.tcd.ie/~khokamp/"}
+-
   id: 9
   name: "Monica"
   surname: "Munoz-Torres"
