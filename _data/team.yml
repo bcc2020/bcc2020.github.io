@@ -24,6 +24,19 @@
     - {name: "twitter", link: "https://twitter.com/tnabtaf"}
     - {name: "github", link: "https://github.com/tnabtaf"}
 -
+  id: 11
+  name: "Peter"
+  surname: "Cock"
+  title: ""
+  thumbnailUrl: peter-cock.jpg
+  team: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.hutton.ac.uk/staff/peter-cock"}
+    - {name: "twitter", link: "https://twitter.com/pjacock"}
+    - {name: "github", link: "https://github.com/peterjc"}
+-
   id: 8
   name: "Frederik"
   surname: "Coppens"
