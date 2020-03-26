@@ -17,12 +17,26 @@
   title: ""
   thumbnailUrl: dave-clements.jpg
   team: true
+  chair: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
     - {name: "site", link: "http://galaxyproject.org/people/dave-clements/"}
     - {name: "twitter", link: "https://twitter.com/tnabtaf"}
     - {name: "github", link: "https://github.com/tnabtaf"}
+-
+  id: 11
+  name: "Peter"
+  surname: "Cock"
+  title: ""
+  thumbnailUrl: peter-cock.jpg
+  team: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.hutton.ac.uk/staff/peter-cock"}
+    - {name: "twitter", link: "https://twitter.com/pjacock"}
+    - {name: "github", link: "https://github.com/peterjc"}
 -
   id: 8
   name: "Frederik"
@@ -43,6 +57,7 @@
   title: ""
   thumbnailUrl: nomi-harris.jpeg
   team: true
+  chair: true
   ribbon:
     - {abbr: "BOSC", title: "Bioinformatics Open Source Conference", url: "https://www.open-bio.org/events/bosc/"}
   social:
@@ -60,7 +75,28 @@
     - {name: "site", link: "http://galaxyproject.org/people/mo-heydarian/"}
     - {name: "twitter", link: "https://twitter.com/MoHeydarian"}
     - {name: "github", link: "https://github.com/MoHeydarian"}
-
+-
+  id: 10
+  name: "Karsten"
+  surname: "Hokamp"
+  title: ""
+  thumbnailUrl: karsten-hokamp.jpg
+  team: true
+  #subTeam: true
+  social:
+    - {name: "site", link: "http://bioinf.gen.tcd.ie/~khokamp/"}
+-
+  id: 9
+  name: "Monica"
+  surname: "Munoz-Torres"
+  title: ""
+  thumbnailUrl: moni-munoz-torres.jpg
+  team: true
+  #subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/monimunozto"}
+    - {name: "github", link: "https://github.com/monicacecilia"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/monimunozto/"}
 -
   id: 7
   name: "Morgan"
