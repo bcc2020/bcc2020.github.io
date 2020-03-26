@@ -17,6 +17,7 @@
   title: ""
   thumbnailUrl: dave-clements.jpg
   team: true
+  chair: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
@@ -56,6 +57,7 @@
   title: ""
   thumbnailUrl: nomi-harris.jpeg
   team: true
+  chair: true
   ribbon:
     - {abbr: "BOSC", title: "Bioinformatics Open Source Conference", url: "https://www.open-bio.org/events/bosc/"}
   social:
