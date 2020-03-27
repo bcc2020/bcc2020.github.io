@@ -51,6 +51,19 @@
     - {name: "twitter", link: "https://twitter.com/FrederikCoppens"}
     - {name: "github", link: "https://github.com/frederikcoppens"}
 -
+  id: 12
+  name: "Chris"
+  surname: "Fields"
+  title: ""
+  thumbnailUrl: chris-fields.jpg
+  team: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://hpcbio.illinois.edu/people"}
+    - {name: "twitter", link: "https://twitter.com/cjfields"}
+    - {name: "github", link: "https://github.com/cjfields"}
+-
   id: 1
   name: "Nomi"
   surname: "Harris"
