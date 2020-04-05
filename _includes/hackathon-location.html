@@ -6,6 +6,7 @@
             {% if site.hackathonLocationName %}
             <h5 class="location-name">{{ site.hackathonLocationName }}</h5>
             {% endif %}
+            {% if site.hackathonStreetAddress %}
         <p class="location-address">{{ site.hackathonStreetAddress }}, {{ site.hackathonAddressLocality }}</p>
             <div class="hackathon-time">
                 <span>{{ site.hackathonTimeTitle }}</span>
@@ -15,6 +16,7 @@
                 <time>{{ endTime[1] }}</time>
             </div>
             <a href="https://maps.google.com/maps?ll={{ site.hackathonPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.hackathonStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.hackathonAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
+            {% endif %}
         </div>
     </div>
 </section>
