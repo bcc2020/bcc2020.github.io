@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Keynote Speakers: Lincoln Stein and Abigail Cabunoc Mayes"
-date: 2020-03-23 00:00:00
+date: 2020-04-15 00:00:00
 isStaticPost: true
 image: hero.jpg
 color: olive
 ---
-
-*While we have postponed opening registration, planning for BCC2020 is moving forward on all other fronts.*
 
 The 2020 Bioinformatics Community Conference is pleased to announce two exceptional keynote speakers for BCC2020:
 
