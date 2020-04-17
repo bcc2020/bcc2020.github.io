@@ -72,22 +72,23 @@ aboutBlock:
 
 # About Us page
 aboutUsTitle: "About BCC"
-aboutUsHistory: "Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences."
+aboutUsHistory: "<p>Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences.</p>
+
+<p><strong>BCC2020 will be <a href='/blog/going-virtual'>online</a> and <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>.</strong>
+"
 
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
   - {date: "March 31 2020", thing: "Abstract submission opens"}
-  - {date: "Early April 2020", thing: "Registration opens"}
-  - {date: "April 30 2020", thing: "Abstract submission deadline"}
-  - {date: "May 30 2020", thing: "Acceptance notifications sent to authors"}
-  - {date: "June 2 2020", thing: "Early registration ends"}
-  - {date: "July 10 2020", thing: "Advance registration ends"}
-  - {date: "(July 12-16 2020", thing: "<a href='https://www.iscb.org/ismb2020' alt='ISMB 2020 homepages'>ISMB 2020</a> in Montreal)"}
-  - {date: "July 18 2020", thing: "Optional training day"}
-  - {date: "July 19-21 2020", thing: "BCC main meeting (talks and tutorials)"}
-  - {date: "July 22-23 2020", thing: "CoFest: Core"}
-  - {date: "July 24-25 2020", thing: "CoFest: EnCore"}
+  - {date: "April 18 2020", thing: "Registration opens"}
+  - {date: "May 8 2020", thing: "Abstract submission deadline"}
+  - {date: "June 6 2020", thing: "Acceptance notifications sent to authors"}
+  - {date: "July 10 2020", thing: "Early registration ends"}
+  - {date: "July 17-19 2020", thing: "Training"}
+  - {date: "July 19-22 2020", thing: "BCC main meeting"}
+  - {date: "July 22-24 2020", thing: "CoFest: Core"}
+  - {date: "July 24-26 2020", thing: "CoFest: EnCore"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

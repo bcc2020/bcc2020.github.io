@@ -11,7 +11,7 @@ Converting the 2020 Bioinformatics Community Conference from in-person to online
 
 We are pleased to announce that
 
-* **All BCC2020 events will be held twice: once in its original Toronto time zone, and again 12 hours later in the Eastern hemishphere.**
+* **All BCC2020 events will be held twice: once in its original Toronto time zone, and again 12 hours later in the Eastern hemisphere.**
 * **Registration rates have been slashed to a fraction of their original cost, and now include a discount for students and researchers from the developing world.**
 
 *We hope these two changes will make BCC2020 accessible to the entire world.*  Here's the plan.
@@ -42,7 +42,7 @@ Registration is very affordable but it may still be too much for some researcher
 
 **Reminder: Abstract submission is open**
 
-See the announcement.  And, expect another announcement shortly pushing the abstract deadline back by a week or two.
+See the [announcement](abstracts/).
 
 <br />
 
