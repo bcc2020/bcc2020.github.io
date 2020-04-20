@@ -1,12 +1,9 @@
-<a name="registration"/>
 <!--Important for markdown to render! Also make sure the page has a .md extension-->
 {% include content_block.html do="open" identifier="markdown" %} <div markdown="1">
 
-
 Registration rates and tiers have been structured to reflect the online and global nature of BCC2020. 
 
-Registration tiers are based on employment and geographic location:
-
+Registration tiers are based on employment status and geographic location:
 
 * **Student / Academic / Non-profit from Low and Lower-Middle Income Countries**: Students, postdocs, faculty and staff at universities and non-profits in [Low and Lower-Middle Income countries as defined by the World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).
 * **Student / Academic / Non-profit**: Students, postdocs, faculty and staff at universities and non-profits.  
@@ -17,7 +14,7 @@ Early registration discounts are available through July 10.
 All fees are in US$.  Rates below include all fees.
 
 <br />
-<div class="text-center"><button type="button" class="btn btn-info lead">Register Now</button></div>
+<div class="text-center"><button type="button" class="btn btn-info lead"><a href="https://bcc2020-register.eventbrite.com">Register Now</a></button></div>
 
 <br /><br />
 
@@ -52,7 +49,7 @@ CollaborationFest follows the BCC2020 meeting. **Registration for CoFest is free
 
 <br /><br />
 
-<div class="text-center"><button type="button" class="btn btn-info lead">Register Now</button></div>
+<div class="text-center"><button type="button" class="btn btn-info lead"><a href="https://bcc2020-register.eventbrite.com">Register Now</a></button></div>
 
 
 <!--Important for markdown to render! -->

@@ -10,5 +10,3 @@ logostyle: logo-dark
  {% include top-section.html %}
 
  {% include about-hackathon.html %}
-
- {% include hackathon-location.html %}

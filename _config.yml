@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
+ - {permalink: "/submit/", text: "Abstracts"}
  - {permalink: "/Registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/training", text: "Training"}
@@ -74,7 +75,7 @@ aboutBlock:
 aboutUsTitle: "About BCC"
 aboutUsHistory: "<p>Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences.</p>
 
-<p><strong>BCC2020 will be <a href='/blog/going-virtual'>online</a> and <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>.</strong>
+<p><strong>BCC2020 will be <a href='/blog/going-virtual'>online</a>, <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>.</strong>
 "
 
 # Key Dates
@@ -151,10 +152,10 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: ""
-subscribeInfo: "Registration will open in March 2020. Stay tuned!"
+subscribeInfo: "Registration is open!"
 # Tickets Block
 ticketsTitle: "Registration fees"
-ticketsInfo: "Registration grants access to all conference sections, coffee breaks, lunch and social activities. Accommodation is NOT included in the ticket price."
+ticketsInfo: "There are separate registrations for training, the confernce, and the CoFest events."
 ticketsOffers:
  -
   name: "Training"
