@@ -3,28 +3,8 @@
     <div class="content-wrapper">
         <div class="col-lg-8 col-md-10 col-md-offset-1 text-left">
             <h4 style="text-align: left;">Training</h4>
-            <p style="text-align: left;">Training is offered on a dedicated training day before the conference and on the first two days of the conference.</p>
-            <p>Training topics were nominated and then selected by the community. <strong>Please take a few minutes to review the topics listed below, before registering for the conference</a>.</strong></p>  
-            <h4 style="text-align: left;">Topics</h4>
-        </div>
-        <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 text-left">
-                <div class="card-deck">
-                    {% for topic in site.data.training.trainingSessions %}
-                            <div class="card" style="background-color: #fffff8" id="{{ topic.id }}">
-                                <h5>{{ topic.title }}</h5>
-                                <p><strong>When</strong></p>
-                                <p>{{ topic.when }}</p>
-                                <p><strong>Instructors</strong></p>
-                                <p>{{ topic.instructors }}</p>
-                                <p><strong>Description</strong></p>
-                                <p>{{ topic.information }}</p>
-                                <p><strong>Prerequisites</strong></p>
-                                <p>{{ topic.prereqs }}</p>
-                            </div>
-                    {% endfor %}
-                </div>
-            </div>
+            <p style="text-align: left;">Training is offered over two days: July 17-18 in the <a href='https://bcc2020.sched.com/venue/West'>West</a>, and July 18-19 in the <a href='https://bcc2020.sched.com/venue/East'>East</a>. Training covers a variety of topics, and is offered thoughout both days.  Each session is 2.5 hours long, and you regiester for each session individually.
+          This is immediately before the BCC2020 meeting. Please see the <a href='https://bcc2020.sched.com/'>BCC2020 Schedule</a> for information about each training session. </p>
         </div>
     </div>
 </section>

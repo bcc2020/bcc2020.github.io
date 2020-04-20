@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BCC2020 Goes Global"
-date: 2020-04-16 08:00:00
+date: 2020-04-19 00:00:00
 isStaticPost: true
 image: hero.jpg
 color: olive
@@ -11,7 +11,7 @@ Converting the 2020 Bioinformatics Community Conference from in-person to online
 
 We are pleased to announce that
 
-* **All BCC2020 events will be held twice: once in its original Toronto time zone, and again 12 hours later in the Eastern hemisphere.**
+* **BCC2020 events will be held twice: once in their original Toronto time zone, and again 12 hours later in the Eastern hemisphere.**
 * **Registration rates have been slashed to a fraction of their original cost, and now include a discount for students and researchers from the developing world.**
 
 *We hope these two changes will make BCC2020 accessible to the entire world.*  Here's the plan.
@@ -26,7 +26,7 @@ We are pleased to announce that
 
 **Conference**
 
-The main meeting will be held July 19-21 in the West, and July 20-22 in the East.  The same presentations will be offered in both hemispheres, and it will be a mixture of live and recorded in both, depending on where the presenter is based. We are seeking ways to also have posters, demos, and birds-of-a-feather to span both hemispheres.
+The main meeting will be held July 19-21 in the West, and July 20-22 in the East.  The same presentations will be offered in both hemispheres. We are seeking ways to also have posters, demos, and birds-of-a-feather span both hemispheres.
 
 **CollaborationFest**
 

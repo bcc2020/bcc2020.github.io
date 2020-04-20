@@ -121,12 +121,12 @@
   name: "Michael"
   surname: "Heuer"
   title: ""
-  thumbnailUrl: michael-heuer.jpg
+  thumbnailUrl: michael-heuer-2.jpg
   cofest: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
-    - {name: "site", link: "http://www.dishevelled.org/"}
+    - {name: "site", link: "https://rise.cs.berkeley.edu/"}
     - {name: "twitter", link: "https://twitter.com/michael_l_heuer"}
     - {name: "github", link: "https://github.com/heuermh"}
 -
@@ -163,6 +163,19 @@
     - {name: "twitter", link: "https://twitter.com/monimunozto"}
     - {name: "github", link: "https://github.com/monicacecilia"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/monimunozto/"}
+-
+  id: 17
+  name: "Alexander"
+  surname: "Peltzer"
+  title: ""
+  thumbnailUrl: alexander-peltzer.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://apeltzer.github.io/"}
+    - {name: "twitter", link: "https://twitter.com/alex_peltzer"}
+    - {name: "github", link: "https://github.com/apeltzer"}
 -
   id: 14
   name: "Gareth"
