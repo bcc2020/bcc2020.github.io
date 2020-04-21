@@ -34,7 +34,7 @@ In addition, [BCC2020 is going global, and **BCC2020 events will be held twice](
 1. If you are planning on attending [Training](/training/), please review the [training schedule](https://bcc2020.sched.com/) to see what topics you are interested in.  Be sure to 
   * Set your time zone ([Toronto](https://bcc2020.sched.com/?timezone=America/Toronto), [Sydney](https://bcc2020.sched.com/?timezone=Australia/Sydney), [*lots* of others](https://bcc2020.sched.com/))
     * And set your venue too ([West](https://bcc2020.sched.com/venue/West), [East](https://bcc2020.sched.com/venue/East)), or not &mdash; if you live somewhere in between
-2. Be aware that the East training schedule is not yet finalized.  If you are in the east, you shouldhold off until the end of April to register.
+2. Be aware that the East training schedule is not yet finalized.  If you are in the east, you should hold off until the end of April to register.
 
 
 **Fellowships**

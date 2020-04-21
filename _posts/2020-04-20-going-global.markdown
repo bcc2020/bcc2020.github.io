@@ -30,7 +30,7 @@ The main meeting will be held July 19-21 in the West, and July 20-22 in the East
 
 **CollaborationFest**
 
-The [CollaborationFest](../cofest/) will follow the meeting, and span the entire world (nothing new there).  There will be core communities during both windows, but we are also exploring other options for coordinating efforts continuosly.
+The [CollaborationFest](../cofest/) will follow the meeting, and span the entire world (nothing new there).  There will be core communities during both windows, but we are also exploring other options for coordinating efforts continuously.
 
 **Registration**
 
