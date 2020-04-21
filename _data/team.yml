@@ -1,4 +1,17 @@
 -
+  id: 17
+  name: "Dannon"
+  surname: "Baker"
+  title: ""
+  thumbnailUrl: dannon-baker.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://galaxyproject.org/people/dannon-baker/"}
+    - {name: "twitter", link: "https://twitter.com/siryoplait"}
+    - {name: "github", link: "https://github.com/dannon"}
+-
   id: 2
   name: "Michelle"
   surname: "Brazas"
@@ -11,12 +24,24 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-d-brazas-8878373/"}
     - {name: "github", link: "https://github.com/mbrazas"}
 -
+  id: 15
+  name: "Brad"
+  surname: "Chapman"
+  title: ""
+  thumbnailUrl: brad-chapman.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://bcb.io/"}
+    - {name: "twitter", link: "https://twitter.com/chapmanb"}
+    - {name: "github", link: "https://github.com/chapmanb"}
+-
   id: 0
   name: "Dave"
   surname: "Clements"
   title: ""
   thumbnailUrl: dave-clements.jpg
-  team: true
   chair: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
@@ -31,6 +56,7 @@
   title: ""
   thumbnailUrl: peter-cock.jpg
   team: true
+  cofest: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
@@ -44,6 +70,7 @@
   title: ""
   thumbnailUrl: frederik-coppens.jpg
   team: true
+  cofest: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
@@ -64,18 +91,44 @@
     - {name: "twitter", link: "https://twitter.com/cjfields"}
     - {name: "github", link: "https://github.com/cjfields"}
 -
+  id: 13
+  name: "Simon"
+  surname: "Gladman"
+  title: ""
+  thumbnailUrl: simon-gladman.jpg
+  team: true
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://melbournebioinformatics.org.au/"}
+    - {name: "twitter", link: "https://twitter.com/simongladman1"}
+    - {name: "github", link: "https://github.com/slugger70"}
+-
   id: 1
   name: "Nomi"
   surname: "Harris"
   title: ""
   thumbnailUrl: nomi-harris.jpeg
-  team: true
   chair: true
   ribbon:
     - {abbr: "BOSC", title: "Bioinformatics Open Source Conference", url: "https://www.open-bio.org/events/bosc/"}
   social:
     - {name: "twitter", link: "https://twitter.com/nomiharris"}
     - {name: "github", link: "https://github.com/nlharris"}
+-
+  id: 15
+  name: "Michael"
+  surname: "Heuer"
+  title: ""
+  thumbnailUrl: michael-heuer-2.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://rise.cs.berkeley.edu/"}
+    - {name: "twitter", link: "https://twitter.com/michael_l_heuer"}
+    - {name: "github", link: "https://github.com/heuermh"}
 -
   id: 6
   name: "Mo"
@@ -110,6 +163,70 @@
     - {name: "twitter", link: "https://twitter.com/monimunozto"}
     - {name: "github", link: "https://github.com/monicacecilia"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/monimunozto/"}
+-
+  id: 17
+  name: "Alexander"
+  surname: "Peltzer"
+  title: ""
+  thumbnailUrl: alexander-peltzer.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://apeltzer.github.io/"}
+    - {name: "twitter", link: "https://twitter.com/alex_peltzer"}
+    - {name: "github", link: "https://github.com/apeltzer"}
+-
+  id: 14
+  name: "Gareth"
+  surname: "Price"
+  title: ""
+  thumbnailUrl: gareth-price.jpg
+  team: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://qfab.org/team-member/dr-gareth-price"}
+    - {name: "twitter", link: "https://twitter.com/DrGPrice"}
+    - {name: "github", link: "https://github.com/GarethPrice-Aus"}
+-
+  id: 16
+  name: "Torsten"
+  surname: "Seemann"
+  title: ""
+  thumbnailUrl: torsten-seemann.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.doherty.edu.au/people/associate-professor-torsten-seemann"}
+    - {name: "twitter", link: "https://twitter.com/torstenseemann"}
+    - {name: "github", link: "https://github.com/tseemann"}
+-
+  id: 19
+  name: "Beatriz"
+  surname: "Serrano-Solano"
+  title: ""
+  thumbnailUrl: beatriz-serrano-selano.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.embl.de/research/units/cbb/cbb-computational-support/members/index.php?s_personId=CP-60022607"}
+    - {name: "github", link: "https://git.embl.de/serranos"}
+-
+  id: 18
+  name: "Nicola"
+  surname: "Soranzo"
+  title: ""
+  thumbnailUrl: nicola-soranzo.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.earlham.ac.uk/nicola-soranzo"}
+    - {name: "twitter", link: "https://twitter.com/NicolaSoranzo"}
+    - {name: "github", link: "https://github.com/nsoranzo"}
 -
   id: 7
   name: "Morgan"

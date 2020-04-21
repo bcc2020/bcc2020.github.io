@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
+ - {permalink: "/submit/", text: "Abstracts"}
  - {permalink: "/Registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/training", text: "Training"}
@@ -57,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Bioinformatics Community Conference 2020<br> <typeout>"
-eventDate: "July 18-21, 2020"
+eventDate: "July 19-21, 2020 (West) / July 20-22 (East)"
 heroButtons:
  - {link: "#", text: "Galaxy Community Conference (GCC)", logo: "/img/organizers/galaxy_project_logo_blue.png"}
  - {link: "#", text: "Bioinformatics Open Source Conference (BOSC)", logo: "/img/organizers/bioinformatics-open-source-conference-banner.png"}
@@ -76,21 +77,20 @@ aboutUsHistory: "Bioinformatics Community Conference is a combination of two exi
 
 <p>After much consideration of the ongoing spread of COVID-19, the Organizing Committee came to the difficult decision to hold the conference online. This was deemed most socially responsible action to maintain a forum in which our community could share their work and discovery. Making this decision allows us to focus on organizing an engaging conference in this new format.</p>
 
-<p>We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the Open Source bioinformatics community.</p>"
+<p><strong>BCC2020 will be <a href='/blog/going-virtual'>online</a>, <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>. We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the bioinformatics community.</p>"
 
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
   - {date: "March 31 2020", thing: "Abstract submission opens"}
-  - {date: "April 2020", thing: "Registration opens"}
-  - {date: "April 30 2020", thing: "Abstract submission deadline"}
-  - {date: "May 30 2020", thing: "Acceptance notifications sent to authors"}
-  - {date: "June 2 2020", thing: "Early registration ends"}
-  - {date: "July 10 2020", thing: "Advance registration ends"}
-  - {date: "July 18 2020", thing: "Optional training day"}
-  - {date: "July 19-21 2020", thing: "BCC main meeting (talks and tutorials)"}
-  - {date: "July 22-23 2020", thing: "CoFest: Core"}
-  - {date: "July 24-25 2020", thing: "CoFest: EnCore"}
+  - {date: "April 18 2020", thing: "Registration opens"}
+  - {date: "May 8 2020", thing: "Abstract submission deadline"}
+  - {date: "June 6 2020", thing: "Acceptance notifications sent to authors"}
+  - {date: "July 10 2020", thing: "Early registration ends"}
+  - {date: "July 17-19 2020", thing: "Training"}
+  - {date: "July 19-22 2020", thing: "BCC main meeting"}
+  - {date: "July 22-24 2020", thing: "CoFest: Core"}
+  - {date: "July 24-26 2020", thing: "CoFest: EnCore"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -153,10 +153,10 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: ""
-subscribeInfo: "Registration will open in March 2020. Stay tuned!"
+subscribeInfo: "Registration is open!"
 # Tickets Block
 ticketsTitle: "Registration fees"
-ticketsInfo: "Registration grants access to all conference sections, coffee breaks, lunch and social activities. Accommodation is NOT included in the ticket price."
+ticketsInfo: "There are separate registrations for training, the conference, and the CoFest events."
 ticketsOffers:
  -
   name: "Training"

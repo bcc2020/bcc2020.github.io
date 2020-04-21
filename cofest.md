@@ -44,3 +44,6 @@ The CollaborationFest is a welcoming, friendly environment and all interactions 
 
 
  </div> {% include content_block.html do="close" identifier="markdown" %}
+
+
+ {% include about-hackathon.html %}
