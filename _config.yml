@@ -25,13 +25,13 @@ siteVerification: ""
 # Organizer Info
 organizerName: "BOSC and Galaxy"
 organizerAlternateName: ""
-organizerDescription: "Bioinformatics Open Source Conference and Galaxy Community Conference join together in 2020 for the first Bioinformatics Community Conference."
+organizerDescription: "Bioinformatics Open Source Conference and Galaxy Community Conference join together in 2020 for the Bioinformatics Community Conference."
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "#"
 
 # Head
-metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, toronto, bosc, galaxy"
+metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, bosc, galaxy"
 twitterAccount: ""
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -77,14 +77,12 @@ aboutUsHistory: "Bioinformatics Community Conference is a combination of two exi
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
-  - {date: "March 31 2020", thing: "Abstract submission opens"}
-  - {date: "Early April 2020", thing: "Registration opens"}
-  - {date: "April 30 2020", thing: "Abstract submission deadline"}
-  - {date: "May 30 2020", thing: "Acceptance notifications sent to authors"}
-  - {date: "June 2 2020", thing: "Early registration ends"}
-  - {date: "July 10 2020", thing: "Advance registration ends"}
-  - {date: "(July 12-16 2020", thing: "<a href='https://www.iscb.org/ismb2020' alt='ISMB 2020 homepages'>ISMB 2020</a> in Montreal)"}
-  - {date: "July 18 2020", thing: "Optional training day"}
+  - {date: "April 1 2020", thing: "Abstract submission opens"}
+  - {date: "April 2020", thing: "Registration opens"}
+  - {date: "May 8 2020", thing: "Abstract submission deadline"}
+  - {date: "June 3 2020", thing: "Acceptance notifications sent to authors"}
+  - {date: "July 10 2020", thing: "Early registration ends"}
+  - {date: "July 17-18 2020", thing: "Optional training days (July 19-20 in Eastern hemisphere)"}
   - {date: "July 19-21 2020", thing: "BCC main meeting (talks and tutorials)"}
   - {date: "July 22-23 2020", thing: "CoFest: Core"}
   - {date: "July 24-25 2020", thing: "CoFest: EnCore"}
