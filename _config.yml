@@ -155,7 +155,7 @@ subscribeAction: ""
 subscribeInfo: "Registration is open!"
 # Tickets Block
 ticketsTitle: "Registration fees"
-ticketsInfo: "There are separate registrations for training, the confernce, and the CoFest events."
+ticketsInfo: "There are separate registrations for training, the conference, and the CoFest events."
 ticketsOffers:
  -
   name: "Training"
