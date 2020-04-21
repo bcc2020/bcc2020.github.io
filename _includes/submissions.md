@@ -15,11 +15,11 @@ BCC2020 will be held in July, online, and on both sides of the world. This bring
 
 BCC2020 will be centered around presentations from the communities: oral presentations, posters, and demos. All presentation types are submitted through EasyChair.
 
-**BOSC** welcomes submissions about all aspects of open source bioinformatics, biomedical open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, inclusion and outreach for open science, and medical and translational bioinformatics--see https://www.open-bio.org/events/bosc for more information.
+**[BOSC](https://www.open-bio.org/events/bosc/)** welcomes submissions about all aspects of open source bioinformatics, biomedical open science and open data, including but not limited to reproducible research, citizen/participatory science, standards and interoperability, open source tools for data science and visualization, inclusion and outreach for open science, and medical and translational bioinformatics--see [BOSC submission page](https://www.open-bio.org/events/bosc/submit) for more information.
 
 **Galaxy** welcomes submissions that use, implement, or extend the Galaxy platform and ecosystem, including but not limited to integrating and analyzing large and diverse datasets in biomedical research; enhancing reproducibility in computational analyses; and fostering collaboration and communication in scientific workflow development.
 
-**Each abstract should be submitted to _either_ BOSC or Galaxy, not both**. The BOSC and Galaxy submissions will be considered by separate scientific program committees. If you're not sure which to choose, please just pick one for now and note your uncertainty in the "Comments for chair" field on the  submission form, and we will contact you to discuss it further if needed.
+**Each abstract should be submitted to _either_ BOSC or Galaxy, not both**. The BOSC and Galaxy submissions will be considered by separate scientific program committees. If you're not sure which track to choose, please just pick one for now and note your uncertainty in the "Comments for chair" field on the submission form, and we will contact you to discuss it further if needed.
 
 Abstracts are **limited to one page**, in PDF format. Both communities are using the [BOSC abstract guidelines and templates](https://www.open-bio.org/events/bosc/submit/).
 
