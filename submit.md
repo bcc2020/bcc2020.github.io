@@ -15,7 +15,7 @@ color: olive
     <div class="col-md-8 col-xs-12">
       {% include registration_fees.md %}
 
-      {% include submit.md %}
+      {% include submissions.md %}
 
     </div>
     <div class="col-md-4 col-xs-12">
