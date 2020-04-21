@@ -13,13 +13,13 @@ Since the 2020 Bioinformatics Community Conference will be online this allows us
 
 Registration starts at
 
-* $3 / $9 / $15 per [training](/training/) topic
-* $12 / $ 36 / $60 for the meeting
+* US$  &nbsp;&nbsp;3 / $  &nbsp;&nbsp;9 / $ 15 per [training](/training/) topic
+* US$ 12 / $ 36 / $ 60 for the meeting
 * Free for the the [CoFest](/cofest/)
 
 These rate tiers are for
 
-* Student / Academic / Non-profit from Low and Lower-Middle Income Countries
+* Student / Academic / Non-profit from [Low and Lower-Middle Income Countries](https://bit.ly/bcc2020wb)
 * Student / Academic / Non-profit
 * Industry
 

@@ -11,7 +11,7 @@ Registration tiers are based on employment status and geographic location:
 
 Early registration discounts are available through July 10.
 
-All fees are in US$.  Rates below include all fees.
+**All fees are in US$.  Rates below include all fees.**
 
 <br />
 <div class="text-center"><button type="button" class="btn btn-info lead"><a href="https://bcc2020-register.eventbrite.com">Register Now</a></button></div>
