@@ -25,7 +25,7 @@ Training will be held July 17-18 in the West, and July 18-19 in the East.
 
 | | Early (July 10) | Full (after July 10) |
 | ---: | ---: | ---: |
-| Student / Academic / Non-profit from Low and Lower-Middle Income Countries | $3 | $6 |
+| Student / Academic / Non-profit from [Low and Lower-Middle Income Countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) | $3 | $6 |
 | Student / Academic / Non-profit | $9 | $18 |
 | Industry | $15 | $30 |
 
@@ -37,7 +37,7 @@ The BCC2020 Meeting will be held July 19-21 in the West, and July 20-22 in the E
 
 | | Early (July 10) | Full (after July 10) |
 | ---: | ---: | ---: |
-| Student / Academic / Non-profit from Low and Lower-Middle Income Countries | $12 | $24 |
+| Student / Academic / Non-profit from [Low and Lower-Middle Income Countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) | $12 | $24 |
 | Student / Academic / Non-profit | $36 | $72 |
 | Industry | $60 | $120 |
 
