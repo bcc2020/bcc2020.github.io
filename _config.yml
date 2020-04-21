@@ -72,18 +72,21 @@ aboutBlock:
 
 # About Us page
 aboutUsTitle: "About BCC"
-aboutUsHistory: "Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences."
+aboutUsHistory: "Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences. </p>
+
+<p>After much consideration of the ongoing spread of COVID-19, the Organizing Committee came to the difficult decision to hold the conference online. This was deemed most socially responsible action to maintain a forum in which our community could share their work and discovery. Making this decision allows us to focus on organizing an engaging conference in this new format.</p>
+
+<p>We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the Open Source bioinformatics community.</p>"
 
 # Key Dates
 keyDatesTitle: "Key Dates"
 keyDatesBlock:
   - {date: "March 31 2020", thing: "Abstract submission opens"}
-  - {date: "Early April 2020", thing: "Registration opens"}
+  - {date: "April 2020", thing: "Registration opens"}
   - {date: "April 30 2020", thing: "Abstract submission deadline"}
   - {date: "May 30 2020", thing: "Acceptance notifications sent to authors"}
   - {date: "June 2 2020", thing: "Early registration ends"}
   - {date: "July 10 2020", thing: "Advance registration ends"}
-  - {date: "(July 12-16 2020", thing: "<a href='https://www.iscb.org/ismb2020' alt='ISMB 2020 homepages'>ISMB 2020</a> in Montreal)"}
   - {date: "July 18 2020", thing: "Optional training day"}
   - {date: "July 19-21 2020", thing: "BCC main meeting (talks and tutorials)"}
   - {date: "July 22-23 2020", thing: "CoFest: Core"}
@@ -272,30 +275,7 @@ enableHackathon: true
 
 # Hackathon About Block
 aboutHackathonTitle: "CollaborationFest"
-hackathonRows:
- - {title: "What is it?", image: "hackathon-0.png", details: "BCC2020 will finish with an online CollaborationFest, a 2 (or 4) day collaborative work event where our community gathers virtually to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you."}
- - {title: "Core and Encore", image: "hackathon-0.png", details: "CoFest is split in half again this year:<br/><b>CollaborationFest: Core: Friday & Saturday</b>: There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.<br/><b>CollaborationFest: Encore: Sunday & Monday</b>: The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration."}
- - {title: "Registration", image: "hackathon-0.png", details: "CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days)."}
- - {title: "Preparing for CoFest", image: "hackathon-0.png", details: "<a href='https://docs.google.com/document/d/1UctntMyOMOFlyxgvZPiWqgXz7R3FjPKnuBVMoNxl9Jc/edit?usp=sharing'>Contribute to the cluster ideas document, defining what we'd like to accomplish during CoFest</a><br><br><a href='https://docs.google.com/spreadsheets/d/1AoSztstDDiJphefjnp7hvZByZKavyusIHzQO3-qAC7M/edit?usp=sharing'>Introduce yourself and indicate your preferred working clusters</a><br><br>Ask questions on the <a href='https://bcc.zulipchat.com/'>Bioinformatics Community Conference Zulip Chat</a>"}
- - {title: "Code of Conduct", image: "hackathon-0.png", details: "The CollaborationFest is a welcoming, friendly environment and all interactions are expected to follow the <a href='https://bcc2020.github.io/cod/'>Bioinformatics Community Conference Code of Conduct</a>. Please report questions, concerns or issues to any of the <a href='https://bcc2020.github.io/about/'>CollaborationFest organizers</a>"}
 
-# Hackathon Location Block
-# hackathonLocationBlockTitle: "Location"
-# hackathonLocationName: "Online"
-# hackathonLocationLink: "https://bcc2020.github.io/cofest/"
-# hackathonStreetAddress: "73 Queen Park's Crescent #106"
-# hackathonAddressLocality: "Toronto"
-# hackathonAddressLocalityRegion: "Ontario"
-# hackathonPostalCode: "M5S 1K7"
-# hackathonAddressCountry: "Canada"
-# -hackathonTimeTitle: "Coolaborate through"
-# hackathonStartTime: "2020-07-21T09:00"
-# hackathonDoorTime: "09:00"
-# hackathonEndTime: "2020-07-25T22:00"
-# viewOnMap: "View on Google Maps"
-# hackathonPlaceCoordinates: "43.666830666, -79.388498446"
-# hackathonMapCenterCoordinates: "43.666830666, -79.388498446"
-# hackathonMapMobileCenterCoordinates: "43.666830666, -79.388498446"
 
 defaults:
   -
