@@ -8,11 +8,11 @@ color: olive
 
 ---
 
-{% include top-section.html %}
 
 <section id="submit" class="submit">
   <div class="col-lg-10 col-lg-offset-1  col-md-offset-1">
     <div class="col-md-8 col-xs-12">
+
       {% include submissions.md %}
 
     </div>
