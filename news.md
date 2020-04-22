@@ -7,6 +7,4 @@ logostyle: logo-light
 image_align: top
 ---
 
- {% include top-section.html %}
-
- {% include blog.html %}
+ {% include news.html %}

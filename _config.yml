@@ -18,26 +18,13 @@ description: "BCC2020 brings together the Galaxy Community Conference and Bioinf
 baseurl: ""
 url: "https://bcc2020.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
 siteVerification: ""
-
-# Organizer Info
-organizerName: "BOSC and Galaxy"
-organizerAlternateName: ""
-organizerDescription: "Bioinformatics Open Source Conference and Galaxy Community Conference join together in 2020 for the first Bioinformatics Community Conference."
-organizerEmail: ""
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "#"
 
 # Head
 metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, toronto, bosc, galaxy"
 twitterAccount: ""
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
-# Link to EasyChair?
-abstractSubmitUrl: "/Registration/"
+socialImageSrcTwitter: ""
+socialImageSrcFacebook: ""
 
 # Navigation
 navigationLinks:
@@ -57,17 +44,17 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Bioinformatics Community Conference 2020<br> <typeout>"
+heroTitle: "Bioinformatics Community Conference 2020"
 eventDate: "July 19-21, 2020 (West) / July 20-22 (East)"
 heroButtons:
- - {link: "#", text: "Galaxy Community Conference (GCC)", logo: "/img/organizers/galaxy_project_logo_blue.png"}
- - {link: "#", text: "Bioinformatics Open Source Conference (BOSC)", logo: "/img/organizers/bioinformatics-open-source-conference-banner.png"}
+ - {link: "https://galaxyproject.org/gcc/", text: "Galaxy Community Conference (GCC)", logo: "/img/organizers/galaxy_project_logo_blue.png"}
+ - {link: "https://www.open-bio.org/events/bosc/", text: "Bioinformatics Open Source Conference (BOSC)", logo: "/img/organizers/bioinformatics-open-source-conference-banner.png"}
 
 # About Block
 aboutTitle: "BCC2020"
-aboutUs: "BCC2020 is packed full of joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. The meeting encompasses a week of activities, including an optional pre-conference training day, a three-day main meeting, and four post-meeting collaboration days. You can choose some or all of it to attend.<br/><br/><p><strong>BCC2020 will be held virtually. Please read our <a href='/blog/going-virtual'>News post</a> for more information</strong></p>"
+aboutUs: "BCC2020 is packed full of joint & parallel sessions, keynotes, poster & demo sessions, birds-of-a-feather, and social events. The meeting encompasses a week of activities, including two optional pre-conference training days, a three-day main meeting, and four post-meeting collaboration days. You can choose some or all of it to attend."
 aboutBlock:
- - {title: "Training", image: "workshop.jpg", text: "One dedicated day of training and plenty of other training opportunities during the main meeting."}
+ - {title: "Training", image: "workshop.jpg", text: "Two dedicated days of training on all topics bioinformatics."}
  - {title: "Conference", image: "conference.jpg", text: "The main conference. Interact and share research results and ideas in open source bioinformatics and Galaxy." }
  - {title: "CoFest", image: "hackathon.jpg", text: "A two to four day unstructured session to collaboratively work on code, documentation, training materials, and challenging analysis problems and use cases." }
 
@@ -75,9 +62,9 @@ aboutBlock:
 aboutUsTitle: "About BCC"
 aboutUsHistory: "Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences. </p>
 
-<p>After much consideration of the ongoing spread of COVID-19, the Organizing Committee came to the difficult decision to hold the conference online. This was deemed most socially responsible action to maintain a forum in which our community could share their work and discovery. Making this decision allows us to focus on organizing an engaging conference in this new format.</p>
+<p>After much consideration of the ongoing spread of COVID-19, the Organizing Committee came to the difficult decision to hold the conference online. This was deemed most socially responsible action to maintain a forum in which our community could share their work and discovery. Making this decision allows us to focus on organizing an engaging conference in this new format.</p>"
 
-<p><strong>BCC2020 will be <a href='/blog/going-virtual'>online</a>, <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>. We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the bioinformatics community.</p>"
+aboutVirtual: "<strong>BCC2020 will be <a href='/blog/going-virtual'>online</a>, <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>. We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the bioinformatics community."
 
 # Key Dates
 keyDatesTitle: "Key Dates"
@@ -92,14 +79,6 @@ keyDatesBlock:
   - {date: "July 22-24 2020", thing: "CoFest: Core"}
   - {date: "July 24-26 2020", thing: "CoFest: EnCore"}
 
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of programming"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "made up facts", detail: "replace these later!!"}
-
 # Latest News Block
 latestNewsTitle: "News"
 latestNewsCount: 2
@@ -109,32 +88,6 @@ rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Keynote Speakers"
 rockstarSpeakersButtonText: "See all speakers"
-
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Victoria University"
-eventLocationLink: "https://studentlife.utoronto.ca/hello/directions"
-eventStreetAddress: "73 Queen Park's Crescent #106"
-eventAddressLocality: "Toronto"
-eventAddressLocalityRegion: "Ontario"
-eventPostalCode: "M5S 1K7"
-eventAddressCountry: "Canada"
-eventStartTime: "2020-07-17T18:00"
-eventDoorTime: "18:00"
-eventEndTime: "2020-07-25T22:00"
-eventPlaceCoordinates: "43.666830666, -79.388498446"
-mapCenterCoordinates: "43.666830666, -79.388498446"
-mapMobileCenterCoordinates: "43.666830666, -79.388498446"
-
-# Venue Block
-venueBlockTitle: "Venue"
-# This is what's called an injection :roll_eyes:
-venueBigImage: '"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0966521574587!2d-79.3942290847899!3d43.6669596595593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b31005e2024cb%3A0xd92036ba603929dc!2sVictoria%20University!5e0!3m2!1sen!2sca!4v1571242908578!5m2!1sen!2sca" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe><img src="'
-venueSmallImage1: "Oldvic-victoriacollege-toronto-b-sutherland.jpg"
-venueSmallImage2: "Eating_hall_victoria_college_anthony_easton.jpg"
-venueSmallImage3: "911826-Medium-victoria-college-toronto-canada-canada-interior-interiorphoto-3rd-floor-classroom.jpg"
-venueTitle: "Victoria University"
-venueFeatures: ['Victoria University in the University of Toronto was founded in 1836 and is one of the oldest universities in Canada. It is located in downtown Toronto within easy walking distance of the Museum TTC subway station.']
 
 # requires Tweetledee setup, see https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#tweets-feed
 
@@ -148,59 +101,11 @@ twitterFeed: "https://twitter.com/hashtag/BioCommConf"
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
+sponsorsUrl: "mailto:bcc2020-org@lists.galaxyproject.org?subject=Sponsorship%20opportunities%20at%20BCC2020"
 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: ""
-subscribeInfo: "Registration is open!"
 # Tickets Block
 ticketsTitle: "Registration fees"
 ticketsInfo: "There are separate registrations for training, the conference, and the CoFest events."
-ticketsOffers:
- -
-  name: "Training"
-  price: "TBA"
-  priceCurrency: "CAD"
-  buyButtonLink: "http://eventbrite"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Attend training sessions on Saturday July 18"
-  validFrom: "2020-03-01T00:00"
-  validThrough: "2020-04-17T23:59"
- -
-  name: "Main Meeting"
-  price: "TBA"
-  priceCurrency: "CAD"
-  buyButtonLink: "http://eventbrite"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Attend main meeting July 19-21"
-  validFrom: "2020-03-01T00:00"
-  validThrough: "2020-04-17T23:59"
-  disabled: true
- -
-  name: "CoFest: Core"
-  price: "TBA"
-  priceCurrency: "CAD"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Attend CoFest: Core July 22-23"
-  validFrom: "2020-03-01T00:00"
-  validThrough: "2020-04-17T23:59"
-  disabled: true
- -
-  name: "CoFest: Encore"
-  price: "TBA"
-  priceCurrency: "CAD"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Attend CoFest: Encore July 24-25"
-  validFrom: "2020-03-01T00:00"
-  validThrough:  "2020-04-17T23:59"
-  disabled: true
-
-
 
 # Footer
 socialLinks:
@@ -225,10 +130,9 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: ""
 # looks like we need to pay for an ad-free disqus account, disabling for now
 # blogCommentsEnabled: false
-# discusShortName: "devfestua"
+# discusShortName: ""
 
 # Speakers List Block
 # https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#speakers-list-block
@@ -237,37 +141,6 @@ showSessions: false
 # Team Block
 teamBlockTitle: "The team"
 teamBlockDescription: "The team behind BCC is a combination of OBF, Galaxy, and OICR members, along with community members that generously donate their time to review abstracts, chair sessions, and review the program."
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "43.666830666, -79.388498446"
-logisticsMapMobileCenterCoordinates: "43.666830666, -79.388498446"
-logisticsMapAutoDirections: false
-# Logistics Direction Details Block
-directionDetailsImage: "location2.jpg"
-directionDetailsTitle: "Toronto, Canada"
-directionDetailsCards:
-- {
-    title: "Getting to Toronto",
-    information: "Fly, drive, or take the train to Toronto",
-    permalink: "#travel-to-toronto",
-      }
-- {
-    title: "Venue",
-    information: "BCC2020 will be held at Victoria University, Toronto, Canada",
-    permalink: "#venue-victoria-university",
-  }
-- {
-    title: "Hotels",
-    information: "BCC2020 has partnered with local hotels to offer discounted rates",
-    permalink: "#lodging",
-  }
 
 # Hackathon
 hackathonTitle: "Collaboration Fest"

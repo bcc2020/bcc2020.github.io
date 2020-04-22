@@ -1,0 +1,25 @@
+<!-- About Section -->
+<section id="schedule" class="schedule">
+  <div class="col-lg-10 col-lg-offset-1  col-md-offset-1">
+  <h3>Important Information</h3>
+  <div class="row about-details col-md-offset-2">
+    {% assign animationDelay = 0 %}
+    <div class="col-md-4 col-xs-12">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+          {% include keydates.html %}
+        </div>
+    </div>
+    {% assign animationDelay = animationDelay | plus:500 %}
+    <div class="col-md-4 col-xs-12">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="{{ '/Registration/#submit-an-abstract' | prepend: site.baseurl }}">Submit an abstract</a></li>
+            <li><a href="{{ '/Registration/#registration' | prepend: site.baseurl }}">Registration Fees</a></li>
+          </ul>
+        </div>
+    </div>
+    </div>
+</div>
+</section>
+<!-- End About Section -->

@@ -6,6 +6,4 @@ image: schedule.jpg
 logostyle: logo-dark
 ---
 
-{% include top-section.html %}
-
-{% include training.html %}
+{% include training.md %}

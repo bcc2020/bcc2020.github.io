@@ -12,6 +12,9 @@ layout: compress
         <div class="st-pusher">
             <div class="st-content">
 
+                {% if page.permalink != '/' %}
+                  {% include top-section.html %}
+                {% endif %}
                 {{ content }}
 
                 {% include footer.html %}
@@ -19,14 +22,6 @@ layout: compress
             </div>
         </div>
     </div>
-
-    {% if page.modal != null %}
-    	{% include speakers-modals.html %}
-    {% endif %}
-
-    {% if page.permalink == '/schedule/' %}
-        {% include sessions-modals.html %}
-    {% endif %}
 
     {% include analytics.html %}
 
@@ -138,7 +133,6 @@ layout: compress
         </script>
     {% endif %}
 
-    {% include schema-event.html %}
 </body>
 
 </html>

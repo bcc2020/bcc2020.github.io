@@ -7,8 +7,6 @@ image_align: top
 logostyle: logo-dark
 ---
 
- {% include top-section.html %}
-
  <!--Important for markdown to render! Also make sure the page has a .md extension-->
  {% include content_block.html do="open" identifier="markdown" %} <div markdown="1">
 
@@ -46,4 +44,4 @@ The CollaborationFest is a welcoming, friendly environment and all interactions 
  </div> {% include content_block.html do="close" identifier="markdown" %}
 
 
- {% include about-hackathon.html %}
+ {% include cofest-organizers.html %}

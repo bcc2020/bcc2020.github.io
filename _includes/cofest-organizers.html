@@ -1,13 +1,6 @@
 <!-- About Hackathon Section -->
 <section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
-            {% for row in site.hackathonRows %}
-            {% assign check = forloop.index0 | modulo:2 %}
-              <h4>{{ row.title }}</h4>
-              <p>{{ row.details }}</p>
-            {% endfor %}
-        </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">CoFest Organizers</h4>
             {% for teamMember in site.data.team %} {% if teamMember.cofest != null %}
