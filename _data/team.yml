@@ -213,7 +213,8 @@
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
     - {name: "site", link: "https://www.embl.de/research/units/cbb/cbb-computational-support/members/index.php?s_personId=CP-60022607"}
-    - {name: "github", link: "https://git.embl.de/serranos"}
+    - {name: "twitter", link: "https://twitter.com/Birthae"}
+    - {name: "github", link: "https://github.com/beatrizserrano"}
 -
   id: 18
   name: "Nicola"
