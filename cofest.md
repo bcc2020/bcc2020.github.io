@@ -18,9 +18,9 @@ BCC2020 will finish with an online CollaborationFest, a 2 (or 4) day collaborati
 
 CoFest is split in half again this year:
 
-* **CollaborationFest: Core:** Friday & Saturday</b>: There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.
+* **CollaborationFest: Core:** Friday & Saturday: There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.
 
-* **CollaborationFest: Encore:** Sunday & Monday</b>: The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.
+* **CollaborationFest: Encore:** Sunday & Monday: The smaller (and dare we say <em>more intense</em>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.
 
 #### Registration
 
