@@ -1,0 +1,26 @@
+<!-- Begin Promote Section -->
+<section id="promote" class="promote">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Assets for promoting BCC2020</h4>
+            {% for promoAsset in site.data.promote %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#asset-{{ promoAsset.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/promote/' | append: promoAsset.file }})">
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ promoAsset.name }}</h2>
+                            </div>
+                            <a href="{{ site.baseurl }}/img/promote/{{ promoAsset.file }}">
+                            ⬇
+                            </a>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</section>
+<!-- End Promote Section -->

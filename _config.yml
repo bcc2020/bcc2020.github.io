@@ -37,6 +37,7 @@ navigationLinks:
  - {permalink: "/training", text: "Training"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
+ - {permalink: "/promote/", text: "Promote"}
 bottomNavigationLinks:
  - {link: "/Registration/", text: "Registration"}
 rightNavigationButtons:
@@ -109,7 +110,7 @@ ticketsInfo: "There are separate registrations for training, the conference, and
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/hashtag/BioCommConf", icon: "twitter"}
+ - {link: "https://twitter.com/hashtag/BCC2020", icon: "twitter"}
  - {link: "https://www.youtube.com/c/OBFBOSC", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -140,7 +141,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "The team"
-teamBlockDescription: "The team behind BCC is a combination of OBF, Galaxy, and OICR members, along with community members that generously donate their time to review abstracts, chair sessions, and review the program."
+teamBlockDescription: "The team behind BCC is a combination of OBF, Galaxy, OICR, Galaxy Australia and Australian BioCommons  members, along with community members that generously donate their time to review abstracts, chair sessions, and review the program."
 
 # Hackathon
 hackathonTitle: "Collaboration Fest"
@@ -148,6 +149,10 @@ enableHackathon: true
 
 # Hackathon About Block
 aboutHackathonTitle: "CollaborationFest"
+
+
+# Promote Block
+
 
 
 defaults:
