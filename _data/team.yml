@@ -78,6 +78,18 @@
     - {name: "twitter", link: "https://twitter.com/FrederikCoppens"}
     - {name: "github", link: "https://github.com/frederikcoppens"}
 -
+  id: 20
+  name: "Maria"
+  surname: "Doyle"
+  title: ""
+  thumbnailUrl: maria-doyle.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Maria_Doyle4"}
+    - {name: "github", link: "https://github.com/mblue9"}
+-
   id: 12
   name: "Chris"
   surname: "Fields"
