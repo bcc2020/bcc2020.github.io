@@ -24,7 +24,7 @@ CoFest is split in half again this year:
 
 #### Registration
 
-CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days).
+CollaborationFest is free, for all 4 days. You still need to [register](https://bcc2020.github.io/Registration/) (and select either 2 or 4 days).
 
 
 #### Preparing for CoFest
