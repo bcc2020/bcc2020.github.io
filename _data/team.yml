@@ -228,6 +228,17 @@
     - {name: "twitter", link: "https://twitter.com/Birthae"}
     - {name: "github", link: "https://github.com/beatrizserrano"}
 -
+  id: 21
+  name: "Harpreet"
+  surname: "Singh"
+  title: ""
+  thumbnailUrl: harpreet-singh.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: ""}
+-
   id: 18
   name: "Nicola"
   surname: "Soranzo"
