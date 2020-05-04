@@ -25,7 +25,7 @@ These rate tiers are for
 
 **BCC is going global**
 
-In addition, [BCC2020 is going global, and **BCC2020 events will be held twice](going-blobal)**: once in their [original Toronto time zone](https://bcc2020.sched.com/venue/West) (BCC West), and again [12 hours later in the Eastern hemisphere](https://bcc2020.sched.com/venue/East) (BCC East).
+In addition, BCC2020 is going global, and [**BCC2020 events will be held twice**](/blog/going-global): once in their [original Toronto time zone](https://bcc2020.sched.com/venue/West) (BCC West), and again [12 hours later in the Eastern hemisphere](https://bcc2020.sched.com/venue/East) (BCC East).
 
 *We hope these two changes will make BCC2020 accessible to the entire world.*  Here's the plan.
 
