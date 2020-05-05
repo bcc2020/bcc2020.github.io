@@ -61,11 +61,11 @@ aboutBlock:
 
 # About Us page
 aboutUsTitle: "About BCC"
-aboutUsHistory: "Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences. </p>
+aboutUsHistory: "<p>Bioinformatics Community Conference is a combination of two existing conferences: the Bioinformatics Open Source Conference, hosted by the Open Bioinformatics Foundation, and the Galaxy Community Conference, hosted by Galaxy. The two organizations first joined forces in 2018 for GCCBOSC 2018, after noticing that there was high overlap between the communities. BCC2020 is the second joint conference, and offers opportunities for learning and networking that would not be possible in separate conferences.</p>
 
 <p>After much consideration of the ongoing spread of COVID-19, the Organizing Committee came to the difficult decision to hold the conference online. This was deemed most socially responsible action to maintain a forum in which our community could share their work and discovery. Making this decision allows us to focus on organizing an engaging conference in this new format.</p>"
 
-aboutVirtual: "<strong>BCC2020 will be <a href='/blog/going-virtual'>online</a>, <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>. We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the bioinformatics community."
+aboutVirtual: "<strong>BCC2020 will be <a href='/blog/going-virtual'>online</a>, <a href='/blog/going-global'>global</a> and <a href='/Registration/'>affordable</a>. We will be inviting our community to engage in new ways, and hope that BCC2020 will be an important space for discussion for the bioinformatics community.</strong>"
 
 # Key Dates
 keyDatesTitle: "Key Dates"
