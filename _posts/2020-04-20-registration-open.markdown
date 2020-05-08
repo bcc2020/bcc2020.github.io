@@ -43,7 +43,7 @@ Registration is very affordable but it may still be too much for some researcher
 
 **Reminder: Abstract submission is open**
 
-See the [announcement](abstracts/).
+See the [announcement](/submit/).
 
 <br />
 
