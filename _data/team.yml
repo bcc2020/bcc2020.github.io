@@ -6,7 +6,7 @@
   thumbnailUrl: 
   spc: "Galaxy"
   ribbon:
-    - {abbr: "Johns Hopkins", title: "Galaxy Project, Johns Hopkins University", url: "https://galaxyproject.org/"}
+    - {abbr: "Johns Hopkins", title: "Johns Hopkins University", url: "https://galaxyproject.org/"}
   social:
     - {name: "site", link: "https://galaxyproject.org/people/enis-afgan/"}
 -
@@ -41,7 +41,7 @@
   thumbnailUrl: 
   spc: "Galaxy"
   ribbon:
-    - {abbr: "Cleveland Clinic", title: "Cleveland Clinic Lerner Research Institute."}
+    - {abbr: "Cleveland Clinic", title: "Cleveland Clinic Lerner Research Institute"}
   social:
     - {name: "site", link: "https://galaxyproject.org/people/dan/"}
 -
@@ -274,6 +274,17 @@
     - {abbr: "Penn State", title: "Penn State University"}
   social:
     - {name: "site", link: "https://scholar.google.fr/citations?user=ObqD_s4AAAAJ&hl=en"}
+-
+  id: 37
+  name: "Gildas "
+  surname: "Le Corguillé"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SB Roscoff", title: "Station Biologique de Roscoff"}
+  social:
+    - {name: "site", link: "https://github.com/lecorguille"}
 -
   id: 30
   name: "Younghee"
