@@ -143,6 +143,12 @@ showSessions: false
 teamBlockTitle: "The team"
 teamBlockDescription: "The team behind BCC is a combination of OBF, Galaxy, OICR, Galaxy Australia and Australian BioCommons  members, along with community members that generously donate their time to review abstracts, chair sessions, and review the program."
 
+# Scientific Program Committees
+spcs:
+  - "BOSC"
+  - "Galaxy"
+
+
 # Hackathon
 hackathonTitle: "Collaboration Fest"
 enableHackathon: true

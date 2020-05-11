@@ -1,4 +1,15 @@
 -
+  id: 22
+  name: "Enis"
+  surname: "Afgan"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Johns Hopkins", title: "Galaxy Project, Johns Hopkins University", url: "https://galaxyproject.org/"}
+  social:
+    - {name: "site", link: "https://galaxyproject.org/people/enis-afgan/"}
+-
   id: 17
   name: "Dannon"
   surname: "Baker"
@@ -11,6 +22,28 @@
     - {name: "site", link: "https://galaxyproject.org/people/dannon-baker/"}
     - {name: "twitter", link: "https://twitter.com/siryoplait"}
     - {name: "github", link: "https://github.com/dannon"}
+-
+  id: 23
+  name: "Anshu"
+  surname: "Bhardwaj"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "CRI & CSIR", title: "Interdisciplinary Research Center, and CSIR-Institute of Microbial Technology"}
+  social:
+    - {name: "site", link: "https://people2.cri-paris.org/people/249e9409-3618-44d3-8d05-c7283a7d126d"}
+-
+  id: 23
+  name: "Dan"
+  surname: "Blankenberg"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Cleveland Clinic", title: "Cleveland Clinic Lerner Research Institute."}
+  social:
+    - {name: "site", link: "https://galaxyproject.org/people/dan/"}
 -
   id: 2
   name: "Michelle"
@@ -83,9 +116,10 @@
   surname: "Doyle"
   title: ""
   thumbnailUrl: maria-doyle.jpg
+  spc: "Galaxy"
   cofest: true
   ribbon:
-    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+    - {abbr: "PeterMac", title: "Peter MacCallum Cancer Center"}
   social:
     - {name: "site", link: "https://www.researchgate.net/profile/Maria_Doyle4"}
     - {name: "github", link: "https://github.com/mblue9"}
@@ -103,6 +137,17 @@
     - {name: "twitter", link: "https://twitter.com/cjfields"}
     - {name: "github", link: "https://github.com/cjfields"}
 -
+  id: 24
+  name: "Melanie"
+  surname: "Föll"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "U Freiberg", title: "University of Freiberg"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/scientific-contributions/2139619089_Melanie_Christine_Foell"}
+-
   id: 13
   name: "Simon"
   surname: "Gladman"
@@ -117,6 +162,17 @@
     - {name: "twitter", link: "https://twitter.com/simongladman1"}
     - {name: "github", link: "https://github.com/slugger70"}
 -
+  id: 25
+  name: "Björn"
+  surname: "Grüning"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "U Freiberg", title: "University of Freiberg"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Bjoern_Gruening"}
+-
   id: 1
   name: "Nomi"
   surname: "Harris"
@@ -128,6 +184,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/nomiharris"}
     - {name: "github", link: "https://github.com/nlharris"}
+-
+  id: 26
+  name: "Jennifer"
+  surname: "Harrow"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "EMBL-EBI", title: "Europeand Bioinformatics Institute"}
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=fmLAA9wAAAAJ&hl=en"}
 -
   id: 15
   name: "Michael"
@@ -154,6 +221,28 @@
     - {name: "twitter", link: "https://twitter.com/MoHeydarian"}
     - {name: "github", link: "https://github.com/MoHeydarian"}
 -
+  id: 29
+  name: "Jennifer"
+  surname: "Hillman-Jackson"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Penn State", title: "Penn State University"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Jennifer_Hillman-Jackson"}
+-
+  id: 27
+  name: "Saskia"
+  surname: "Hiltemann"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "ErasmusMC", title: "Erasmus Medical Center"}
+  social:
+    - {name: "site", link: "http://shiltemann.github.io/"}
+-
   id: 10
   name: "Karsten"
   surname: "Hokamp"
@@ -163,6 +252,50 @@
   #subTeam: true
   social:
     - {name: "site", link: "http://bioinf.gen.tcd.ie/~khokamp/"}
+-
+  id: 28
+  name: "Vahid"
+  surname: "Jalili"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "OHSU", title: "Oregon Health and Science University"}
+  social:
+    - {name: "site", link: "https://www.ohsu.edu/people/vahid-jalili-phd"}
+-
+  id: 29
+  name: "Delphine"
+  surname: "Lariviere"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Penn State", title: "Penn State University"}
+  social:
+    - {name: "site", link: "https://scholar.google.fr/citations?user=ObqD_s4AAAAJ&hl=en"}
+-
+  id: 30
+  name: "Younghee"
+  surname: "Lee"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Utah", title: "University of Utah"}
+  social:
+    - {name: "site", link: "https://medicine.utah.edu/faculty/mddetail.php?facultyID=u6003255"}
+-
+  id: 31
+  name: "Pablo"
+  surname: "Moreno"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "EMBL-EBI", title: "European Bioinformatics Institute"}
+  social:
+    - {name: "site", link: "https://www.ebi.ac.uk/about/people/pablo-moreno"}
 -
   id: 9
   name: "Monica"
@@ -201,6 +334,39 @@
     - {name: "site", link: "https://qfab.org/team-member/dr-gareth-price"}
     - {name: "twitter", link: "https://twitter.com/DrGPrice"}
     - {name: "github", link: "https://github.com/GarethPrice-Aus"}
+-
+  id: 32
+  name: "Helena"
+  surname: "Rasche"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Independent", title: "Independent"}
+  social:
+    - {name: "site", link: "https://github.com/erasche"}
+-
+  id: 33
+  name: "Sara"
+  surname: "Riazi"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "New Haven", title: "University of New Haven"}
+  social:
+    - {name: "site", link: "https://sarariazi.github.io/"}
+-
+  id: 33
+  name: "Muhammad Farhan"
+  surname: "Sjaugi"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Perdana", title: "Perdana University"}
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=-rfAVkIAAAAJ&hl=en"}
 -
   id: 16
   name: "Torsten"
@@ -252,6 +418,17 @@
     - {name: "twitter", link: "https://twitter.com/NicolaSoranzo"}
     - {name: "github", link: "https://github.com/nsoranzo"}
 -
+  id: 34
+  name: "Anna"
+  surname: "Syme"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "RBGV", title: "Royal Botanic Gardens Victoria"}
+  social:
+    - {name: "site", link: "https://www.rbg.vic.gov.au/staff/anna-syme"}
+-
   id: 7
   name: "Morgan"
   surname: "Taschuk"
@@ -265,6 +442,28 @@
     - {name: "site", link: "https://morgantaschuk.com/"}
     - {name: "twitter", link: "https://twitter.com/morgantaschuk"}
     - {name: "github", link: "https://github.com/morgantaschuk"}
+-
+  id: 35
+  name: "Sonika"
+  surname: "Tyagi"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Monash", title: "Monash University"}
+  social:
+    - {name: "site", link: "https://www.monash.edu/science/schools/biological-sciences/staff/sonika-tyagi"}
+-
+  id: 36
+  name: "Peter"
+  surname: "Van Heusden"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SANBI", title: "SANBI, University of the Western Cape"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Peter_Van_Heusden"}
 -
   id: 4
   name: "Jenn"
