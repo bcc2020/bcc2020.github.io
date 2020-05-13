@@ -23,6 +23,17 @@
     - {name: "twitter", link: "https://twitter.com/siryoplait"}
     - {name: "github", link: "https://github.com/dannon"}
 -
+  id: 38
+  name: "Christopher"
+  surname: "Barnett"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "UCT", title: "University of Cape Town"}
+  social:
+    - {name: "site", link: "http://www.chemistry.uct.ac.za/cem/staff/academic/barnett"}
+-
   id: 23
   name: "Anshu"
   surname: "Bhardwaj"
@@ -56,6 +67,17 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-d-brazas-8878373/"}
     - {name: "github", link: "https://github.com/mbrazas"}
+-
+  id: 39
+  name: "Tracey"
+  surname: "Calvert-Joshua"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "UWC", title: "University of the Western Cape"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Tracey_Calvert-Joshua"}
 -
   id: 15
   name: "Brad"
@@ -264,6 +286,17 @@
   social:
     - {name: "site", link: "https://www.ohsu.edu/people/vahid-jalili-phd"}
 -
+  id: 39
+  name: "Thomas"
+  surname: "Klingström"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SLU", title: "Swedish University of Agricultural Sciences"}
+  social:
+    - {name: "site", link: "https://www.slu.se/cv/tomas-klingstrom/"}
+-
   id: 29
   name: "Delphine"
   surname: "Lariviere"
@@ -296,6 +329,28 @@
     - {abbr: "Utah", title: "University of Utah"}
   social:
     - {name: "site", link: "https://medicine.utah.edu/faculty/mddetail.php?facultyID=u6003255"}
+-
+  id: 40
+  name: "Ziphozakhe"
+  surname: "Mashologu"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SANBI", title: "SANBI, University of the Western Cape"}
+  social:
+    - {name: "site", link: "https://github.com/zipho"}
+-
+  id: 41
+  name: "David"
+  surname: "Morais"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Sherbrooke", title: "Université de Sherbrooke"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/David_Morais2"}
 -
   id: 31
   name: "Pablo"
@@ -367,6 +422,17 @@
     - {abbr: "New Haven", title: "University of New Haven"}
   social:
     - {name: "site", link: "https://sarariazi.github.io/"}
+-
+  id: 42
+  name: "Beáta"
+  surname: "Scholtz"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Debrecen", title: "University of Debrecen Medical and Health Science Center"}
+  social:
+    - {name: "site", link: "http://demo.bmbi.med.unideb.hu/teszt2/index.php/hu/munkatarsak/26-senior-lecturers-and-research-fellows/64-beata-scholtz"}
 -
   id: 33
   name: "Muhammad Farhan"
