@@ -769,6 +769,17 @@
   social:
     - {name: "site", link: "https://www.monash.edu/science/schools/biological-sciences/staff/sonika-tyagi"}
 -
+  id: 73
+  name: "Sonika"
+  surname: "Tyagi"
+  title: ""
+  thumbnailUrl: 
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Monash", title: "Monash University"}
+  social:
+    - {name: "site", link: "https://www.monash.edu/science/schools/biological-sciences/staff/sonika-tyagi"}
+-
   id: "52"
   name: "Deepak"
   surname: "Unni"

@@ -59,10 +59,10 @@
         </div>
         
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Scientifc Program Committee</h4>
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Scientific Program Committee</h4>
             {% for committee in site.spcs %}
                 <div class="col-sm-6 col-xs-12 text-left">
-                    <p> {{ committee }} </p>
+                    <h5 class="text-center"> {{ committee }} </h5>
                     <ul>
                         {% for teamMember in site.data.team %}
                             {% if teamMember.spc != null %}
