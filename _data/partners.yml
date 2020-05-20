@@ -5,4 +5,5 @@
 - 
   group: "Silver Sponsors"
   elements: 
+    - {name: "Broad Institute Data Sciences Program", description: "Broad Institute Data Sciences Program", link: "https://www.broadinstitute.org/data-sciences-platform", width: "20rem", imageUrl: "broad.png"}
 -
