@@ -316,7 +316,7 @@
   thumbnailUrl: 
   spc: "Galaxy"
   ribbon:
-    - {abbr: "EMBL-EBI", title: "Europeand Bioinformatics Institute"}
+    - {abbr: "EMBL-EBI", title: "European Bioinformatics Institute"}
   social:
     - {name: "site", link: "https://scholar.google.com/citations?user=fmLAA9wAAAAJ&hl=en"}
 -
