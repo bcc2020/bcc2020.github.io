@@ -37,7 +37,6 @@ navigationLinks:
  - {permalink: "/training", text: "Training"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
- - {permalink: "/promote/", text: "Promote"}
 bottomNavigationLinks:
  - {link: "/Registration/", text: "Registration"}
 rightNavigationButtons:
@@ -100,9 +99,8 @@ twitterFeed: "https://twitter.com/hashtag/BioCommConf"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
-sponsorsUrl: "mailto:bcc2020-org@lists.galaxyproject.org?subject=Sponsorship%20opportunities%20at%20BCC2020"
 
 # Tickets Block
 ticketsTitle: "Registration fees"
