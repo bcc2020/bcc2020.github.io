@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown-container
 title: Training
 permalink: /training/
 image: schedule.jpg
