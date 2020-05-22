@@ -256,7 +256,7 @@
   thumbnailUrl: 
   spc: "Galaxy"
   ribbon:
-    - {abbr: "U Freiberg", title: "University of Freiberg"}
+    - {abbr: "U Freiburg", title: "University of Freiburg"}
   social:
     - {name: "site", link: "https://www.researchgate.net/scientific-contributions/2139619089_Melanie_Christine_Foell"}
 -
@@ -292,7 +292,7 @@
   thumbnailUrl: 
   spc: "Galaxy"
   ribbon:
-    - {abbr: "U Freiberg", title: "University of Freiberg"}
+    - {abbr: "U Freiburg", title: "University of Freiburg"}
   social:
     - {name: "site", link: "https://www.researchgate.net/profile/Bjoern_Gruening"}
 -
