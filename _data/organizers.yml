@@ -4,3 +4,4 @@
     - {name: "Open Bioinformatics Foundation", description: "Open Bioinformatics Foundation", link: "https://www.open-bio.org/", imageUrl: "obf.svg"}
     - {name: "The Galaxy Project", description: "The Galaxy Project", link: "https://galaxyproject.org/", imageUrl: "galaxy_logo.svg"}
     - {name: "Ontario Institute for Cancer Research", description: "Ontario Institute for Cancer Research", link: "https://oicr.on.ca/", imageUrl: "oicr.svg"}
+    - {name: "Galaxy Australia and Australian BioCommons", description: "Galaxy Australia and Australian BioCommons", link: "https://www.biocommons.org.au/", imageUrl: "australia-hosts.png"}

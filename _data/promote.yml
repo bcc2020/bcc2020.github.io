@@ -1,0 +1,48 @@
+-
+  id: 11
+  name: "Poster"
+  file: bcc-poster.jpg
+-
+  id: 12
+  name: "Postcard"
+  file: bcc-postcard.jpg
+-
+  id: 9
+  name: "Logo, white, horizontal"
+  file: bcc2020-online-logo-white-horiz.png
+-
+  id: 10
+  name: "Logo, white, vertical"
+  file: bcc2020-online-logo-white-horiz.png
+-
+  id: 1
+  name: "Logo, black, horizontal"
+  file: bcc2020-online-logo-black-horiz.png
+-
+  id: 2
+  name: "Logo, black, vertical"
+  file: bcc2020-online-logo-black-vert.png
+-
+  id: 3
+  name: "Logo, blue, horizontal"
+  file: bcc2020-online-logo-blue-horiz.png
+-
+  id: 4
+  name: "Logo, blue, vertical"
+  file: bcc2020-online-logo-blue-vert.png
+-
+  id: 5
+  name: "Logo, dark background, horizontal"
+  file: bcc2020-online-logo-darkbg-horiz.png
+-
+  id: 6
+  name: "Logo, dark background, vertical"
+  file: bcc2020-online-logo-darkbg-horiz.png
+-
+  id: 7
+  name: "Logo, light background, horizontal"
+  file: bcc2020-online-logo-lightbg-horiz.png
+-
+  id: 8
+  name: "Logo, dark background, vertical"
+  file: bcc2020-online-logo-lightbg-horiz.png

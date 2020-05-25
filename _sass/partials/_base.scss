@@ -28,10 +28,10 @@ $h6-font-size: 1.875 * $base-font-size;
 
 // Colors
 $main-color: #58595b;
-$link-color: $main-color;
+$link-color: #000090;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
-$base-section-background-color: $link-color;
+$base-section-background-color: $main-color;
 $primary-color: #58595b;
 $primary-color-hover: #805da1;
 $icon-fill-color: #12c7b4;

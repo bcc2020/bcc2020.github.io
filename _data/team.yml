@@ -1,4 +1,83 @@
 -
+  id: 22
+  name: "Enis"
+  surname: "Afgan"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Johns Hopkins", title: "Johns Hopkins University", url: "https://galaxyproject.org/"}
+  social:
+    - {name: "site", link: "https://galaxyproject.org/people/enis-afgan/"}
+-
+  id: 17
+  name: "Dannon"
+  surname: "Baker"
+  title: ""
+  thumbnailUrl: dannon-baker.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://galaxyproject.org/people/dannon-baker/"}
+    - {name: "twitter", link: "https://twitter.com/siryoplait"}
+    - {name: "github", link: "https://github.com/dannon"}
+-
+  id: 38
+  name: "Christopher"
+  surname: "Barnett"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "UCT", title: "University of Cape Town"}
+  social:
+    - {name: "site", link: "http://www.chemistry.uct.ac.za/cem/staff/academic/barnett"}
+-
+  id: 23
+  name: "Anshu"
+  surname: "Bhardwaj"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "CRI & CSIR", title: "Interdisciplinary Research Center, and CSIR-Institute of Microbial Technology"}
+  social:
+    - {name: "site", link: "https://people2.cri-paris.org/people/249e9409-3618-44d3-8d05-c7283a7d126d"}
+-
+  id: "59"
+  name: "Kai"
+  surname: "Blin"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Technical University of Denmark", title: "Technical University of Denmark"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 23
+  name: "Dan"
+  surname: "Blankenberg"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Cleveland Clinic", title: "Cleveland Clinic Lerner Research Institute"}
+  social:
+    - {name: "site", link: "https://galaxyproject.org/people/dan/"}
+-
+  id: "57"
+  name: "Kai"
+  surname: "Blumberg"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "University of Arizona", title: "University of Arizona"}
+  social:
+  - {name: "site", link: ""}
+-
   id: 2
   name: "Michelle"
   surname: "Brazas"
@@ -11,12 +90,57 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-d-brazas-8878373/"}
     - {name: "github", link: "https://github.com/mbrazas"}
 -
+  id: "68"
+  name: "Christian"
+  surname: "Brueffer"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Lund University", title: "Lund University"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 39
+  name: "Tracey"
+  surname: "Calvert-Joshua"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "UWC", title: "University of the Western Cape"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Tracey_Calvert-Joshua"}
+-
+  id: "56"
+  name: "J. Harry"
+  surname: "Caufield"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "University of California, Los Angeles", title: "University of California, Los Angeles"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 15
+  name: "Brad"
+  surname: "Chapman"
+  title: ""
+  thumbnailUrl: brad-chapman.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://bcb.io/"}
+    - {name: "twitter", link: "https://twitter.com/chapmanb"}
+    - {name: "github", link: "https://github.com/chapmanb"}
+-
   id: 0
   name: "Dave"
   surname: "Clements"
   title: ""
   thumbnailUrl: dave-clements.jpg
-  team: true
   chair: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
@@ -31,8 +155,10 @@
   title: ""
   thumbnailUrl: peter-cock.jpg
   team: true
+  cofest: true
+  spc: "BOSC"
   ribbon:
-    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+    - {abbr: "The James Hutton Institute", title: "The James Hutton Institute"}
   social:
     - {name: "site", link: "https://www.hutton.ac.uk/staff/peter-cock"}
     - {name: "twitter", link: "https://twitter.com/pjacock"}
@@ -44,6 +170,7 @@
   title: ""
   thumbnailUrl: frederik-coppens.jpg
   team: true
+  cofest: true
   ribbon:
     - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
   social:
@@ -51,31 +178,161 @@
     - {name: "twitter", link: "https://twitter.com/FrederikCoppens"}
     - {name: "github", link: "https://github.com/frederikcoppens"}
 -
+  id: "63"
+  name: "Arun"
+  surname: "Decano"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "University of St. Andrews", title: "University of St. Andrews"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "45"
+  name: "Gianluca"
+  surname: "Della Vedova"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "DISCo, Univ. degli Studi Milano-Bicocca", title: "DISCo, Univ. degli Studi Milano-Bicocca"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 20
+  name: "Maria"
+  surname: "Doyle"
+  title: ""
+  thumbnailUrl: maria-doyle.jpg
+  spc: "Galaxy"
+  cofest: true
+  ribbon:
+    - {abbr: "PeterMac", title: "Peter MacCallum Cancer Center"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Maria_Doyle4"}
+    - {name: "github", link: "https://github.com/mblue9"}
+-
+  id: "64"
+  name: "James"
+  surname: "Eddy"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Sage Bionetworks", title: "Sage Bionetworks"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "48"
+  name: "Scott"
+  surname: "Edmunds"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "GigaScience/BGI Hong Kong", title: "GigaScience/BGI Hong Kong"}
+  social:
+  - {name: "site", link: ""}
+-
   id: 12
   name: "Chris"
   surname: "Fields"
   title: ""
   thumbnailUrl: chris-fields.jpg
   team: true
+  spc: "BOSC"
   ribbon:
-    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+    - {abbr: "University of Illinois Urbana-Champaign", title: "University of Illinois Urbana-Champaign"}
   social:
     - {name: "site", link: "https://hpcbio.illinois.edu/people"}
     - {name: "twitter", link: "https://twitter.com/cjfields"}
     - {name: "github", link: "https://github.com/cjfields"}
+-
+  id: 24
+  name: "Melanie"
+  surname: "Föll"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "U Freiburg", title: "University of Freiburg"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/scientific-contributions/2139619089_Melanie_Christine_Foell"}
+-
+  id: 13
+  name: "Simon"
+  surname: "Gladman"
+  title: ""
+  thumbnailUrl: simon-gladman.jpg
+  team: true
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://melbournebioinformatics.org.au/"}
+    - {name: "twitter", link: "https://twitter.com/simongladman1"}
+    - {name: "github", link: "https://github.com/slugger70"}
+-
+  id: "60"
+  name: "Bastian"
+  surname: "Greshake Tzovaras"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "openSNP", title: "openSNP"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 25
+  name: "Björn"
+  surname: "Grüning"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "U Freiburg", title: "University of Freiburg"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Bjoern_Gruening"}
 -
   id: 1
   name: "Nomi"
   surname: "Harris"
   title: ""
   thumbnailUrl: nomi-harris.jpeg
-  team: true
   chair: true
+  spc: "BOSC"
   ribbon:
-    - {abbr: "BOSC", title: "Bioinformatics Open Source Conference", url: "https://www.open-bio.org/events/bosc/"}
+    - {abbr: "Lawrence Berkeley National Laboratory", title: "Lawrence Berkeley National Laboratory"}
   social:
     - {name: "twitter", link: "https://twitter.com/nomiharris"}
     - {name: "github", link: "https://github.com/nlharris"}
+-
+  id: 26
+  name: "Jennifer"
+  surname: "Harrow"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "EMBL-EBI", title: "European Bioinformatics Institute"}
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=fmLAA9wAAAAJ&hl=en"}
+-
+  id: 15
+  name: "Michael"
+  surname: "Heuer"
+  title: ""
+  thumbnailUrl: michael-heuer-2.jpg
+  cofest: true
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "UC Berkeley RISE Lab", title: "UC Berkeley RISE Lab"}
+  social:
+    - {name: "site", link: "https://rise.cs.berkeley.edu/"}
+    - {name: "twitter", link: "https://twitter.com/michael_l_heuer"}
+    - {name: "github", link: "https://github.com/heuermh"}
 -
   id: 6
   name: "Mo"
@@ -89,6 +346,28 @@
     - {name: "twitter", link: "https://twitter.com/MoHeydarian"}
     - {name: "github", link: "https://github.com/MoHeydarian"}
 -
+  id: 29
+  name: "Jennifer"
+  surname: "Hillman-Jackson"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Penn State", title: "Penn State University"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Jennifer_Hillman-Jackson"}
+-
+  id: 27
+  name: "Saskia"
+  surname: "Hiltemann"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "ErasmusMC", title: "Erasmus Medical Center"}
+  social:
+    - {name: "site", link: "http://shiltemann.github.io/"}
+-
   id: 10
   name: "Karsten"
   surname: "Hokamp"
@@ -96,8 +375,176 @@
   thumbnailUrl: karsten-hokamp.jpg
   team: true
   #subTeam: true
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Trinity College Dublin", title: "Trinity College Dublin"}
   social:
     - {name: "site", link: "http://bioinf.gen.tcd.ie/~khokamp/"}
+-
+  id: 28
+  name: "Vahid"
+  surname: "Jalili"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "OHSU", title: "Oregon Health and Science University"}
+  social:
+    - {name: "site", link: "https://www.ohsu.edu/people/vahid-jalili-phd"}
+-
+  id: "55"
+  name: "Matus"
+  surname: "Kalas"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Computational Biology Unit, Department of Informatics, University of Bergen", title: "Computational Biology Unit, Department of Informatics, University of Bergen"}
+  social:
+  - {name: "site", link: ""}
+
+  id: "70"
+  name: "Aziz"
+  surname: "Khan"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "University of Oslo", title: "University of Oslo"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 39
+  name: "Thomas"
+  surname: "Klingström"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SLU", title: "Swedish University of Agricultural Sciences"}
+  social:
+    - {name: "site", link: "https://www.slu.se/cv/tomas-klingstrom/"}
+-
+  id: "72"
+  name: "Aleix"
+  surname: "Lafita-Masip"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "European Bioinformatics Institute EMBL-EBI", title: "European Bioinformatics Institute EMBL-EBI"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 29
+  name: "Delphine"
+  surname: "Lariviere"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Penn State", title: "Penn State University"}
+  social:
+    - {name: "site", link: "https://scholar.google.fr/citations?user=ObqD_s4AAAAJ&hl=en"}
+-
+  id: 37
+  name: "Gildas "
+  surname: "Le Corguillé"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SB Roscoff", title: "Station Biologique de Roscoff"}
+  social:
+    - {name: "site", link: "https://github.com/lecorguille"}
+-
+  id: 30
+  name: "Younghee"
+  surname: "Lee"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Utah", title: "University of Utah"}
+  social:
+    - {name: "site", link: "https://medicine.utah.edu/faculty/mddetail.php?facultyID=u6003255"}
+-
+  id: "71"
+  name: "Jessica"
+  surname: "Maia"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "BD", title: "BD"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 40
+  name: "Ziphozakhe"
+  surname: "Mashologu"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SANBI", title: "SANBI, University of the Western Cape"}
+  social:
+    - {name: "site", link: "https://github.com/zipho"}
+-
+  id: "66"
+  name: "Nico"
+  surname: "Matentzoglu"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "EMBL-EBI", title: "EMBL-EBI"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "54"
+  name: "Hervé"
+  surname: "Ménager"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Institut Pasteur", title: "Institut Pasteur"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 41
+  name: "David"
+  surname: "Morais"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Sherbrooke", title: "Université de Sherbrooke"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/David_Morais2"}
+-
+  id: 31
+  name: "Pablo"
+  surname: "Moreno"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "EMBL-EBI", title: "European Bioinformatics Institute"}
+  social:
+    - {name: "site", link: "https://www.ebi.ac.uk/about/people/pablo-moreno"}
+-
+  id: "47"
+  name: "Ruchi"
+  surname: "Munshi"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Broad Institute", title: "Broad Institute"}
+  social:
+  - {name: "site", link: ""}
 -
   id: 9
   name: "Monica"
@@ -110,6 +557,192 @@
     - {name: "twitter", link: "https://twitter.com/monimunozto"}
     - {name: "github", link: "https://github.com/monicacecilia"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/monimunozto/"}
+-
+  id: "49"
+  name: "Tazro"
+  surname: "Ohta"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Database Center for Life Science", title: "Database Center for Life Science"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "69"
+  name: "Konstantin"
+  surname: "Okonechnikov"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "German Cancer Research Center", title: "German Cancer Research Center"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "53"
+  name: "Lorena"
+  surname: "Pantano"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "UPF", title: "UPF"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "46"
+  name: "Luis"
+  surname: "Pedro Coehlo"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Fudan University", title: "Fudan University"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 17
+  name: "Alexander"
+  surname: "Peltzer"
+  title: ""
+  thumbnailUrl: alexander-peltzer.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://apeltzer.github.io/"}
+    - {name: "twitter", link: "https://twitter.com/alex_peltzer"}
+    - {name: "github", link: "https://github.com/apeltzer"}
+-
+  id: 14
+  name: "Gareth"
+  surname: "Price"
+  title: ""
+  thumbnailUrl: gareth-price.jpg
+  team: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://qfab.org/team-member/dr-gareth-price"}
+    - {name: "twitter", link: "https://twitter.com/DrGPrice"}
+    - {name: "github", link: "https://github.com/GarethPrice-Aus"}
+-
+  id: 32
+  name: "Helena"
+  surname: "Rasche"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Independent", title: "Independent"}
+  social:
+    - {name: "site", link: "https://github.com/erasche"}
+-
+  id: 33
+  name: "Sara"
+  surname: "Riazi"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "New Haven", title: "University of New Haven"}
+  social:
+    - {name: "site", link: "https://sarariazi.github.io/"}
+-
+  id: "50"
+  name: "Surya"
+  surname: "Saha"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Boyce Thompson Institute", title: "Boyce Thompson Institute"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 42
+  name: "Beáta"
+  surname: "Scholtz"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Debrecen", title: "University of Debrecen Medical and Health Science Center"}
+  social:
+    - {name: "site", link: "http://demo.bmbi.med.unideb.hu/teszt2/index.php/hu/munkatarsak/26-senior-lecturers-and-research-fellows/64-beata-scholtz"}
+-
+  id: 16
+  name: "Torsten"
+  surname: "Seemann"
+  title: ""
+  thumbnailUrl: torsten-seemann.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.doherty.edu.au/people/associate-professor-torsten-seemann"}
+    - {name: "twitter", link: "https://twitter.com/torstenseemann"}
+    - {name: "github", link: "https://github.com/tseemann"}
+-
+  id: 19
+  name: "Beatriz"
+  surname: "Serrano-Solano"
+  title: ""
+  thumbnailUrl: beatriz-serrano-selano.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.embl.de/research/units/cbb/cbb-computational-support/members/index.php?s_personId=CP-60022607"}
+    - {name: "twitter", link: "https://twitter.com/Birthae"}
+    - {name: "github", link: "https://github.com/beatrizserrano"}
+-
+  id: 21
+  name: "Harpreet"
+  surname: "Singh"
+  title: ""
+  thumbnailUrl: harpreet-singh.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Harpreet_Singh4"}
+-
+  id: 33
+  name: "Muhammad Farhan"
+  surname: "Sjaugi"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Perdana", title: "Perdana University"}
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=-rfAVkIAAAAJ&hl=en"}
+-
+  id: 18
+  name: "Nicola"
+  surname: "Soranzo"
+  title: ""
+  thumbnailUrl: nicola-soranzo.jpg
+  cofest: true
+  ribbon:
+    - {abbr: "BCC", title: "Bioinformatics Community Conference", url: "https://bcc2020.gihub.io/"}
+  social:
+    - {name: "site", link: "https://www.earlham.ac.uk/nicola-soranzo"}
+    - {name: "twitter", link: "https://twitter.com/NicolaSoranzo"}
+    - {name: "github", link: "https://github.com/nsoranzo"}
+-
+  id: 34
+  name: "Anna"
+  surname: "Syme"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "RBGV", title: "Royal Botanic Gardens Victoria"}
+  social:
+    - {name: "site", link: "https://www.rbg.vic.gov.au/staff/anna-syme"}
 -
   id: 7
   name: "Morgan"
@@ -124,6 +757,61 @@
     - {name: "site", link: "https://morgantaschuk.com/"}
     - {name: "twitter", link: "https://twitter.com/morgantaschuk"}
     - {name: "github", link: "https://github.com/morgantaschuk"}
+-
+  id: 35
+  name: "Sonika"
+  surname: "Tyagi"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "Monash", title: "Monash University"}
+  social:
+    - {name: "site", link: "https://www.monash.edu/science/schools/biological-sciences/staff/sonika-tyagi"}
+-
+  id: 73
+  name: "Sonika"
+  surname: "Tyagi"
+  title: ""
+  thumbnailUrl: 
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Monash", title: "Monash University"}
+  social:
+    - {name: "site", link: "https://www.monash.edu/science/schools/biological-sciences/staff/sonika-tyagi"}
+-
+  id: "52"
+  name: "Deepak"
+  surname: "Unni"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Lawrence Berkeley National Laboratory", title: "Lawrence Berkeley National Laboratory"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: 36
+  name: "Peter"
+  surname: "Van Heusden"
+  title: ""
+  thumbnailUrl: 
+  spc: "Galaxy"
+  ribbon:
+    - {abbr: "SANBI", title: "SANBI, University of the Western Cape"}
+  social:
+    - {name: "site", link: "https://www.researchgate.net/profile/Peter_Van_Heusden"}
+-
+  id: "67"
+  name: "Nicole"
+  surname: "Vasilevsky"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Oregon Health and Science University", title: "Oregon Health and Science University"}
+  social:
+  - {name: "site", link: ""}
 -
   id: 4
   name: "Jenn"
@@ -143,7 +831,28 @@
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/hlwiencko"}
-
+-
+  id: "51"
+  name: "Jason"
+  surname: "Williams"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Cold Spring Harbor Laboratory", title: "Cold Spring Harbor Laboratory"}
+  social:
+  - {name: "site", link: ""}
+-
+  id: "61"
+  name: "Yo"
+  surname: "Yehudi"
+  title: ""
+  thumbnailUrl:
+  spc: "BOSC"
+  ribbon:
+    - {abbr: "Open Life Science", title: "Open Life Science"}
+  social:
+  - {name: "site", link: ""}
 -
   id: 5
   name: "Denis"

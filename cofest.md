@@ -7,27 +7,26 @@ image_align: top
 logostyle: logo-dark
 ---
 
- {% include top-section.html %}
-
  <!--Important for markdown to render! Also make sure the page has a .md extension-->
  {% include content_block.html do="open" identifier="markdown" %} <div markdown="1">
 
 #### What is it?
 
-BCC2020 will finish with an online CollaborationFest, a 2 (or 4) day collaborative work event where our community gathers virtually to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you.
+BCC2020 will finish with an online CollaborationFest, a two (or four) day collaborative work event where our community gathers virtually to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you.
+
+As with BCC2020 training and conference, CollaborationFest will be held twice: once in its original Toronto time zone, and again 12 hours later in the Eastern hemisphere. There will be core communities during both windows, but we are also exploring other options for coordinating efforts continuously.
 
 #### Core and Encore
 
-CoFest is split in half again this year:
+CollaborationFest is split in half into two separate two-day sessions:
 
-* **CollaborationFest: Core:** Friday & Saturday</b>: There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.
+* **CollaborationFest: Core:** Wednesday July 22 - Thursday July 23 in the West window, Thursday July 23 - Friday July 24 in the East window: There will be lots of collaborative work, but also lots of learning about projects and software. This will be the larger of the two stages. All you need to attend this is an interest and willingness to contribute.
 
-* **CollaborationFest: Encore:** Sunday & Monday</b>: The smaller (and dare we say <i>more intense</i>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.
+* **CollaborationFest: Encore:** Friday July 24 - Saturday July 25 in the West window, Saturday July 25 - Sunday July 26 in the East window: The smaller (and dare we say <em>more intense</em>) of the two stages, these two days will focus on collaboration, collaboration, collaboration.
 
 #### Registration
 
-CollaborationFest is free, for all 4 days. You still need to register (and select either 2 or 4 days).
-
+CollaborationFest is free for all four days. You still need to [register](https://bcc2020.github.io/Registration/) (and select either 2 or 4 days).
 
 #### Preparing for CoFest
 
@@ -39,8 +38,6 @@ CollaborationFest is free, for all 4 days. You still need to register (and selec
 
 The CollaborationFest is a welcoming, friendly environment and all interactions are expected to follow the [Bioinformatics Community Conference Code of Conduct](https://bcc2020.github.io/cod/). Please report questions, concerns or issues to any of the [CollaborationFest organizers](https://bcc2020.github.io/about/).
 
-
-
-
-
  </div> {% include content_block.html do="close" identifier="markdown" %}
+
+ {% include cofest-organizers.html %}

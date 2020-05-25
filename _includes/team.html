@@ -57,7 +57,28 @@
             </div>
             {% endif %} {% endfor %}
         </div>
+        
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Scientific Program Committee</h4>
+            {% for committee in site.spcs %}
+                <div class="col-sm-6 col-xs-12 text-left">
+                    <h5 class="text-center"> {{ committee }} </h5>
+                    <ul>
+                        {% for teamMember in site.data.team %}
+                            {% if teamMember.spc != null %}
+                                {% if teamMember.spc == committee %}
+                                    <li>
+                                        <strong>{{ teamMember.name }} {{ teamMember.surname }}</strong>,
+                                        {{ teamMember.ribbon[0]["title"] }}
+                                    </li>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+            </div>
 
-    </div>
+      </div>
 </section>
 <!-- End Team List -->
