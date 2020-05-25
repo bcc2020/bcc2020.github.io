@@ -80,7 +80,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 ### Contributors
 * The BCC committee
-* For the original template, see [list of contributors](https://github.com/gdg-x/zepplin/graphs/contributors)
+* For the original template, see [list of contributors](https://github.com/gdg-x/zeppelin/graphs/contributors)
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
