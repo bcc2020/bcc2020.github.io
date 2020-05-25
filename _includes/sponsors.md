@@ -15,6 +15,6 @@ BCC2020 participants come from a wide variety of research environments and backg
 1. Industry principal scientists and bioinformaticians
 1. Data producers
 
-**Interested in helping make BCC2020 a success?**  Please see the **[full sponsorship prospectus](/img/partners/prospectus-v1.pdf)** or the **[one page sponsorship summary](/img/partners/summary-v1.pdf)** for sponsorship levels and packages, as well as participant demographic information.
+**Interested in helping make BCC2020 a success?**  Please see the **[full sponsorship prospectus](/img/partners/bcc2020-prospectus-v3.pdf)** or the **[one page sponsorship summary](/img/partners/bcc2020-summary-v3.pdf)** for sponsorship levels and packages, as well as participant demographic information.
 
 </div> {% include content_block.html do="close" identifier="markdown" %}
