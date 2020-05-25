@@ -84,10 +84,9 @@ latestNewsTitle: "News"
 latestNewsCount: 2
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersImage: "keynotes-bottom.jpg"
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Keynote Speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 # requires Tweetledee setup, see https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#tweets-feed
 

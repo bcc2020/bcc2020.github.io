@@ -2,6 +2,11 @@ $rockstar-image-size: 140px;
 $small-rockstar-image-size: 120px;
 
 .rockstar-speakers {
+    position: relative;
+    min-height: 400px;
+    padding-top: 0;
+    background: $base-section-background-color;
+
     .name {
         font-size: 26px;
         line-height: 1.1;
@@ -13,7 +18,6 @@ $small-rockstar-image-size: 120px;
     .sub {
         font-size: $base-font-size * 1.4;
         margin: 0 0 15px;
-        color: $link-color;
         @media (max-width: 767px) {
             font-size: 16px;
         }
