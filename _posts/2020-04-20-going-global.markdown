@@ -22,7 +22,7 @@ We are pleased to announce that
 
 **Training**
 
-[Training](../training/) will be offered on July 17-18 in the Western hemishpere, and July 19-20 in the Eastern hemisphere. All training will be live and online.  Some topics will only offered in one hemisphere or the other.  Registration will be on a per session basis.  Training will use online platforms and almost all topics will be hands-on.
+Training will be offered on July 17-18 in the Western hemishpere, and July 19-20 in the Eastern hemisphere. All training will be live and online.  Some topics will only offered in one hemisphere or the other.  Registration will be on a per session basis.  Training will use online platforms and almost all topics will be hands-on.
 
 **Conference**
 

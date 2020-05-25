@@ -34,7 +34,6 @@ navigationLinks:
  - {permalink: "/submit/", text: "Abstracts"}
  - {permalink: "/Registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/training", text: "Training"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
 bottomNavigationLinks:
