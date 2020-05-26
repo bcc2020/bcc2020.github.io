@@ -6,7 +6,7 @@
 
 The BCC2020 website is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 
-Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team. Substantial modifications were made to get it working for a non-GDG event.
+Template is brought by [GDG Lviv](http://gdg.org.ua/) team. Substantial modifications were made to get it working for a non-GDG event.
 
 ## Local development
 
