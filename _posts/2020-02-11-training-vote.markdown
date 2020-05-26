@@ -7,7 +7,7 @@ image: hero.jpg
 color: olive
 ---
 
-**Vote for the Training Topics you want!)**
+**Vote for the Training Topics you want!**
 
 Voting is now open on what training topics will be offered at BCC2020.
 
