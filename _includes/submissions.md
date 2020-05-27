@@ -2,11 +2,9 @@
 <!--Important for markdown to render! Also make sure the page has a .md extension-->
 {% include content_block.html do="open" identifier="markdown" %} <div markdown="1">
 
-BCC2020 will be held in July, online, and on both sides of the world. This brings the 2020 Galaxy Community Conference and the Bioinformatics Open Source Conference together into a unified event. If you work in open source life science or data-intensive biomedical research, then there is no better place than BCC2020 to present your work and to learn from others.
+BCC2020 will be held in July 2020, online, and on both sides of the world. This brings the 2020 Galaxy Community Conference and the Bioinformatics Open Source Conference together into a unified event. If you work in open source life science or data-intensive biomedical research, then there is no better place than BCC2020 to present your work and to learn from others.
 
-**BCC2020 is seeking oral presentations, lightning talks, posters, and demos.**
-
-**The deadline for submitting abstracts (for all types of presentation) is May 8.**
+**Abstract submission closed May 8 2020. There will be no late breaking rounds.**
 
 <div><button type="button" class="btn btn-info lead"><a href="https://easychair.org/conferences/?conf=bcc2020">Submit an Abstract</a></button></div>
 <br /> <br />
@@ -29,11 +27,10 @@ By submitting an abstract, you agree to
 2. Have your presentation be recorded (video/webcam optional) and rebroadcast and/or published online
 
 ##### Submit
-Abstracts should be [submitted through EasyChair](https://easychair.org/conferences/?conf=bcc2020).
+Abstracts were [submitted through EasyChair](https://easychair.org/conferences/?conf=bcc2020).
 
-**Abstracts are due May 8, 2020**.
+**Abstract submission closed May 8 2020. There will be no late breaking rounds.**
 
-<div><button type="button" class="btn btn-info lead"><a href="https://easychair.org/conferences/?conf=bcc2020">Submit an Abstract</a></button></div>
 
 
 

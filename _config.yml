@@ -34,10 +34,8 @@ navigationLinks:
  - {permalink: "/submit/", text: "Abstracts"}
  - {permalink: "/Registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/training", text: "Training"}
  - {permalink: "/cofest/", text: "CoFest"}
  - {permalink: "/partners/", text: "Partners"}
- - {permalink: "/promote/", text: "Promote"}
 bottomNavigationLinks:
  - {link: "/Registration/", text: "Registration"}
 rightNavigationButtons:
@@ -85,10 +83,9 @@ latestNewsTitle: "News"
 latestNewsCount: 2
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersImage: "keynotes-bottom.jpg"
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Keynote Speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 # requires Tweetledee setup, see https://github.com/gdg-x/zeppelin/wiki/Initial-setup-in-_config.yml#tweets-feed
 
@@ -100,9 +97,8 @@ twitterFeed: "https://twitter.com/hashtag/BioCommConf"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
-sponsorsUrl: "mailto:bcc2020-org@lists.galaxyproject.org?subject=Sponsorship%20opportunities%20at%20BCC2020"
 
 # Tickets Block
 ticketsTitle: "Registration fees"

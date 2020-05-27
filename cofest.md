@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: markdown-container
 title: CollaborationFest
 permalink: /cofest/
 image: collabfest.jpg

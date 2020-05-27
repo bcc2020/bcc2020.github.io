@@ -8,6 +8,8 @@ permalink: /
 
  {% include about.html %}
 
+ {% include keynote-banner.html %}
+
  {% include latest-news.html %}
 
  {% include important-links.html %}
