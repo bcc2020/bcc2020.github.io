@@ -24,8 +24,14 @@
   Prior to joining Mozilla, Abby worked as a bioinformatics software developer at the <a href='https://oicr.on.ca/'>Ontario Institute for Cancer Research</a> and at <a href='https://msu.edu/'>Michigan State University</a> where she applied open source and to research problems. With a background in open source and community organizing, she is fueling a culture of openness in research and innovation."
   thumbnailUrl: abby-cabunoc-mayes.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
+  id: 7
+  name: "Prashanth N"
+  surname: "Suravajhala"
+  company: "Birla Institute of Scientific Research"
+  title: "Senior Scientist"
+  bio: "<a href='https://www.bioinformatics.org/wiki/Prash'>Prashanth N Suravajhala</a> is a senior scientist at Birla Institute of Scientific Research, Jaipur. A PhD in Systems Biology, he went on to gain more than 7 years of postdoctoral experience across four different laboratories. He has interests exploring the known unknown regions in the human genome, primarily working on the top-down systems biology approaches of hypothetical proteins. Over the last five years, he has developed an interest in long noncoding RNAs in humans, elucidating the mechanisms underpinning small molecular interactions through clinical exomes.
+
+  He founded <a href='https://bioclues.org'>Bioclues.org</a> in 2005, India's largest bioinformatics society which advocates open access. The organization aims to bridge mentor-mentee relationships and has been successful in mentoring as many as 2000 graduate students across 30 countries.  He is also associated with <a href='http://www.bioinformatics.org/'>Bioinformatics.Org</a> and a host of other humanitarian organizations, viz., <a href='https://www.rotary.org/en/our-programs/rotary-community-corps'>Rotary Community Corps</a>."
+  thumbnailUrl: prashanth-n-suravajhala.jpeg
+  rockstar: true
