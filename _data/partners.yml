@@ -2,6 +2,7 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "AWS", description: "Amazon Web Services", link: "https://aws.amazon.com/", width: "20rem", imageUrl: "aws.png"}
+    - {name: "SSI", description: "Software Sustainability Institute", link: "https://software.ac.uk/", width: "20rem", imageUrl: "ssi.png"}
 - 
   group: "Silver Sponsors"
   elements: 
