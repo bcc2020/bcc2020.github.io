@@ -795,12 +795,15 @@
   name: "Peter"
   surname: "Van Heusden"
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: peter-van-heusden.jpg
+  team: true
   spc: "Galaxy"
   ribbon:
     - {abbr: "SANBI", title: "SANBI, University of the Western Cape"}
   social:
     - {name: "site", link: "https://www.researchgate.net/profile/Peter_Van_Heusden"}
+    - {name: "twitter", link: "https://twitter.com/pvanheus"}
+    - {name: "github", link: "https://github.com/pvanheus"}
 -
   id: "67"
   name: "Nicole"
