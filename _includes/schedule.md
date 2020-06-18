@@ -4,7 +4,7 @@
 
 #### West and East
 
-**BCC2020 events will be held twice: once in its original Toronto time zone, and again 12 hours later in the Eastern hemisphere.**  This includes training, the conference itself, and the [CollaborationFest](../cofest/).
+**BCC2020 events will be held twice: once in North American Eastern Daylight Time (GMT-4) (BCC West), and again in Australian Eastern Standard Time (GMT+10) (BCC East).**  This includes training, the conference itself, and the [CollaborationFest](../cofest/).
 
 <div><button type="button" class="btn btn-info lead"><a href="https://bcc2020.sched.com/">Full Schedule</a></button></div>
 
