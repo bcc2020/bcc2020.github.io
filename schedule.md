@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 permalink: /schedule/
 image: keynotes-top.jpg
-logostyle: logo-dark
+logostyle: logo-light
 ---
 
 {% include keynote-banner.html %}
