@@ -23,8 +23,8 @@ siteVerification: ""
 # Head
 metaKeywords: "event, bioinformatics, conference, workflows, programming, research, science, developers, toronto, bosc, galaxy"
 twitterAccount: ""
-socialImageSrcTwitter: ""
-socialImageSrcFacebook: ""
+socialImageSrcTwitter: "/promote/bcc2020-online-logo-lightbg-vert.png"
+socialImageSrcFacebook: "/promote/bcc2020-online-logo-lightbg-vert.png"
 
 # Navigation
 navigationLinks:
