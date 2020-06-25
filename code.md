@@ -32,7 +32,7 @@ If a participant engages in harassing behaviour, event organisers retain the rig
 
 Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
-We require participants to follow these rules at all event venues and event-related social activities. We expect people to follow these rules outside event activities too, including but not limited to Twitter under the official #BCC2020 hashtag and in conversation with the official OBF or Galaxy accounts.
+We expect participants to follow these rules at all event venues and event-related social activities, and will strongly consider forums where conference attendees interact outside the conference (including social media, personal emails, phone calls or texts, or in-person interaction) to be held to the same code of conduct. Please behave professionally.
 
 ### Reporting
 
