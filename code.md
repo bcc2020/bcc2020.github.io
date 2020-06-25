@@ -2,8 +2,9 @@
 layout: post
 title: Code of Conduct
 permalink: /code/
-color: olive
+image: code.jpg
 isStaticPost: true
+redirect_from: /cod/
 ---
 
 This code of conduct outlines our expectations for BCC 2020 participants, as well as describing how to report unacceptable behaviour. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community.
@@ -11,7 +12,7 @@ This code of conduct outlines our expectations for BCC 2020 participants, as wel
 BCC2020 is dedicated to providing a harassment-free conference experience for everyone, regardless of race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Harassment includes, but is not limited to:
-* Comments, jokes, or language that reinforce social structures of domination related to race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, or religion
+* Comments, jokes, or language that reinforce discrimination and social structures of domination related to race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, or religion
 * Sexual or violent images
 * Deliberate intimidation, stalking, or following
 * Harassing photography or recording
@@ -31,7 +32,7 @@ If a participant engages in harassing behaviour, event organisers retain the rig
 
 Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
-We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
+We require participants to follow these rules at all event venues and event-related social activities. We expect people to follow these rules outside event activities too, including but not limited to Twitter under the official #BCC2020 hashtag and in conversation with the official OBF or Galaxy accounts.
 
 ### Reporting
 
