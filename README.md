@@ -62,3 +62,4 @@ Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/b
   - Workshop image by Priscilla Du Preez @priscilladupreez
   - CoFest image by Marvin Meyer @marvelous
 - Keynote image by Andrew Seaman @amseaman
+- Code of Conduct image by Clay Banks @claybanks
