@@ -12,20 +12,21 @@
 
 ##### Training
 
-Training is offered over two days: July 17-18 in the <a href='https://bcc2020.sched.com/venue/West'>West</a>, and July 18-19 in the <a href='https://bcc2020.sched.com/venue/East'>East</a>. This is immediately before the BCC2020 meeting.
+Training is offered over two days: July 17-18 in the <a href='https://bcc2020.sched.com/overview/area/West%3A+Americas'>West</a>, and July 18-19 in the <a href='https://bcc2020.sched.com/overview/area/East%3A+Asia+%26+Australia'>East</a>. This is immediately before the BCC2020 meeting.
 
 Training covers a variety of topics and is offered throughout both days, although some topics may be offered only in one hemisphere or another. All training will be live and online. Each session is 2.5 hours long. You register for each session individually.
 
-Please see <a href='https://bcc2020.sched.com/list/descriptions/type/Training'>BCC2020 Schedule Descriptions</a> for information about each training session.
+Please see <a href='https://bcc2020.sched.com/overview/subject/Training'>BCC2020 Schedule Descriptions</a> for information about each training session.
 
-<button type="button" class="btn btn-info"><a href="https://bcc2020.sched.com/overview/type/Training">Training Schedule</a></button>
+<button type="button" class="btn btn-info"><a href="https://bcc2020.sched.com/overview/subject/Training">Training Schedule</a></button>
 
 
 ##### Main Meeting
 
 The main meeting will be held July 19-21 in the West, and July 20-22 in the East.  The same presentations will be offered in both hemispheres. We are seeking ways to also have posters, demos, and birds-of-a-feather span both hemispheres.
 
-<button type="button" class="btn btn-info"><a href="https://bcc2020.sched.com/overview/type/Meeting">Meeting Schedule</a></button>
+<button type="button" class="btn btn-info"><a href="https://bcc2020.sched.com/overview/type/Meeting-East">East Meeting Schedule</a></button> <button type="button" class="btn btn-info"><a href="https://bcc2020.sched.com/overview/type/Meeting-West">West Meeting Schedule</a></button>
+
 
 ##### Collaboration Fest
 

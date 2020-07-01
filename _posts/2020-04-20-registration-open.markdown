@@ -25,7 +25,7 @@ These rate tiers are for
 
 **BCC is going global**
 
-In addition, BCC2020 is going global, and [**BCC2020 events will be held twice**](/blog/going-global): once in their [original Toronto time zone](https://bcc2020.sched.com/venue/West) (BCC West), and again [12 hours later in the Eastern hemisphere](https://bcc2020.sched.com/venue/East) (BCC East).
+In addition, BCC2020 is going global, and [**BCC2020 events will be held twice**](/blog/going-global): once in their [original Toronto time zone](https://bcc2020.sched.com/overview/area/West%3A+Americas) (BCC West), and again [12 hours later in the Eastern hemisphere](https://bcc2020.sched.com/overview/area/East%3A+Asia+%26+Australia) (BCC East).
 
 *We hope these two changes will make BCC2020 accessible to the entire world.*  Here's the plan.
 
@@ -33,7 +33,7 @@ In addition, BCC2020 is going global, and [**BCC2020 events will be held twice**
 
 1. If you are planning on attending Training, please review the [training schedule](https://bcc2020.sched.com/) to see what topics you are interested in.  Be sure to
   * Set your time zone ([Toronto](https://bcc2020.sched.com/?timezone=America/Toronto), [Sydney](https://bcc2020.sched.com/?timezone=Australia/Sydney), [*lots* of others](https://bcc2020.sched.com/))
-    * And set your venue too ([West](https://bcc2020.sched.com/venue/West), [East](https://bcc2020.sched.com/venue/East)), or not &mdash; if you live somewhere in between
+    * And set your venue too ([West](https://bcc2020.sched.com/overview/area/West%3A+Americas, [East](https://bcc2020.sched.com/overview/area/East%3A+Asia+%26+Australia)), or not &mdash; if you live somewhere in between
 2. Be aware that the East training schedule is not yet finalized.  If you are in the east, you should hold off until the end of April to register.
 
 

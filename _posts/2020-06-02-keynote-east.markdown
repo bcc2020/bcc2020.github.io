@@ -7,7 +7,7 @@ image: hero.jpg
 color: olive
 ---
 
-The 2020 Bioinformatics Community Conference is pleased to welcome a new keynote speaker to our excellent lineup. Dr. Suravajhala will be our live keynote for our <a href="https://bcc2020.sched.com/venue/East">East program</a>.
+The 2020 Bioinformatics Community Conference is pleased to welcome a new keynote speaker to our excellent lineup. Dr. Suravajhala will be our live keynote for our <a href="https://bcc2020.sched.com/overview/area/East%3A+Asia+%26+Australia">East program</a>.
 
 #### Prashanth N Suravajhala
 

@@ -11,7 +11,7 @@ Converting the 2020 Bioinformatics Community Conference from in-person to online
 
 We are pleased to announce that
 
-* **BCC2020 events will be held twice: once in their [original Toronto time zone](https://bcc2020.sched.com/venue/West) (BCC West), and again [12 hours later in the Eastern hemisphere](https://bcc2020.sched.com/venue/East) (BCC East).**
+* **BCC2020 events will be held twice: once in their [original Toronto time zone](https://bcc2020.sched.com/overview/area/West%3A+Americas) (BCC West), and again [12 hours later in the Eastern hemisphere](https://bcc2020.sched.com/overview/area/East%3A+Asia+%26+Australia) (BCC East).**
 * **[Registration rates](../Registration/) have been slashed to a fraction of their original cost, and now include a discount for students and researchers from the developing world.**
 
 *We hope these two changes will make BCC2020 accessible to the entire world.*  Here's the plan.
