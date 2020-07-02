@@ -4,6 +4,10 @@
     - {name: "AWS", description: "Amazon Web Services", link: "https://aws.amazon.com/", width: "20rem", imageUrl: "aws.png"}
     - {name: "SSI", description: "Software Sustainability Institute", link: "https://software.ac.uk/", width: "20rem", imageUrl: "ssi.png"}
 - 
+  group: "Closed Captioning Sponsor"
+  elements: 
+    - {name: "eLife", description: "eLife", link: "https://elifesciences.org/", width: "20rem", imageUrl: "elife.jpg"}
+- 
   group: "Silver Sponsors"
   elements: 
     - {name: "Broad Institute Data Sciences Program", description: "Broad Institute Data Sciences Program", link: "https://www.broadinstitute.org/data-sciences-platform", width: "20rem", imageUrl: "broad.png"}
