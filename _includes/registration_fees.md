@@ -11,6 +11,8 @@ Registration tiers are based on employment status and geographic location:
 
 Early registration discounts are available through July 10.
 
+**All registration ends on July 15.**
+
 **All fees are in US$.  Rates below include all fees.**
 
 <br />
@@ -23,7 +25,7 @@ Early registration discounts are available through July 10.
 Training registration is **per session**, not per day.
 Training will be held July 17-18 in the West, and July 18-19 in the East.
 
-| | Early (July 10) | Full (after July 10) |
+| | Early (ends July 10) | Full (ends July 15) |
 | ---: | ---: | ---: |
 | Student / Academic / Non-profit from [Low and Lower-Middle Income Countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) | $3 | $6 |
 | Student / Academic / Non-profit | $9 | $18 |
@@ -35,7 +37,7 @@ Training will be held July 17-18 in the West, and July 18-19 in the East.
 
 The BCC2020 Meeting will be held July 19-21 in the West, and July 20-22 in the East.  Registration covers all events over these 3 days.
 
-| | Early (July 10) | Full (after July 10) |
+| | Early (ends July 10) | Full (ends July 15) |
 | ---: | ---: | ---: |
 | Student / Academic / Non-profit from [Low and Lower-Middle Income Countries](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) | $12 | $24 |
 | Student / Academic / Non-profit | $36 | $72 |

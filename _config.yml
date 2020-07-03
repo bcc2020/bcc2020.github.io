@@ -73,6 +73,7 @@ keyDatesBlock:
   - {date: "May 8 2020", thing: "Abstract submission deadline"}
   - {date: "June 6 2020", thing: "Acceptance notifications sent to authors"}
   - {date: "July 10 2020", thing: "Early registration ends"}
+  - {date: "July 15 2020", thing: "Registration ends"}
   - {date: "July 17-19 2020", thing: "Training"}
   - {date: "July 19-22 2020", thing: "BCC main meeting"}
   - {date: "July 22-24 2020", thing: "CoFest: Core"}
