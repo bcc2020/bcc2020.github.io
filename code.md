@@ -34,6 +34,7 @@ Event organisers may take action to redress anything designed to, or with the cl
 
 We require participants to follow these rules at all event venues and event-related social activities. We expect people to follow these rules outside event activities too, including but not limited to Twitter under the official #BCC2020 hashtag and in conversation with the official OBF or Galaxy accounts. Please behave professionally.
 
+Your code of conduct duty officers are **Morgan Taschuk** and **Helen Van De Pol** and they can be contacted at any time with questions or reports. Please see below for methods of contact.
 
 ### Reporting
 
@@ -43,7 +44,7 @@ You can make a report either personally or anonymously.
 
 ### Anonymous Report
 
-You can make an anonymous report [here](https://bcc2020.wufoo.com/forms/qiby4280x0m67n) or fill out the form below.
+You can make an anonymous report [here](https://bcc2020.wufoo.com/forms/qiby4280x0m67n) or fill out the form below. This form goes _only_ to Morgan Taschuk and Helen Van De Pol
 
 <div id="wufoo-qiby4280x0m67n"> Fill out my <a href="https://bcc2020.wufoo.com/forms/qiby4280x0m67n">online form</a>. </div> <script type="text/javascript"> var qiby4280x0m67n; (function(d, t) { var s = d.createElement(t), options = { 'userName':'bcc2020', 'formHash':'qiby4280x0m67n', 'autoResize':true, 'height':'377', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { qiby4280x0m67n = new WufooForm(); qiby4280x0m67n.initialize(options); qiby4280x0m67n.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
 
@@ -51,10 +52,11 @@ We can't follow up an anonymous report with you directly, but we will fully inve
 
 ### Personal Report
 
-You can make a personal report by contacting any member of the organizing committee. See the [full list](https://bcc2020.github.io/about/) on the 'About' page. Several methods are listed below.
+You can make a personal report by contacting **Morgan Taschuk** or **Helen Van De Pol**. Several methods are listed below.
 
-* On Discord: Contact any member of the organizing committee directly. They can be identified by their 'Role'
-* By filling out the form [here](https://bcc2020.wufoo.com/forms/rbisal20k4lqsc/) or below
+* By email: send an email to <bcc2020-coc@lists.galaxyproject.org> . This address goes _only_ to Morgan Taschuk and Helen Van De Pol.
+* On Discord: Contact Morgan or Helen directly. Click on their usernames in the member list or in the chat window and use the field at the bottom to send a message to them.
+* By filling out the form [here](https://bcc2020.wufoo.com/forms/rbisal20k4lqsc/) or below. Again, the contents of this form are sent only to Morgan and Helen.
 
 <div id="wufoo-rbisal20k4lqsc"> Fill out my <a href="https://bcc2020.wufoo.com/forms/rbisal20k4lqsc">online form</a>. </div> <script type="text/javascript"> var rbisal20k4lqsc; (function(d, t) { var s = d.createElement(t), options = { 'userName':'bcc2020', 'formHash':'rbisal20k4lqsc', 'autoResize':true, 'height':'517', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { rbisal20k4lqsc = new WufooForm(); rbisal20k4lqsc.initialize(options); rbisal20k4lqsc.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
 
