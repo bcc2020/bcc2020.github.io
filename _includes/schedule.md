@@ -6,6 +6,17 @@
 
 **BCC2020 events will be held twice: once in North American Eastern Daylight Time (GMT-4) (BCC West), and again in Australian Eastern Standard Time (GMT+10) (BCC East).**  This includes training, the conference itself, and the [CollaborationFest](../cofest/).
 
+##### Technology
+
+We will be using two platforms to host the conference. For presentations and face to face networking, we are using [Remo.co](https://remo.co/remo-101/). This is a new service that has the look and feel of a conference center, with small discussion tables, a stage, and different chat capabilities. For text chatting and coordination, we will be using [Discord](https://discord.com/). Discord allows participants from both hemispheres to communicate asynchronously on specific topics.
+
+**To get familiar with Remo, check out [Remo 101](https://remo.co/remo-101/), and then join us on our [Open House](/blog/open-house).**
+
+**For a quick introduction to Discord, please see [Discord for BCC2020 Attendees](/discord/).**
+
+
+#### Schedule
+
 <div><button type="button" class="btn btn-info lead"><a href="https://bcc2020.sched.com/">Full Schedule</a></button></div>
 
 <br /> <br />

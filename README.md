@@ -63,3 +63,4 @@ Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/b
   - CoFest image by Marvin Meyer @marvelous
 - Keynote image by Andrew Seaman @amseaman
 - Code of Conduct image by Clay Banks @claybanks
+- BCC Remo post image by Samuel Pereira @samuelpereira
