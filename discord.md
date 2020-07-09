@@ -99,6 +99,8 @@ To reply to a specific message, hover over the message you want to reply to and 
 
 You can mention a specific person in the channel by typing @ and beginning to type their name. Discord will help you autocomplete this and will notify the person that you’ve mentioned them.
 
+"Pinned posts" are messages that the admins or organizing committee were important enough to keep handy. They are specific to a channel and can be found under the push pin icon 📌 at the top of the channel.
+
 
 #### Safer spaces
 
