@@ -30,9 +30,11 @@ CollaborationFest is free for all four days. You still need to [register](https:
 
 #### Preparing for CoFest
 
-1. [Contribute to the cluster ideas document, defining what we'd like to accomplish during CoFest](https://docs.google.com/document/d/1UctntMyOMOFlyxgvZPiWqgXz7R3FjPKnuBVMoNxl9Jc/edit?usp=sharing)
-2. [Introduce yourself and indicate your preferred working clusters](https://docs.google.com/spreadsheets/d/1AoSztstDDiJphefjnp7hvZByZKavyusIHzQO3-qAC7M/edit?usp=sharing)
-3. Ask questions on the [Bioinformatics Community Conference Zulip Chat](https://bcc.zulipchat.com/)
+1. [Introduce yourself and indicate your preferred working clusters](https://docs.google.com/spreadsheets/d/1AoSztstDDiJphefjnp7hvZByZKavyusIHzQO3-qAC7M/edit?usp=sharing)
+2. [Contribute to the cluster ideas document, defining what we'd like to accomplish during CoFest](https://docs.google.com/document/d/1UctntMyOMOFlyxgvZPiWqgXz7R3FjPKnuBVMoNxl9Jc/edit?usp=sharing). Clusters are how we break ourselves up into smaller manageable groups to get things done.
+3. Sign up for the [Bioinformatics Community Conference Discord Chat](https://bcc2020.github.io/discord/). `#cofest-home` is the our main channel and if you go to `#conference-desk` and register you'll get permissions to see all the other breakout rooms. Initial pre-CoFest discussion will happen here.
+4. Join the [CoFest Remo space](https://live.remo.co/e/bcc-cofest-2020) where we'll have real time video
+   conversations during CoFest.
 
 #### Code of Conduct
 
