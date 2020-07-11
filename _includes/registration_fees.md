@@ -9,11 +9,13 @@ Registration tiers are based on employment status and geographic location:
 * **Student / Academic / Non-profit**: Students, postdocs, faculty and staff at universities and non-profits.  
 * **Industry:** If you work in the for-profit world then you are industry. 
 
-Early registration discounts are available through July 10.
+Early registration discounts were available through July 10.
 
 **All registration ends on July 15.**
 
 **All fees are in US$.  Rates below include all fees.**
+
+**BCC2020 is using [Remo.co](https://remo.co/) as its virtual conference platform. See [here for OS/browser compatibility](https://help.remo.co/en/article/what-are-the-bandwidth-firewall-proxy-and-network-requirements-for-using-remo-14hgyvb/).**
 
 <br />
 <div class="text-center"><button type="button" class="btn btn-info lead"><a href="https://bcc2020-register.eventbrite.com">Register Now</a></button></div>
