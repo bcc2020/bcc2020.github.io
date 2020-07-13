@@ -859,12 +859,13 @@
   name: "Yo"
   surname: "Yehudi"
   title: ""
-  thumbnailUrl:
+  thumbnailUrl: yo-yehudi.jpg
   spc: "BOSC"
+  team: true
   ribbon:
     - {abbr: "Open Life Science", title: "Open Life Science"}
   social:
-  - {name: "site", link: ""}
+    - {name: "github", link: "https://github.com/yochannah/"}
 -
   id: 5
   name: "Denis"
