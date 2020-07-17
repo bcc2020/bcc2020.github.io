@@ -6,8 +6,6 @@ BCC2020 will be held in July 2020, online, and on both sides of the world. This 
 
 **Abstract submission closed May 8 2020. There will be no late breaking rounds.**
 
-<div><button type="button" class="btn btn-info lead"><a href="https://easychair.org/conferences/?conf=bcc2020">Submit an Abstract</a></button></div>
-<br /> <br />
 
 ##### Instructions
 
