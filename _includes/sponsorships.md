@@ -1,9 +1,9 @@
 <!--Important for markdown to render! Also make sure the page has a .md extension-->
 {% include content_block.html do="open" identifier="markdown" %} <div markdown="1">
 
-**BCC2020 is seeking sponsorships.** Sponsorships make registration affordable and this fact is stressed before and during the event. Conference organizers also stress that sponsors are potential collaborators that can help participants do their research.  This will be the 21st BOSC meeting, and the 11th Galaxy Community Conference, and is the second time the two have been co-located.  All BCC2020 events will be attended by members of both the Galaxy and BOSC communities.
+**BCC2020 is seeking sponsorships.** Sponsorships make registration affordable and this fact is stressed before and during the event. Conference organizers also stress that sponsors are potential collaborators that can help participants do their research.  This is the 21st BOSC meeting, and the 11th Galaxy Community Conference, and is the second time the two have been co-located.  All BCC2020 events are attended by members of both the Galaxy and BOSC communities.
 
-The move to an online event enables BCC2020 to be presented twice per day: one window is anchored in the event’s original Toronto time zone (BCC West), and the other starting 12 hours later on the other side of the world (BCC East). BCC2020 will be virtual, global and affordable, making this the largest and most inclusive BOSC and Galaxy event to date.  Sponsoring the Bioinformatics Community Conference is an excellent way to raise your organization's visibility, and will help make BCC2020 a success.
+The move to an online event enables BCC2020 to be presented twice per day: one window is anchored in the event’s original Toronto time zone (BCC West), and the other starting 12 hours later on the other side of the world (BCC East). BCC2020 are virtual, global and affordable, making this the largest and most inclusive BOSC and Galaxy event to date.  Sponsoring the Bioinformatics Community Conference is an excellent way to raise your organization's visibility, and will help make BCC2020 a success.
 
 BCC2020 participants come from a wide variety of research environments and backgrounds:
 
