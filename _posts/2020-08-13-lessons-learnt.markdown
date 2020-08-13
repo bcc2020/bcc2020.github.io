@@ -74,7 +74,7 @@ Some aspects that didn’t work so well in Remo:
 
 #### The Remo Experience
 
-Judging by the feedback that was collected after the conference, the overall reaction to Remo was extremely positive - 40% even said that it was the best aspect of the conference. Very few had experienced the platform beforehand, so it was a learning curve for most, but did not seem to challenge most participants.
+Judging by the feedback that was collected after the conference, the overall reaction to Remo was extremely positive - 40% even said that it was the best aspect of the conference (Figure 3). Very few had experienced the platform beforehand, so it was a learning curve for most, but did not seem to challenge most participants.
 
 Even though we could not transport participants to Toronto, Remo felt a bit like entering a conference venue. The table view allowed attendees to move around and mingle before and after sessions as well as during breaks. It provided opportunities to bump into old friends, make new acquaintances and suddenly find yourself in conversations relevant to your areas of interest. The birds-eye view of the tables and their occupants allowed one to actively seek out busy tables, similar to wandering through a real venue during coffee breaks. It is possible that this social aspect provided by Remo led to the high retention rate: throughout the three days of talks the number of attendees dropped off only slightly.
 
@@ -93,7 +93,7 @@ The conference schedule included live Q&A sessions after sets of four to eight t
 
 #### Poster sessions
 
-The poster sessions turned out well, perhaps even better than in person as you could actually have a conversation without too much background noise. Posters were presented in a dedicated ‘Poster building’ in Remo, with each presenter assigned a table, where they could attach multimedia materials in advance to a dedicated “whiteboard” and chat interactively with visitors. This building was available for the entire duration of the conference. The displays included anything from a downloadable PDF to videos, interactive slides, sticky notes, images, hyperlinks and more.
+The poster sessions turned out well, perhaps even better than in person as you could actually have a conversation without too much background noise. Posters were presented in a dedicated ‘Poster building’ in Remo, with each presenter assigned a table, where they could attach multimedia materials in advance to a dedicated “whiteboard” and chat interactively with visitors. This building was available for the entire duration of the conference. The displays included anything from a downloadable PDF to videos, interactive slides, sticky notes, images, hyperlinks and more (Figure 4).
 
 &nbsp;
 
