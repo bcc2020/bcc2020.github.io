@@ -6,7 +6,7 @@ isStaticPost: true
 image: conference.jpg
 ---
 
-Going to a conference - don’t you love it? It might take you to an interesting place to visit, allow you to meet colleagues of old, establish new connections and spontaneously run into relevant conversations. Being away from home and work enables full immersion into the conference programme, with the expectation that you are unavailable for anything else. You are sure to return home brimming with new ideas and connections.
+Going to a conference - don’t you love it?! It might take you to an interesting place to visit, allow you to meet colleagues of old, establish new connections and spontaneously run into relevant conversations. Being away from home and work enables full immersion into the conference programme, with the expectation that you are unavailable for anything else. You are sure to return home brimming with new ideas and connections.
 
 This was the scenario we had in mind for attendees of BCC2020, the first Bioinformatics Community Conference, to be held in Toronto, July 17-24. It was the second time BOSC and GCC joined forces; the first was GCCBOSC 2018 in Portland.
 
@@ -113,12 +113,6 @@ On-the-ground support required more work than for an in-person meeting. Most of 
 Even though we kept the virtual conference days shorter than in an in-person meeting (five hours vs eight or nine), screen fatigue kicked in eventually and there was limited interest in social gatherings after the sessions. Group socializing was also hampered by the different time zones attendees were located in. And, most importantly, not everyone was able to shield themselves from the new normal life continuing around them, which could have meant family members to look after, chores to run, etc. All of these factors would have been in play at any virtual meeting, of course, regardless of the technology used to run it.
 
 
-<div style="border:1px; border-color:black; border-margin:10px;">
-<img src="../img/posts/worst-parts.png" alt="Exit survey results about worst parts of BCC2020" width="100%"/>
-
-<b>Figure 5</b>: Exit survey opinion on the worst/not worth it parts of BCC. Of 78 respondents, 65.4% of people had no complaints.</div>
-
-
 #### Tips for organizing an online conference in Remo and Discord
 
 For those interested in organising their own conference here are a few tips we have learnt:
@@ -166,7 +160,7 @@ It is hard for virtual conferences to compete with in-person meetings. Some aspe
 <div style="border:1px; border-color:black; border-margin:10px;">
 <img src="../img/posts/remo-qn.png" alt="Exit survey results about attendee opinion on Remo" width="100%"/>
 
-<b>Figure 6</b>: Exit survey opinion on the Remo platform. Of 111 respondents, 83.7% gave Remo a 4 or 5 out of 5, and nobody ranked it a 1/5.</div>
+<b>Figure 5</b>: Exit survey opinion on the Remo platform. Of 111 respondents, 83.7% gave Remo a 4 or 5 out of 5, and nobody ranked it a 1/5.</div>
 
 &nbsp;
 
