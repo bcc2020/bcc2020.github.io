@@ -8,7 +8,7 @@ image: conference.jpg
 
 Going to a conference - don’t you love it?! It might take you to an interesting place to visit, allow you to meet colleagues of old, establish new connections and spontaneously run into relevant conversations. Being away from home and work enables full immersion into the conference programme, with the expectation that you are unavailable for anything else. You are sure to return home brimming with new ideas and connections.
 
-This was the scenario we had in mind for attendees of BCC2020, the first Bioinformatics Community Conference, to be held in Toronto, July 17-24. It was the second time BOSC and GCC joined forces; the first was GCCBOSC 2018 in Portland.
+This was the scenario we had in mind for attendees of [BCC2020](http://bcc2020.github.io/), the first Bioinformatics Community Conference, which we had planned to hold in Toronto, July 17-24. It was the second time BOSC and GCC joined forces; the first was GCCBOSC 2018 in Portland.
 
 Preparations for BCC2020 in Toronto were starting to ramp up early in the year. Then COVID-19 struck, and everything changed. On March 19th the decision was made to go virtual.
 
