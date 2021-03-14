@@ -118,10 +118,9 @@ footerBlocks:
    - {link: "https://galaxyproject.org/", text: "Galaxy Community Hub"}
    - {link: "https://gccbosc2018.sched.com/", text: "GCCBOSC 2018"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
-   - {link: "mailto:bcc2020-org@lists.galaxyproject.org", text: "Email organizers"}
-   - {link: "https://lists.galaxyproject.org/lists/bcc2020-interest.lists.galaxyproject.org/", text: "Sign up to get announcements"}
+   - {link: "mailto:bcc2020-org@@lists.galaxyproject.org", text: "Email organizers"}
  -
   title: "FAQ"
   links:
