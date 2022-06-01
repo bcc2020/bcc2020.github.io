@@ -334,18 +334,6 @@
     - {name: "twitter", link: "https://twitter.com/michael_l_heuer"}
     - {name: "github", link: "https://github.com/heuermh"}
 -
-  id: 6
-  name: "Mo"
-  surname: "Heydarian"
-  title: ""
-  thumbnailUrl: mo-heydarian.jpg
-  team: true
-  #subTeam: true
-  social:
-    - {name: "site", link: "http://galaxyproject.org/people/mo-heydarian/"}
-    - {name: "twitter", link: "https://twitter.com/MoHeydarian"}
-    - {name: "github", link: "https://github.com/MoHeydarian"}
--
   id: 29
   name: "Jennifer"
   surname: "Hillman-Jackson"
